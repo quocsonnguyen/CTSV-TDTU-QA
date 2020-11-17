@@ -1,0 +1,2535 @@
+{
+    "version": "v1.1",
+    "data": [
+        {
+            "title": "Chính sách học bổng",
+            "paragraphs": [
+                {
+                    "context": "Học bổng miễn, giảm học phí bậc đại học: Sinh viên thuộc diện chính sách được quy định tại Nghị định số 86/2015/NĐ CP như con của Anh hùng Lực lượng vũ trang nhân dân; con của Anh hùng Lao động trong thời kỳ kháng chiến; con của liệt sỹ; con của thương binh; con của người hưởng chính sách như thương binh; con của bệnh binh; con của người hoạt động kháng chiến bị nhiễm chất độc hóa học; sinh viên bị tàn tật, khuyết tật thuộc diện hộ nghèo hoặc hộ cận nghèo; sinh viên là người dân tộc thiểu số thuộc hộ nghèo hoặc hộ cận nghèo;… được hưởng chế độ miễn, giảm học phí theo Nghị định hiện hành.",
+                    "qas": [
+                        {
+                            "question": "Đối tượng nhận học bổng miễn giảm học phí bậc đại học",
+                            "id": "b9dd9462-5ec2-413e-8222-f0f427e25d7f",
+                            "answers": [
+                                {
+                                    "answer_start": 41,
+                                    "text": "Sinh viên thuộc diện chính sách được quy định tại Nghị định số 86/2015/NĐ CP như con của Anh hùng Lực lượng vũ trang nhân dân; con của Anh hùng Lao động trong thời kỳ kháng chiến; con của liệt sỹ; con của thương binh; con của người hưởng chính sách như thương binh; con của bệnh binh; con của người hoạt động kháng chiến bị nhiễm chất độc hóa học; sinh viên bị tàn tật, khuyết tật thuộc diện hộ nghèo hoặc hộ cận nghèo; sinh viên là người dân tộc thiểu số thuộc hộ nghèo hoặc hộ cận nghèo"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Học bổng hỗ trợ phần chênh lệch học phí bậc đại học: Sinh viên diện chính sách, hộ nghèo được qui định theo Nghị định 86/2015/NĐ CP, phần học phí chênh lệch giữa mức học phí của Nhà trường với mức học phí được miễn  giảm của Nhà nước, sẽ được Nhà trường hỗ trợ khi không vi phạm pháp luật; Nội qui, qui định của Nhà trường và thỏa các điều kiện về học tập, rèn luyện.",
+                    "qas": [
+                        {
+                            "question": "Đối tượng nhận học bổng hỗ trợ phần chênh lệch học phí bậc đại học",
+                            "id": "79608ed9-50ea-4702-9e5d-161b5619cb2d",
+                            "answers": [
+                                {
+                                    "answer_start": 53,
+                                    "text": "Sinh viên diện chính sách, hộ nghèo được qui định theo Nghị định 86/2015/NĐ CP"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Điều kiện nhận học bổng hỗ trợ phần chênh lệch học phí bậc đại học",
+                            "id": "ad205686-06a8-4734-b4fe-562cbc2a07a2",
+                            "answers": [
+                                {
+                                    "answer_start": 265,
+                                    "text": "không vi phạm pháp luật; Nội qui, qui định của Nhà trường và thỏa các điều kiện về học tập, rèn luyện"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Học bổng hỗ trợ chi phí học tập: Sinh viên là người dân tộc thiểu số thuộc hộ nghèo, hộ cận nghèo theo qui định của Nhà nước được hỗ trợ chi phí học tập theo Quyết định hiện hành.",
+                    "qas": [
+                        {
+                            "question": "Đối tượng nhận học bổng hỗ trợ chi phí học tập",
+                            "id": "8477257a-3265-479f-ba79-ae8d3b081a01",
+                            "answers": [
+                                {
+                                    "answer_start": 33,
+                                    "text": "Sinh viên là người dân tộc thiểu số thuộc hộ nghèo, hộ cận nghèo theo qui định của Nhà nước"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Nhà trường xây dựng chính sách học bổng đa dạng, bao gồm: Học bổng thủ khoa đầu vào; Học bổng dành cho tân sinh viên xuất sắc; Học bổng dành cho tân sinh viên đạt giải Nhất cuộc thi khoa học kỹ thuật cấp quốc gia; Học bổng khuyến khích học tập, rèn luyện; Học bổng sinh viên ở nội trú Ký túc xá; Học bổng cho sinh viên có hoàn cảnh khó khăn",
+                    "qas": [
+                        {
+                            "question": "Trường có các loại học bổng nào",
+                            "id": "cbaa19b4-b97b-47f7-8571-935977b2bdb0",
+                            "answers": [
+                                {
+                                    "answer_start": 58,
+                                    "text": "Học bổng thủ khoa đầu vào; Học bổng dành cho tân sinh viên xuất sắc; Học bổng dành cho tân sinh viên đạt giải Nhất cuộc thi khoa học kỹ thuật cấp quốc gia; Học bổng khuyến khích học tập, rèn luyện; Học bổng sinh viên ở nội trú Ký túc xá; Học bổng cho sinh viên có hoàn cảnh khó khăn"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Học bổng sinh viên nghèo vượt khó: Những sinh viên thuộc hộ nghèo, hộ cận nghèo theo qui định của Nhà nước; sinh viên mồ côi; sinh viên có hoàn cảnh đặc biệt khó khăn;",
+                    "qas": [
+                        {
+                            "question": "Đối tượng nhận học bổng sinh viên nghèo vượt khó",
+                            "id": "d6706b1b-c72c-4c46-9a7b-edf0ccb3c7a8",
+                            "answers": [
+                                {
+                                    "answer_start": 41,
+                                    "text": "sinh viên thuộc hộ nghèo, hộ cận nghèo theo qui định của Nhà nước; sinh viên mồ côi; sinh viên có hoàn cảnh đặc biệt khó khăn"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Khen thưởng: Những sinh viên đạt kết quả cao trong các cuộc thi về kỹ năng (ngoại ngữ, tin học,… ), về chuyên môn, về nghiên cứu khoa học, về các hoạt động văn thể mỹ.",
+                    "qas": [
+                        {
+                            "question": "Đối tượng được nhận khen thưởng từ nhà trường",
+                            "id": "30fe3936-9229-48a8-b892-34e6579be6f2",
+                            "answers": [
+                                {
+                                    "answer_start": 16,
+                                    "text": "Những sinh viên đạt kết quả cao trong các cuộc thi về kỹ năng (ngoại ngữ, tin học,… ), về chuyên môn, về nghiên cứu khoa học, về các hoạt động văn thể mỹ"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Từ năm học 2017 2018 đến nay (tháng 12/2019), Nhà trường đã cấp học bổng hơn 16 tỷ đồng và thực hiện chế độ miễn giảm học phí, hỗ trợ chi phí học tập cho các đối tượng chính sách trên 8 tỷ đồng dành cho bậc đại học.",
+                    "qas": [
+                        {
+                            "question": "Nhà trường đã cấp bao nhiêu tiền học bổng",
+                            "id": "0cb13fed-bf96-4c44-9748-a69e21d117b9",
+                            "answers": [
+                                {
+                                    "answer_start": 73,
+                                    "text": "hơn 16 tỷ đồng"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Nhà trường đã tốn bao nhiêu tiền hỗ trợ chi phí học tập ",
+                            "id": "160bd4e6-332f-4f77-9c77-6a8f9f61ebcb",
+                            "answers": [
+                                {
+                                    "answer_start": 184,
+                                    "text": "8 tỷ đồng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Phòng công tác học sinh sinh viên",
+            "paragraphs": [
+                {
+                    "context": "Chức năng: Tham mưu cho Ban Giám hiệu trong việc quyết định những chính sách, chủ trương về công tác giáo dục chính trị, tư tưởng; công tác tổ chức sự kiện, văn hoá, văn nghệ, thể dục thể thao; xây dựng, quản lý cơ sở dữ liệu, chế độ chính sách cho sinh viên; công tác thanh niên. Quản lý học viên cao học theo nội dung được quy định Tổ chức thực hiện công tác giáo dục đạo đức sinh viên theo Chương trình giáo dục 3 nội dung đạo đức; học tập tốt để báo hiếu cho cha mẹ; tinh thần kỷ luật, nề nếp; tinh thần vì tập thể vì cộng đồng. Tham mưu cho Ban giám hiệu các hoạt động đào tạo kỹ năng; Hoạt động kết nối với các Trường THPT thân hữu.",
+                    "qas": [
+                        {
+                            "question": "Chức năng của phòng công tác học sinh sinh viên",
+                            "id": "47601a94-234c-4242-ab79-469e938c8996",
+                            "answers": [
+                                {
+                                    "answer_start": 11,
+                                    "text": "Tham mưu cho Ban Giám hiệu trong việc quyết định những chính sách, chủ trương về công tác giáo dục chính trị, tư tưởng; công tác tổ chức sự kiện, văn hoá, văn nghệ, thể dục thể thao; xây dựng, quản lý cơ sở dữ liệu, chế độ chính sách cho sinh viên; công tác thanh niên. Quản lý học viên cao học theo nội dung được quy định Tổ chức thực hiện công tác giáo dục đạo đức sinh viên theo Chương trình giáo dục 3 nội dung đạo đức; học tập tốt để báo hiếu cho cha mẹ; tinh thần kỷ luật, nề nếp; tinh thần vì tập thể vì cộng đồng. Tham mưu cho Ban giám hiệu các hoạt động đào tạo kỹ năng; Hoạt động kết nối với các Trường THPT thân hữu"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Nhiệm vụ: Công tác giáo dục chính trị, tư tưởng; giáo dục đạo đức cho sinh viên theo Chương trình giáo dục 3 nội dung đạo đức. Công tác tổ chức sự kiện, văn hoá, văn nghệ, thể dục thể thao. Xây dựng, quản lý cơ sở dữ liệu, công tác đánh giá kết quả rèn luyện và chế độ chính sách cho sinh viên; Nhiệm vụ về công tác thanh niên; Quản lý học viên cao học; Công tác tổ chức đào tạo những kỹ năng thiết yếu cho sự phát triển bền vững cho sinh viên; Công tác kết nối các Trường THPT thân hữu",
+                    "qas": [
+                        {
+                            "question": "Nhiệm vụ của phòng công tác học sinh sinh viên",
+                            "id": "b9720852-983f-450f-9769-ea527bb7ffa0",
+                            "answers": [
+                                {
+                                    "answer_start": 10,
+                                    "text": "Công tác giáo dục chính trị, tư tưởng; giáo dục đạo đức cho sinh viên theo Chương trình giáo dục 3 nội dung đạo đức. Công tác tổ chức sự kiện, văn hoá, văn nghệ, thể dục thể thao. Xây dựng, quản lý cơ sở dữ liệu, công tác đánh giá kết quả rèn luyện và chế độ chính sách cho sinh viên; Nhiệm vụ về công tác thanh niên; Quản lý học viên cao học; Công tác tổ chức đào tạo những kỹ năng thiết yếu cho sự phát triển bền vững cho sinh viên; Công tác kết nối các Trường THPT thân hữu"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Đội ngũ nhân sự: Ông Nguyễn Văn Bắc là Trưởng phòng. Bà Đặng Thị Kim Ánh là Phó Trưởng phòng. Ông Nguyễn Thành Nhân là Bí thư Đoàn trường, Trợ lý Trưởng phòng. Viên chức: Bà Nguyễn Thị Phương Chi, Ông Lê Quốc Bảo, Ông Vũ Ngọc Hải, Ông Lê Hữu Đức, Bà Trần Nguyễn Hiền Anh, Bà Nguyễn Ngọc Phương Uyên",
+                    "qas": [
+                        {
+                            "question": "Đội ngũ nhân sự của phòng công tác học sinh sinh viên",
+                            "id": "58f491d0-24e1-419f-b62d-041a65b15052",
+                            "answers": [
+                                {
+                                    "answer_start": 17,
+                                    "text": "Ông Nguyễn Văn Bắc là Trưởng phòng. Bà Đặng Thị Kim Ánh là Phó Trưởng phòng. Ông Nguyễn Thành Nhân là Bí thư Đoàn trường, Trợ lý Trưởng phòng. Viên chức: Bà Nguyễn Thị Phương Chi, Ông Lê Quốc Bảo, Ông Vũ Ngọc Hải, Ông Lê Hữu Đức, Bà Trần Nguyễn Hiền Anh, Bà Nguyễn Ngọc Phương Uyên"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Ai là trưởng phòng công tác học sinh sinh viên",
+                            "id": "8c2da6a4-1bae-4194-a319-ff6050891f78",
+                            "answers": [
+                                {
+                                    "answer_start": 17,
+                                    "text": "Ông Nguyễn Văn Bắc"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Ai là phó trưởng phòng công tác học sinh sinh viên",
+                            "id": "72dee25d-3db2-48af-a129-5e64f8b43fd2",
+                            "answers": [
+                                {
+                                    "answer_start": 53,
+                                    "text": "Bà Đặng Thị Kim Ánh"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Ai là bí thư đoàn trường",
+                            "id": "f5c29e15-ece7-403f-8cab-711da9009182",
+                            "answers": [
+                                {
+                                    "answer_start": 94,
+                                    "text": "Ông Nguyễn Thành Nhân"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Đội ngũ viên chức của phòng công tác học sinh sinh viên",
+                            "id": "e6c9fa02-b5ea-4da5-b50c-63a66511db39",
+                            "answers": [
+                                {
+                                    "answer_start": 171,
+                                    "text": "Bà Nguyễn Thị Phương Chi, Ông Lê Quốc Bảo, Ông Vũ Ngọc Hải, Ông Lê Hữu Đức, Bà Trần Nguyễn Hiền Anh, Bà Nguyễn Ngọc Phương Uyên"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Ai là trợ lý trưởng phòng của phòng công tác học sinh sinh viên",
+                            "id": "a67fc05c-232a-474e-9e41-d147a85213a5",
+                            "answers": [
+                                {
+                                    "answer_start": 94,
+                                    "text": "Ông Nguyễn Thành Nhân"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Thông tin liên hệ: Phòng A003 (nhà A); Email: phongctct-hssv@tdtu.edu.vn; Website: student.tdtu.edu.vn; Điện thoại: (028) 3 77 55 054",
+                    "qas": [
+                        {
+                            "question": "Thông tin liên hệ của phòng công tác học sinh sinh viên",
+                            "id": "4fff4939-c9e8-4e92-bf54-fbb02424bb75",
+                            "answers": [
+                                {
+                                    "answer_start": 19,
+                                    "text": "Phòng A003 (nhà A); Email: phongctct-hssv@tdtu.edu.vn; Website: student.tdtu.edu.vn; Điện thoại: (028) 3 77 55 054"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Phòng công tác học sinh sinh viên ở đâu ",
+                            "id": "26ece930-f762-49f3-88cb-a4424b500ca2",
+                            "answers": [
+                                {
+                                    "answer_start": 19,
+                                    "text": "Phòng A003 (nhà A)"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Website của phòng công tác học sinh sinh viên là gì",
+                            "id": "2e7621d3-967c-4f30-9037-8c8ea6fc4839",
+                            "answers": [
+                                {
+                                    "answer_start": 83,
+                                    "text": "student.tdtu.edu.vn"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Email của phòng công tác học sinh sinh viên là gì",
+                            "id": "e6e3788b-6a8b-4757-97c1-f8a4ba0afe3b",
+                            "answers": [
+                                {
+                                    "answer_start": 46,
+                                    "text": "phongctct-hssv@tdtu.edu.vn"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Số điện thoại của phòng công tác học sinh sinh viên là gì",
+                            "id": "3435eb8c-84bd-46dd-adab-4791eb50d95b",
+                            "answers": [
+                                {
+                                    "answer_start": 116,
+                                    "text": "(028) 3 77 55 054"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Nhiệm vụ thực hiện 3 nội dung đạo đức",
+            "paragraphs": [
+                {
+                    "context": "Giảng viên, viên chức nhà trường trong mọi thời điểm, có nhiệm vụ giáo dục sinh viên, học sinh thực hiện đúng nội dung của Chương trình giáo dục 3 nội dung đạo đức",
+                    "qas": [
+                        {
+                            "question": "Ai có nhiệm vụ giáo dục sinh viên, học sinh thực hiện đúng 3 nội dung đạo đức",
+                            "id": "f343c148-9da2-4360-8556-61ca073fd123",
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Giảng viên, viên chức nhà trường"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Giảng viên, viên chức nhà trường có nhiệm vụ gì trong việc giáo dục sinh viên 3 nội dung đạo đức",
+                            "id": "65e73897-1281-4e14-a065-a59b70acf77a",
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Giảng viên, viên chức nhà trường trong mọi thời điểm, có nhiệm vụ giáo dục sinh viên, học sinh thực hiện đúng nội dung của Chương trình giáo dục 3 nội dung đạo đức"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Nội dung đạo đức nhứ nhất: Sinh viên, học sinh cần nhận thức, hiểu rằng học tập tốt là nhiệm vụ, là lương tâm của người học; Phải liên tục phần đầu, nổ lực học trong mọi hoàn cảnh; Thực hiện đúng, hiệu quả cao những yêu cầu của thày cô về chuyên môn; Hoàn thành kế hoạch học tập theo qui định; Luôn tích cực chủ động tự học, tự rèn luyện để đạt kết quả học tập với đa số điểm từ mức khá trở lên",
+                    "qas": [
+                        {
+                            "question": "Nội dung thứ nhất của 3 nội dung đạo đức",
+                            "id": "f335a783-d317-4390-91ae-d618d85f34e4",
+                            "answers": [
+                                {
+                                    "answer_start": 27,
+                                    "text": "Sinh viên, học sinh cần nhận thức, hiểu rằng học tập tốt là nhiệm vụ, là lương tâm của người học; Phải liên tục phần đầu, nổ lực học trong mọi hoàn cảnh; Thực hiện đúng, hiệu quả cao những yêu cầu của thày cô về chuyên môn; Hoàn thành kế hoạch học tập theo qui định; Luôn tích cực chủ động tự học, tự rèn luyện để đạt kết quả học tập với đa số điểm từ mức khá trở lên"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Nội dung đạo đức nhứ hai: Sinh viên, học sinh phải tập thói quen sống kỷ luật, nề nếp; Tại trường: tuân thù kỷ cương, chấp hành mọi qui định, qui chế của nhà trường một cách tự giác là chủ động; Ngoài trường: là người tôn trọng pháp luật, thực hiện đúng các qui định của pháp luật.",
+                    "qas": [
+                        {
+                            "question": "Nội dung thứ hai của 3 nội dung đạo đức",
+                            "id": "6add6fcc-38c8-4931-9f36-e8bc3d2dbcd4",
+                            "answers": [
+                                {
+                                    "answer_start": 26,
+                                    "text": "Sinh viên, học sinh phải tập thói quen sống kỷ luật, nề nếp; Tại trường: tuân thù kỷ cương, chấp hành mọi qui định, qui chế của nhà trường một cách tự giác là chủ động; Ngoài trường: là người tôn trọng pháp luật, thực hiện đúng các qui định của pháp luật"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Nội dung đạo đức nhứ ba: Sinh viên, học sinh phải có tinh thần vì tập thể, đặt quyền lợi của số đông, của lớp, của trường trên lợi ích cá nhân mình; Sinh viên, học sinh phải biết giữ uy tin cho lớp, cho trường; phải rèn luyện thói quen coi trọng tập thể lớp, trường và sau này là cơ quan làm việc. Nghiêm cấm mọi hành vi gây phương hại đến uy tin của tập thể lớp, trường xuất phát từ động cơ hoặc lợi ích cá nhân.",
+                    "qas": [
+                        {
+                            "question": "Nội dung thứ ba của 3 nội dung đạo đức",
+                            "id": "4f2c6e80-6426-472f-a960-8124d0130d64",
+                            "answers": [
+                                {
+                                    "answer_start": 25,
+                                    "text": "Sinh viên, học sinh phải có tinh thần vì tập thể, đặt quyền lợi của số đông, của lớp, của trường trên lợi ích cá nhân mình; Sinh viên, học sinh phải biết giữ uy tin cho lớp, cho trường; phải rèn luyện thói quen coi trọng tập thể lớp, trường và sau này là cơ quan làm việc. Nghiêm cấm mọi hành vi gây phương hại đến uy tin của tập thể lớp, trường xuất phát từ động cơ hoặc lợi ích cá nhân"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Slogan, mascot, đặc điểm nhận diện sinh viên TDTU",
+            "paragraphs": [
+                {
+                    "context": "Slogan: Từ nơi đây, ánh sáng sẽ chiếu đến khắp nơi trong vũ trụ",
+                    "qas": [
+                        {
+                            "question": "Slogan của TDTU",
+                            "id": "3b993433-8570-44a1-8d8d-f72412a85b56",
+                            "answers": [
+                                {
+                                    "answer_start": 8,
+                                    "text": "Từ nơi đây, ánh sáng sẽ chiếu đến khắp nơi trong vũ trụ"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Mascot: Họ mèo thông thái",
+                    "qas": [
+                        {
+                            "question": "Mascot của TDTU",
+                            "id": "b8da648f-df1d-4d1d-b73e-bbc2505d17d1",
+                            "answers": [
+                                {
+                                    "answer_start": 8,
+                                    "text": "Họ mèo thông thái"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Đặc điểm nhận diện sinh viên TDTU: Kỷ luật, Lễ phép, Chuyên nghiệp, Sáng tạo, Phụng sự",
+                    "qas": [
+                        {
+                            "question": "Đặc điểm nhận diện sinh viên TDTU",
+                            "id": "789f0216-695a-4f89-978c-ad0e1123b592",
+                            "answers": [
+                                {
+                                    "answer_start": 35,
+                                    "text": "Kỷ luật, Lễ phép, Chuyên nghiệp, Sáng tạo, Phụng sự"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Những điều sinh viên không được làm. Nội dung vi phạm và hình thức xử lí",
+            "paragraphs": [
+                {
+                    "context": "Vô lễ, xúc phạm danh dự, nhân phẩm, xâm phạm thân thể thầy cô giáo, cán bộ viên chức nhà trường: Tuỳ theo mức độ, xử lí từ khiển trách đến buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên vô lễ, xúc phạm danh dự, nhân phẩm, xâm phạm thân thể thầy cô giáo, cán bộ viên chức nhà trường",
+                            "id": "0e50398e-2cb2-4019-9fa4-fb9a64236a87",
+                            "answers": [
+                                {
+                                    "answer_start": 97,
+                                    "text": "Tuỳ theo mức độ, xử lí từ khiển trách đến buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Sinh viên vô lễ, xúc phạm danh dự, nhân phẩm, xâm phạm thân thể thầy cô giáo, cán bộ viên chức nhà trường sẽ bị xử lí như thế nào",
+                            "id": "dc3c25b2-a317-4ae6-96fe-b82cee5f8f1a",
+                            "answers": [
+                                {
+                                    "answer_start": 97,
+                                    "text": "Tuỳ theo mức độ, xử lí từ khiển trách đến buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Không chào hỏi người lớn trong trường: lần 1 - Nghiêm khắc phê bình, lần 2 - Khiển trách, lần 3 - Cảnh cáo, lần 4 - cảnh cáo lần 2, lần 5 - Đình chỉ có thời hạn, lần 6 - buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên không chào hỏi người lớn trong trường",
+                            "id": "3cf65ecd-d4f0-4fd9-8d1a-14ca90b719ed",
+                            "answers": [
+                                {
+                                    "answer_start": 39,
+                                    "text": "lần 1 - Nghiêm khắc phê bình, lần 2 - Khiển trách, lần 3 - Cảnh cáo, lần 4 - cảnh cáo lần 2, lần 5 - Đình chỉ có thời hạn, lần 6 - buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Sinh viên không chào hỏi người lớn trong trường sẽ bị xử lí như thế nào",
+                            "id": "23391fb7-8cb2-4b93-a04c-3fef951f6ce8",
+                            "answers": [
+                                {
+                                    "answer_start": 39,
+                                    "text": "lần 1 - Nghiêm khắc phê bình, lần 2 - Khiển trách, lần 3 - Cảnh cáo, lần 4 - cảnh cáo lần 2, lần 5 - Đình chỉ có thời hạn, lần 6 - buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Tặng quà, tiền, phẩm cho giảng viên, viên chức: Tuỳ theo mức độ, xử lí từ đình chỉ học có thời hạn đến buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên tặng quà, tiền, phẩm cho giảng viên, viên chức",
+                            "id": "701ba543-fb6e-477d-ba6a-3e4c697fa4f3",
+                            "answers": [
+                                {
+                                    "answer_start": 48,
+                                    "text": "Tuỳ theo mức độ, xử lí từ đình chỉ học có thời hạn đến buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Sinh viên tặng quà, tiền, phẩm cho giảng viên, viên chức sẽ bị xử lí như thế nào",
+                            "id": "8e6b68fc-166d-46cc-991b-63005446466f",
+                            "answers": [
+                                {
+                                    "answer_start": 48,
+                                    "text": "Tuỳ theo mức độ, xử lí từ đình chỉ học có thời hạn đến buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Sử dụng internet vào mạng xã hội để viết những điều không đúng hoặc nội dung xuyên tạc gây ảnh hướng đến nhà trường, thầy cô mà không có căn cứ, minh chứng rõ ràng hoặc có minh chứng những sử dụng từ ngữ vô lễ, không đúng mực về nhà trường, thầy cô: từ mức độ, xử lí từ đình chỉ học có thời hạn đến buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên vào mạng xã hội viết những điều không đúng về nhà trường ?",
+                            "id": "603247a4-0d96-453d-ba6a-f12aaba1b259",
+                            "answers": [
+                                {
+                                    "answer_start": 250,
+                                    "text": "từ mức độ, xử lí từ đình chỉ học có thời hạn đến buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên vào mạng xã hội viết nội dung xuyên tạc nhà trường ?",
+                            "id": "99f3e7d6-182c-4528-ba5d-40550a576d80",
+                            "answers": [
+                                {
+                                    "answer_start": 250,
+                                    "text": "từ mức độ, xử lí từ đình chỉ học có thời hạn đến buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên vào mạng xã hội viết những điều không đúng về thầy cô mà không có căn cứ ?",
+                            "id": "6f78c114-3bfc-4452-82fb-c27b6741eff6",
+                            "answers": [
+                                {
+                                    "answer_start": 250,
+                                    "text": "từ mức độ, xử lí từ đình chỉ học có thời hạn đến buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên vào mạng xã hội sử dụng từ ngữ vô lễ với thầy cô ?",
+                            "id": "d29772fa-b3a4-4fa3-ab86-556ae840375d",
+                            "answers": [
+                                {
+                                    "answer_start": 250,
+                                    "text": "từ mức độ, xử lí từ đình chỉ học có thời hạn đến buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Đưa hình ảnh phản cảm lên mạng xã hội làm ảnh hưởng đến uy tín và hình ảnh nhà trường: lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học tập có thời hạn, lần 4 - buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên đưa hình ảnh phản cảm lên mạng xã hội gây ảnh hưởng nhà trường ?",
+                            "id": "b993979f-3fcf-451a-adb3-8c31b707f522",
+                            "answers": [
+                                {
+                                    "answer_start": 87,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học tập có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí cho sinh viên đưa hình ảnh phản cảm lên mạng xã hội lần 1 ?",
+                            "id": "ee609651-05c5-4207-84e5-6e503a618af7",
+                            "answers": [
+                                {
+                                    "answer_start": 87,
+                                    "text": "lần 1 - cảnh cáo"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí cho sinh viên đưa hình ảnh phản cảm lên mạng xã hội lần 2 ?",
+                            "id": "d2745962-8267-4ac7-ba4f-496562016c95",
+                            "answers": [
+                                {
+                                    "answer_start": 105,
+                                    "text": "lần 2 - cảnh cáo lần 2"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí cho sinh viên đưa hình ảnh phản cảm lên mạng xã hội lần 3 ?",
+                            "id": "ea2d0e4d-fc31-4d84-8747-409cc6436a2d",
+                            "answers": [
+                                {
+                                    "answer_start": 129,
+                                    "text": "lần 3 - đình chỉ học tập có thời hạn"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí cho sinh viên đưa hình ảnh phản cảm lên mạng xã hội lần 4 ?",
+                            "id": "b332e14d-637b-496d-8ee1-3e83f12578e9",
+                            "answers": [
+                                {
+                                    "answer_start": 167,
+                                    "text": "lần 4 - buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Sử dụng internet vào mạng xã hội viết nội dung nhắc đến tên trường mang thái độ châm biếm: Tuỳ theo mức độ, xử lí từ phê bình đến buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên vào mạng xã hội viết nội dung nhắc đến tên trường mang thái độ châm biếm ?",
+                            "id": "1eb8533f-fa5d-4e41-a624-a4594f4acfae",
+                            "answers": [
+                                {
+                                    "answer_start": 91,
+                                    "text": "Tuỳ theo mức độ, xử lí từ phê bình đến buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Vi phạm quyền tác giả với tác phẩm hoặc sử dụng giai điệu Hành khúc Tôn Đức Thắng không đúng mục đích : Tuỳ theo mức độ, xử  lí từ nhắc nhở đến buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên vi phạm quyền quyền tác giả với tác phẩm Hành khúc Tôn Đức Thắng?",
+                            "id": "a61a80ce-3b2a-46f7-8ef3-83a96c113dea",
+                            "answers": [
+                                {
+                                    "answer_start": 104,
+                                    "text": "Tuỳ theo mức độ, xử  lí từ nhắc nhở đến buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên sử dụng giai điệu Hành khúc Tôn Đức Thắng không đúng mục đích ?",
+                            "id": "3f129e40-427f-4974-b6fa-b6fef72cfd09",
+                            "answers": [
+                                {
+                                    "answer_start": 104,
+                                    "text": "Tuỳ theo mức độ, xử  lí từ nhắc nhở đến buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Nhận được thông tin chưa kiểm chứng, chưa báo cáo khoa đã phát tán thông tin cho người khác hoặc phản ánh thông tin về nhà trường, thầy cô không chính xác khi chưa tìm hiểu hoặc phát ngôn không đúng sự thật hoặc phản ánh lại nội dung đã được nhà trường giải quyết: Tuỳ theo mức độ, xử lí từ khiển trách đến buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên phát tán thông tin chưa được kiểm chứng về nhà trường ?",
+                            "id": "2f54ef08-2316-4701-964a-3a7c2a60c3dc",
+                            "answers": [
+                                {
+                                    "answer_start": 265,
+                                    "text": "Tuỳ theo mức độ, xử lí từ khiển trách đến buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên phát tán thông tin chưa điểm kiểm chứng về thầy cô?",
+                            "id": "ea103f31-154c-482d-b602-b536923ad13b",
+                            "answers": [
+                                {
+                                    "answer_start": 265,
+                                    "text": "Tuỳ theo mức độ, xử lí từ khiển trách đến buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên phản ảnh lại nội dung nhà trường đã giải quyết ?",
+                            "id": "32cc09c6-b6e1-4e35-b155-39d30dc084f0",
+                            "answers": [
+                                {
+                                    "answer_start": 265,
+                                    "text": "Tuỳ theo mức độ, xử lí từ khiển trách đến buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Trường hợp vi phạm nội quy, quy định nhà trường: thầy cô, giám thị nhắc nhở nhưng vẫn cố tình không chấp hành hoặc thái độ không đúng mực. Bỏ chạy khi lập biên bản hoặc ghi tục vào biên bản xử lí sinh viên vi phạm : Tuỳ theo mức độ, xử lí từ cảnh cáo đến buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên vi phạm nội quy bị thầy cô giám thị nhắc nhở vẫn có thái độ không chấp hành ?",
+                            "id": "06b643a2-e753-4132-9c2c-e14014edc94a",
+                            "answers": [
+                                {
+                                    "answer_start": 216,
+                                    "text": "Tuỳ theo mức độ, xử lí từ cảnh cáo đến buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên bỏ chạy khi lập biên bản vi phạm nội quy ?",
+                            "id": "f8601831-fee3-4d52-a1a6-3b548b9291c0",
+                            "answers": [
+                                {
+                                    "answer_start": 216,
+                                    "text": "Tuỳ theo mức độ, xử lí từ cảnh cáo đến buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên ghi tục vào biên bản xử lí vi phạm?",
+                            "id": "3bf2f821-8525-43fa-85d6-f873837fe8b0",
+                            "answers": [
+                                {
+                                    "answer_start": 216,
+                                    "text": "Tuỳ theo mức độ, xử lí từ cảnh cáo đến buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Văng tục, chửi thề, ăn nói bất lịch sự trong trường : Tuỳ theo mức độ, xử lí từ cảnh cáo đến buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên văng tục, chửi thề, ăn nói bất lịch sự trong trường ?",
+                            "id": "c5ed6f81-f75b-4d3a-9dec-128a89f49909",
+                            "answers": [
+                                {
+                                    "answer_start": 54,
+                                    "text": "Tuỳ theo mức độ, xử lí từ cảnh cáo đến buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Không đeo thẻ sinh viên trong trường, mượn thẻ hoặc cho người khác mượn thẻ sinh viên, làm lại thẻ sinh viên nhưng không theo dõi thời hạn để nhận lại thẻ : lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên không đeo thẻ sinh viên?",
+                            "id": "586c22c3-2de8-499e-8da1-09fec802f822",
+                            "answers": [
+                                {
+                                    "answer_start": 157,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên không đeo thẻ sinh viên lần 1?",
+                            "id": "9ed8542a-6b8a-48c3-9e34-2715dac8b9e4",
+                            "answers": [
+                                {
+                                    "answer_start": 157,
+                                    "text": "lần 1 - cảnh cáo"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên không đeo thẻ sinh viên lần 2?",
+                            "id": "446e1433-3fd3-447a-bb3f-e265ca004686",
+                            "answers": [
+                                {
+                                    "answer_start": 175,
+                                    "text": "lần 2 - cảnh cáo lần 2"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên không đeo thẻ sinh viên lần 3?",
+                            "id": "e0cc97b9-d52c-4452-8701-f881bb5ace42",
+                            "answers": [
+                                {
+                                    "answer_start": 199,
+                                    "text": "lần 3 - đình chỉ học có thời hạn"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên không đeo thẻ sinh viên lần 4?",
+                            "id": "9fcbff2f-c1a2-416d-b049-06361ef0ca5f",
+                            "answers": [
+                                {
+                                    "answer_start": 233,
+                                    "text": "lần 4 - buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên mượn thẻ hoặc cho người khác mượn thẻ sinh viên?",
+                            "id": "8023174e-5050-41fe-b79f-d3799d70d990",
+                            "answers": [
+                                {
+                                    "answer_start": 157,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên mượn thẻ hoặc cho người khác mượn thẻ lần 1?",
+                            "id": "eef66a75-d9fc-437a-b123-1386b4e8262e",
+                            "answers": [
+                                {
+                                    "answer_start": 157,
+                                    "text": "lần 1 - cảnh cáo"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên mượn thẻ hoặc cho người khác mượn thẻ lần 2?",
+                            "id": "21ff7ba3-71cf-4244-b088-5e69c275477f",
+                            "answers": [
+                                {
+                                    "answer_start": 175,
+                                    "text": "lần 2 - cảnh cáo lần 2"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên mượn thẻ hoặc cho người khác mượn thẻ lần 3?",
+                            "id": "1f6bf5a5-c61a-4682-8fed-e6d9401f4518",
+                            "answers": [
+                                {
+                                    "answer_start": 199,
+                                    "text": "lần 3 - đình chỉ học có thời hạn"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên mượn thẻ hoặc cho người khác mượn thẻ lần 4?",
+                            "id": "536bfa25-66b7-4af4-9519-f20c986a3f6e",
+                            "answers": [
+                                {
+                                    "answer_start": 233,
+                                    "text": "lần 4 - buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên làm lại thẻ nhưng không theo dõi thời hạn nhận lại thẻ?",
+                            "id": "7d1fdf04-6273-4d51-9da9-785791264e30",
+                            "answers": [
+                                {
+                                    "answer_start": 157,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Mang dép lê, trang phục không lịch sự, không gọn gàng, không phù hợp với môi trường giáo dục, không thực hình đúng quy định về mặc trang phục truyền thống: lần 1 - nhắc nhở, lần 2 - phê bình, lần 3 - nghiêm khắc phê bình, lần 4 - khiển trách, lần 5 - cảnh cáo, lần 6 - cảnh cáo lần 2, lần 7 - đình chỉ học có thời hạn, lần 8 - buộc thôi học, xử lí lần đầu mức nghiêm khắc phê bình nếu vi phạm từ 2 lỗi trở lên",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên mang dép lê ?",
+                            "id": "2b55374f-83d7-424f-bba0-78b241080142",
+                            "answers": [
+                                {
+                                    "answer_start": 155,
+                                    "text": " lần 1 - nhắc nhở, lần 2 - phê bình, lần 3 - nghiêm khắc phê bình, lần 4 - khiển trách, lần 5 - cảnh cáo, lần 6 - cảnh cáo lần 2, lần 7 - đình chỉ học có thời hạn, lần 8 - buộc thôi học, xử lí lần đầu mức nghiêm khắc phê bình nếu vi phạm từ 2 lỗi trở lên"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên có trang phục không lịch sự, không gọn gàng, không phù hợp với môi trường giáo dục?",
+                            "id": "05fd32b5-478f-4ca3-b9c9-074b1e154e2a",
+                            "answers": [
+                                {
+                                    "answer_start": 156,
+                                    "text": "lần 1 - nhắc nhở, lần 2 - phê bình, lần 3 - nghiêm khắc phê bình, lần 4 - khiển trách, lần 5 - cảnh cáo, lần 6 - cảnh cáo lần 2, lần 7 - đình chỉ học có thời hạn, lần 8 - buộc thôi học, xử lí lần đầu mức nghiêm khắc phê bình nếu vi phạm từ 2 lỗi trở lên"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên không thực hiện đúng quy định về trang phục truyền thống?",
+                            "id": "f7dae6db-36c4-4de5-ab83-c031902a059f",
+                            "answers": [
+                                {
+                                    "answer_start": 156,
+                                    "text": "lần 1 - nhắc nhở, lần 2 - phê bình, lần 3 - nghiêm khắc phê bình, lần 4 - khiển trách, lần 5 - cảnh cáo, lần 6 - cảnh cáo lần 2, lần 7 - đình chỉ học có thời hạn, lần 8 - buộc thôi học, xử lí lần đầu mức nghiêm khắc phê bình nếu vi phạm từ 2 lỗi trở lên"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên mang dép lê lần 1?",
+                            "id": "fa96c668-4b46-42c7-9b4f-e1e4add9b4ee",
+                            "answers": [
+                                {
+                                    "answer_start": 156,
+                                    "text": "lần 1 - nhắc nhở"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên không thực hiện trang phục truyền thống lần 1?",
+                            "id": "b384837e-4f5c-4fa9-8512-a0daa474a3b1",
+                            "answers": [
+                                {
+                                    "answer_start": 156,
+                                    "text": "lần 1 - nhắc nhở"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Mang đồ ăn, thức uống vào phòng học, thư viện: lần 1 - phê bình, lần 2 - nghiêm khắc phê bình, lần 3 - khiển trách, lần 4 - cảnh cáo, lần 5 - cảnh cáo lần 2, lần 6 - đình chỉ học có thời hạn, lần 7 - buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên mang đồ ăn, thức uống vào phòng học, thư viện?",
+                            "id": "7f9748f6-fb78-4ee0-bd90-5d04b00e9ee7",
+                            "answers": [
+                                {
+                                    "answer_start": 47,
+                                    "text": "lần 1 - phê bình, lần 2 - nghiêm khắc phê bình, lần 3 - khiển trách, lần 4 - cảnh cáo, lần 5 - cảnh cáo lần 2, lần 6 - đình chỉ học có thời hạn, lần 7 - buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Ăn uống trong phòng học thư viện. Ngủ trong giờ học, thư viện. Chơi game, nghe nhạc, coi phim, đọc báo, đọc truyện, chơi cờ caro, thêu tranh, ... trong giờ học, thư viện. Sử dụng điện thoại, máy vi tính không đúng mục đích trong giờ học, thư viện. Mất trật tự, làm việc riêng trong giờ học, thư viện : lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên ăn uống trong giờ học?",
+                            "id": "0e8cca58-cbcf-4f23-b22f-af27764009ff",
+                            "answers": [
+                                {
+                                    "answer_start": 302,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên ngủ trong giờ học, thư viện?",
+                            "id": "5503e9f4-0935-479a-9215-c2d11dbfd34e",
+                            "answers": [
+                                {
+                                    "answer_start": 302,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên sử dụng điện thoại, máy vi tính không đúng mục đích trong giờ học, thư viện?",
+                            "id": "181805cb-687e-47e0-85d1-5f3e74f94b5b",
+                            "answers": [
+                                {
+                                    "answer_start": 302,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên mất trật tự, làm việc riêng trong giờ học, thư viện?",
+                            "id": "1b3ebfbb-7d7b-49d1-a0f0-2e4ce305254e",
+                            "answers": [
+                                {
+                                    "answer_start": 302,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Tự ý vào lớp khi giờ học đã bắt đầu. Tự ý bỏ học ra ngoài mà không xin phép thầy cô. Đi trễ nhưng vẫn vào điểm danh chào cờ : lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên tự ý vào lớp khi giờ học đã bắt đầu?",
+                            "id": "f8fc3615-33b8-4ee0-b516-c8ea5c5a6b99",
+                            "answers": [
+                                {
+                                    "answer_start": 126,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên tự ý bỏ học ra ngoài mà không xin phép thầy cô?",
+                            "id": "c9cb61c2-dfb5-43d3-be99-6ccfba364a3e",
+                            "answers": [
+                                {
+                                    "answer_start": 126,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên đi trễ nhưng vẫn vào điểm danh chào cờ?",
+                            "id": "05c578b9-6b24-40a2-bce3-21708812e240",
+                            "answers": [
+                                {
+                                    "answer_start": 126,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Viết, vẽ, khắc chữ lên tường, cửa, bàn, ghế, bảng,... trong cách phòng học, phòng họp, phòng ở ktx, và các khu vực khác trong trường : tuỳ theo mức độ, xử lí từ cảnh cáo đến buộc thôi học và phải bồi thường thiệt hại",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lý sinh viên viết, vẽ, khắc chữ lên tường, cửa, bàn, ghế, bảng",
+                            "id": "c0214c25-0eb1-424d-93f2-e72f28bb7d7f",
+                            "answers": [
+                                {
+                                    "answer_start": 135,
+                                    "text": "tuỳ theo mức độ, xử lí từ cảnh cáo đến buộc thôi học và phải bồi thường thiệt hại"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Ngồi, chạy, nhảy trên bàn, đi trên ghế, leo trèo, nhảy qua cửa sổ, ngồi trên lan can, gạch xé và bôi xoá các thông báo, thông tin của nhà trường. Giẫm chân lên bệ bồn cầu của nhà trường: lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên ngồi, chạy, nhảy trên bàn, ghế",
+                            "id": "0d0a1cd5-f91c-4f91-9643-c96d6a8e1ab7",
+                            "answers": [
+                                {
+                                    "answer_start": 187,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên nhảy qua cửa sổ, ngồi trên lan can",
+                            "id": "22f12bd3-807e-46b5-a12c-a651a0530dab",
+                            "answers": [
+                                {
+                                    "answer_start": 187,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên gạch xé và bôi xoá các thông báo, thông tin của nhà trường",
+                            "id": "7dca5fba-0365-44a3-9c7e-0094be6aa95f",
+                            "answers": [
+                                {
+                                    "answer_start": 187,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Tự ý di chuyển các trang thiết bị, tài sản, bàn ghế, bảng, bục trong phòng học, giảng đường. Làm hư hỏng cách thiết bị, phá hoạt thang máy, nghịch phá lan can, cầu thang, tường rào, đèn chiếu sáng. Làm mất vệ sinh trong trường, bỏ rác không đúng nơi quy định. Lãng phí điện nước trong trường: Tuỳ theo mức độ xử lý, từ khiển trách đến buộc thôi học và phải bồi thường thiệt hại",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên tự ý di chuyển trang thiết bị, tài sản của trường?",
+                            "id": "f52a1fbc-7564-42ad-839f-60056aca7a42",
+                            "answers": [
+                                {
+                                    "answer_start": 293,
+                                    "text": "Tuỳ theo mức độ xử lý, từ khiển trách đến buộc thôi học và phải bồi thường thiệt hại"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên làm hư hỏng các trang thiết bị, tài sản của nhà trường?",
+                            "id": "e35824e4-6b4f-463d-9cb0-3aa298fd5483",
+                            "answers": [
+                                {
+                                    "answer_start": 293,
+                                    "text": "Tuỳ theo mức độ xử lý, từ khiển trách đến buộc thôi học và phải bồi thường thiệt hại"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên làm mất vệ sinh, bỏ rác không đúng nơi quy định?",
+                            "id": "ec829e18-8cdc-4627-90ee-8cfd35285eb2",
+                            "answers": [
+                                {
+                                    "answer_start": 293,
+                                    "text": "Tuỳ theo mức độ xử lý, từ khiển trách đến buộc thôi học và phải bồi thường thiệt hại"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên gây lãng phí điện nước trong trường?",
+                            "id": "a9b9c561-a7c0-44a9-ac0c-1e509c2060f2",
+                            "answers": [
+                                {
+                                    "answer_start": 293,
+                                    "text": "Tuỳ theo mức độ xử lý, từ khiển trách đến buộc thôi học và phải bồi thường thiệt hại"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Lấy cắp tài sản trong trường: Tuỳ theo mức độ, xử lý từ đình chỉ học tập có thời hạn đến buộc thôi học, nếu nghiêm trọng thì giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên lấy cắp tài sản của trường?",
+                            "id": "f78128fe-a5f0-4ebc-b174-9673ad71684b",
+                            "answers": [
+                                {
+                                    "answer_start": 30,
+                                    "text": "Tuỳ theo mức độ, xử lý từ đình chỉ học tập có thời hạn đến buộc thôi học, nếu nghiêm trọng thì giao cho cơ quan chức năng xử lý theo quy định của pháp luật"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Không tham gia đầy đủ các buổi sinh hoạt công dân do nhà trường tổ chức: Tuỳ theo mức độ, xử lý từ nhắc nhở đến cảnh cáo",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên không giam gia đầy đủ các buổi sinh hoạt công dân do trường tổ chức?",
+                            "id": "78c9be0f-d193-4c5c-a7fa-7fd1eaf991cc",
+                            "answers": [
+                                {
+                                    "answer_start": 73,
+                                    "text": "Tuỳ theo mức độ, xử lý từ nhắc nhở đến cảnh cáo"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Điểm danh hộ, học hộ hoặc nhờ người khác điểm danh hộ, học hộ: tuỳ theo mức độ, xử lý từ cảnh cáo đến buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên điểm danh hộ?",
+                            "id": "e7976f50-384e-41ca-8234-dd9f20809b26",
+                            "answers": [
+                                {
+                                    "answer_start": 62,
+                                    "text": " tuỳ theo mức độ, xử lý từ cảnh cáo đến buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên học hộ?",
+                            "id": "88a3839e-9c9a-4684-bb02-f7e92ebad1af",
+                            "answers": [
+                                {
+                                    "answer_start": 63,
+                                    "text": "tuỳ theo mức độ, xử lý từ cảnh cáo đến buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên nhờ người khác điểm danh hộ, học hộ?",
+                            "id": "9a5499a0-947e-44a6-8dae-e77d538432f0",
+                            "answers": [
+                                {
+                                    "answer_start": 63,
+                                    "text": "tuỳ theo mức độ, xử lý từ cảnh cáo đến buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Thi, kiểm tra hộ hoặc nhờ người khác thi, kiểm tra hộ. Làm hộ, sao chép tiểu luận, đồ án, khoá luận tốt nghiệp hoặc nhờ người khác làm hộ, sai chép tiểu luận, đồ án, khoá luận tốt nghiệp: lần 1 - đình chỉ học tập có thời hạn, lần 2 - buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên thi hoặc kiểm tra hộ người khác?",
+                            "id": "7e50225e-e715-4fc4-829d-6d348cbc1f94",
+                            "answers": [
+                                {
+                                    "answer_start": 188,
+                                    "text": "lần 1 - đình chỉ học tập có thời hạn, lần 2 - buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên nhờ người khác kiểm tra hộ, thi hộ?",
+                            "id": "68ee2d3e-1d51-4212-a227-95a8b3c85e5a",
+                            "answers": [
+                                {
+                                    "answer_start": 188,
+                                    "text": "lần 1 - đình chỉ học tập có thời hạn, lần 2 - buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên làm hộ, sao chép tiểu luận, đồ án, khóa luận tốt nghiệp?",
+                            "id": "16dc3cbb-588c-4c66-b9e1-a9813240f505",
+                            "answers": [
+                                {
+                                    "answer_start": 188,
+                                    "text": "lần 1 - đình chỉ học tập có thời hạn, lần 2 - buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên nhờ người khác làm hộ, sao chép tiểu luận, đồ án, khóa luận tốt nghiệp?",
+                            "id": "47b558e0-c71a-48fa-9939-5ccb312ac04f",
+                            "answers": [
+                                {
+                                    "answer_start": 188,
+                                    "text": "lần 1 - đình chỉ học tập có thời hạn, lần 2 - buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Có hành vi thông đồng với sinh viên khác để sao chép tiểu luận, đồ án, khoá luận tốt nghiệp: tuỳ theo mức độ, xử lý từ cảnh cáo lần 2 đến buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên có hành vi thông đồng với sinh viên khác để sao chép tiểu luận, đồ án, khóa luận tốt nghiệp?",
+                            "id": "1309d0a6-30c6-480a-ad2e-8d9aa4819d42",
+                            "answers": [
+                                {
+                                    "answer_start": 93,
+                                    "text": "tuỳ theo mức độ, xử lý từ cảnh cáo lần 2 đến buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Tổ chức sinh hoạt công dân hộ, học hộ, kiểm tra hộ, thi hộ. Tổ chức làm hộ tiểu luận, đồ án, khoá luận tốt nghiệp: tuỳ theo mức độ, có thể giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên tổ chức sinh hoạt công dân hộ?",
+                            "id": "3b6ef4a8-2f9c-4687-a8f8-28cc3118dccd",
+                            "answers": [
+                                {
+                                    "answer_start": 115,
+                                    "text": "tuỳ theo mức độ, có thể giao cho cơ quan chức năng xử lý theo quy định của pháp luật"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên  học hộ, kiểm tra hộ, thi hộ người khác?",
+                            "id": "864c3358-479f-4017-961c-50e07213150e",
+                            "answers": [
+                                {
+                                    "answer_start": 116,
+                                    "text": "uỳ theo mức độ, có thể giao cho cơ quan chức năng xử lý theo quy định của pháp luật"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên tổ chức làm hộ tiểu luận, đồ án, khóa luận tốt nghiệp?",
+                            "id": "06fd6e8a-c0da-494b-9286-5df1a881ee2d",
+                            "answers": [
+                                {
+                                    "answer_start": 115,
+                                    "text": "tuỳ theo mức độ, có thể giao cho cơ quan chức năng xử lý theo quy định của pháp luật"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Viết, vẽ những nội dung không liên quan trong bài thi: lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên vẽ những nội dung không liên quan trong bài thi?",
+                            "id": "52660485-32ba-4885-8c81-95af09631405",
+                            "answers": [
+                                {
+                                    "answer_start": 55,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Sử dụng văn bằng đầu vào không hợp pháp. Làm giả, sử dụng văn bằng giả, chứng chỉ giả, bảng điểm giả của Trường Đại học Tôn Đức Thắng: buộc thôi học và huỷ kết quả học tập, tuỳ theo mức độ có thể giao cho cơ quan chức năng xử lý theo quy định pháp luật",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên xử dung văn bằng đầu vào không hợp pháp?",
+                            "id": "6d989349-1e77-4d92-809d-cd92ea91176c",
+                            "answers": [
+                                {
+                                    "answer_start": 135,
+                                    "text": "buộc thôi học và huỷ kết quả học tập, tuỳ theo mức độ có thể giao cho cơ quan chức năng xử lý theo quy định pháp luật"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên làm giả, sử dụng văn bằng giả, chứng chỉ giả, bảng điểm giả của trường?",
+                            "id": "92763891-e41c-4b16-89cd-0eacf17659c9",
+                            "answers": [
+                                {
+                                    "answer_start": 135,
+                                    "text": "buộc thôi học và huỷ kết quả học tập, tuỳ theo mức độ có thể giao cho cơ quan chức năng xử lý theo quy định pháp luật"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Làm giả, sử dụng chứng chỉ giả nộp vào Trường để được hưởng quyền lợi: tuỳ theo mức độ, xử lý từ đình chỉ học có thời hạn đến buộc thôi học, tuỳ theo mức độ có thể giao cho cơ quan có thẩm quyền xử lý theo quy định pháp luật",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên làm giả chứng chỉ để được hưởng quyền lợi?",
+                            "id": "2cb6b003-4c6b-4c3b-88dd-838d7c1691d9",
+                            "answers": [
+                                {
+                                    "answer_start": 71,
+                                    "text": "tuỳ theo mức độ, xử lý từ đình chỉ học có thời hạn đến buộc thôi học, tuỳ theo mức độ có thể giao cho cơ quan có thẩm quyền xử lý theo quy định pháp luật"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Giả mạo chữ kí, hồ sợ nộp vào trường để được hưởng quyền lợi: tuỳ theo mức độ, xử lý từ cảnh cáo đến buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên gỉa mạo chữ kí, hồ sợ nộp vào trường để nhận hưởng quyền lợi?",
+                            "id": "e6d4b588-6419-4134-8c1e-512295de3475",
+                            "answers": [
+                                {
+                                    "answer_start": 62,
+                                    "text": "tuỳ theo mức độ, xử lý từ cảnh cáo đến buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Gửi khiếu nại vượt cấp: lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên gửi khiếu nại vượt cấp?",
+                            "id": "08812a88-923b-4468-bf3d-5ef4ee1ab7c0",
+                            "answers": [
+                                {
+                                    "answer_start": 24,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Lơ là, không quan tâm đến quy định của trường: Tuỳ vào mức độ và hậu quả, xử lý từ mức nghiêm khắc phê bình đến buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên lơ là, không quan tâm đến quy định trường?",
+                            "id": "963f8a1f-06a1-4c2d-85ba-2f8c78ec361d",
+                            "answers": [
+                                {
+                                    "answer_start": 47,
+                                    "text": "Tuỳ vào mức độ và hậu quả, xử lý từ mức nghiêm khắc phê bình đến buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Khai báo sai thông tin sinh viên: tuỳ theo mức độ, xử lý từ cảnh cáo đến buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên khi khai báo sai thông tin sinh viên?",
+                            "id": "e30e61bb-fa4f-422d-a92a-8ee0dbcd63c8",
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Khai báo sai thông tin sinh viên: tuỳ theo mức độ, xử lý từ cảnh cáo đến buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Uống rượu, bia trong khuôn viên Trường. Say rượu bia khi đến Trường. Hút thuốc lá, thuốc lá điện tử trong Trường: lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên uống rượu, bia trong khuôn viên trường?",
+                            "id": "d1415761-8775-4b52-abc4-4ff07f49319e",
+                            "answers": [
+                                {
+                                    "answer_start": 114,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên say rượu bia khi đến trường?",
+                            "id": "1e9840a1-7fd6-46c5-8c85-1bf24a498d1b",
+                            "answers": [
+                                {
+                                    "answer_start": 114,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên hút thuốc lá hoặc thuốc lá điện tử trong trường?",
+                            "id": "ed2c826e-736f-432f-a82a-a57502b3e1e5",
+                            "answers": [
+                                {
+                                    "answer_start": 114,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Tự ý tạm dừng số điện thoại liên lạc của người khác hoặc tự ý sử dụng thông tin của người khác khi chưa được sự đồng ý: lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên tự ý tạm dừng số điện thoại liên lạc của người khác?",
+                            "id": "0e04e042-c43a-46b9-820d-0934957c799a",
+                            "answers": [
+                                {
+                                    "answer_start": 120,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên sử dụng thông tin của người khác khi chưa được sự đồng ý?",
+                            "id": "16d1104d-25b1-447c-b493-2ee4343f7fd9",
+                            "answers": [
+                                {
+                                    "answer_start": 120,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Đưa phần tử xấu vào Trường gây ảnh hưởng xấu đến an ninh, trật tự hoặc dẫn bạn vào trường mà không liên hệ bảo vệ, giáp thị xin phép: Tuỳ theo mức độ, xử lý từ cảnh cáo đến buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên khi đưa phần tử xấu vào trường?",
+                            "id": "a0e67024-6b6d-4360-8a5f-abdcbc594953",
+                            "answers": [
+                                {
+                                    "answer_start": 134,
+                                    "text": "Tuỳ theo mức độ, xử lý từ cảnh cáo đến buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên dẫn bạn vào trường mà không liên hệ bảo vệ, giám thị để xin phép?",
+                            "id": "9e77cad4-2d91-43e5-858d-4b7762db8051",
+                            "answers": [
+                                {
+                                    "answer_start": 134,
+                                    "text": "Tuỳ theo mức độ, xử lý từ cảnh cáo đến buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều khiển hoặc ngồi trên xe máy chở quá số người quy định trong trường: lần 1 - khiển trách, lần 2 - cảnh cáo, lần 3 - cảnh cáo lần 2, lần 4 - đình chỉ học có thời hạn, lần 5 - buộc thôi học, nếu nghiêm trọng có thể giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên điều khiển hoặc ngoài trên xe máy chở quá số người quy định trong trường?",
+                            "id": "958ec477-6cf8-4a90-b637-154bc1e5046e",
+                            "answers": [
+                                {
+                                    "answer_start": 73,
+                                    "text": "lần 1 - khiển trách, lần 2 - cảnh cáo, lần 3 - cảnh cáo lần 2, lần 4 - đình chỉ học có thời hạn, lần 5 - buộc thôi học, nếu nghiêm trọng có thể giao cho cơ quan chức năng xử lý theo quy định của pháp luật"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Nghịch phá và vi phạm nguyên tắc an toàn cháy nổ trong trường: lần 1 - đình chỉ học có thời hạn, lần 2 - buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên nghịch phá và vi phạm nguyên tắc cháy nổ trong trường?",
+                            "id": "be780d47-4e60-4971-9c2a-42c524cc76bc",
+                            "answers": [
+                                {
+                                    "answer_start": 63,
+                                    "text": "lần 1 - đình chỉ học có thời hạn, lần 2 - buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Gây rối an ninh, gây mất trật tự trong trường: lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên gây rối an ninh, mất trật tự trong trường?",
+                            "id": "1dd9150e-c182-4e53-8ead-49bb08d09e12",
+                            "answers": [
+                                {
+                                    "answer_start": 47,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Phá hoại cây xanh, chọc, bắt chim chóc, tổ chim trong trường. Đá banh, đá cầu trong lớp học và hành lang, sân thượng, vườn hoa. Đùa giỡn gây nguy hiểm cho người khác: lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên phá hoại cây xanh trong trường?",
+                            "id": "5a671605-4643-4064-9e20-879454a0d1fc",
+                            "answers": [
+                                {
+                                    "answer_start": 167,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên đá banh, đá cầu trong lớp trong hành lang, sân thuong, vườn hoa?",
+                            "id": "27d16384-29de-466d-9335-48475a9d1101",
+                            "answers": [
+                                {
+                                    "answer_start": 167,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên khi đùa giỡn gây nguy hiểm cho người khác?",
+                            "id": "a094a81b-d418-4b0e-a5d9-3c27b9b6e7d6",
+                            "answers": [
+                                {
+                                    "answer_start": 167,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Nói to, la lớn trong khuông viên trường, tụ tập trước giảng đường, phòng học đang có người học. Đi vào khu vực sinh viên không được phép vào: lần 1 - nhắc nhở, lần 2 - phê bình, lần 3 - nghiêm khắc phê bình, lần 4 - khiển trách, lần 5 - cảnh cáo, lần 6 - cảnh cáo lần 2, lần 7 - đình chỉ học có thời hạn, lần 8 - buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên nói to, la lớn trong khuôn viên trường?",
+                            "id": "f298a333-f0f1-450c-8b6a-a35b0a3806de",
+                            "answers": [
+                                {
+                                    "answer_start": 142,
+                                    "text": "lần 1 - nhắc nhở, lần 2 - phê bình, lần 3 - nghiêm khắc phê bình, lần 4 - khiển trách, lần 5 - cảnh cáo, lần 6 - cảnh cáo lần 2, lần 7 - đình chỉ học có thời hạn, lần 8 - buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên tụ tập trước giảng đường, phòng học đang có người học?",
+                            "id": "d8d87ae5-b0ac-41e3-b70b-c732dafe9b62",
+                            "answers": [
+                                {
+                                    "answer_start": 142,
+                                    "text": "lần 1 - nhắc nhở, lần 2 - phê bình, lần 3 - nghiêm khắc phê bình, lần 4 - khiển trách, lần 5 - cảnh cáo, lần 6 - cảnh cáo lần 2, lần 7 - đình chỉ học có thời hạn, lần 8 - buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên đi vào khu vực không được cho phép?",
+                            "id": "3969d18f-1b3d-4f51-bf72-ebb376863f08",
+                            "answers": [
+                                {
+                                    "answer_start": 142,
+                                    "text": "lần 1 - nhắc nhở, lần 2 - phê bình, lần 3 - nghiêm khắc phê bình, lần 4 - khiển trách, lần 5 - cảnh cáo, lần 6 - cảnh cáo lần 2, lần 7 - đình chỉ học có thời hạn, lần 8 - buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Đánh bạc dưới mọi hình thức trong trường: lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên đánh bạc dưới mọi hình thức?",
+                            "id": "42758087-ece9-4c4a-bd48-87348f3207e8",
+                            "answers": [
+                                {
+                                    "answer_start": 42,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Treo áp phích, băng rôn, biểu ngữ, dán poster, phát tài liệu, tờ rơi trong bất cứ vị trị nào của các cơ sở thuộc trường khi chưa được cho phép bằng văn bản của các Phòng, Ban chức năng hoặc buôn bán dưới mọi hình thước khi chưa được sự đồng ý của nhà trường: tuỳ theo mức độ, xử lý từ nghiêm khắc phê bình đến buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên treo áp phích, băng rôn, biểu ngữ, dán poster, phát tài liệu, tờ rơi trong trường",
+                            "id": "612acc6b-a085-46e7-9f28-93a84f0ca03c",
+                            "answers": [
+                                {
+                                    "answer_start": 259,
+                                    "text": "tuỳ theo mức độ, xử lý từ nghiêm khắc phê bình đến buộc thôi học"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên buôn bán dưới mọi hình thước khi chưa được sự đồng ý của nhà trường",
+                            "id": "609b986a-0627-4335-9931-e9d69cb9c73c",
+                            "answers": [
+                                {
+                                    "answer_start": 259,
+                                    "text": "tuỳ theo mức độ, xử lý từ nghiêm khắc phê bình đến buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Cố tình nộp chậm hoặc không nộp học phí, bảo hiểm y tế theo quy định của nhà trường mà không có lý do chính đáng: Tuỳ theo mức độ, xử lý từ nhắc nhở đến buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên cố tình nộp chậm hoặc không nộp học phí, bảo hiểm ý tế mà không có lí do chính đáng?",
+                            "id": "3e85590e-7f7f-4992-ac0b-159e161a6f66",
+                            "answers": [
+                                {
+                                    "answer_start": 114,
+                                    "text": "Tuỳ theo mức độ, xử lý từ nhắc nhở đến buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Xem đánh bài trong Trường mà không báo với đơn vị chức năng: lần 1 - nghiêm khắc phê bình, lần 2 - khiển trách, lần 3 - cảnh cáo, lần 4 - cảnh cáo lần 2, lần 5 - đình chỉ học có thời hạn, lần 6 - buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên xem đánh bài trong trường mà không báo cáo cho đơn vị chức năng?",
+                            "id": "3d3b062b-ccfd-446c-a117-cf1d30bbc046",
+                            "answers": [
+                                {
+                                    "answer_start": 61,
+                                    "text": "lần 1 - nghiêm khắc phê bình, lần 2 - khiển trách, lần 3 - cảnh cáo, lần 4 - cảnh cáo lần 2, lần 5 - đình chỉ học có thời hạn, lần 6 - buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Đánh nhau, tổ chức hoặc tham gia tổ chức đánh nhau hoặc chủ động tấn công người khác trong trường: Tuỳ theo tính chất và mức độ, xử lý từ mức cảnh cáo đến buộc thôi học. Nếu nghiêm trọng có thể giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên đánh nhau, tổ chức hoặc tham gia đánh nhau?",
+                            "id": "fa14b81a-b1f5-4cb0-9118-24775724a4b4",
+                            "answers": [
+                                {
+                                    "answer_start": 99,
+                                    "text": "Tuỳ theo tính chất và mức độ, xử lý từ mức cảnh cáo đến buộc thôi học. Nếu nghiêm trọng có thể giao cho cơ quan chức năng xử lý theo quy định của pháp luật"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức xử lí sinh viên chủ động tấn công người khác?",
+                            "id": "22591548-3587-484f-947c-b42a806829e6",
+                            "answers": [
+                                {
+                                    "answer_start": 99,
+                                    "text": "Tuỳ theo tính chất và mức độ, xử lý từ mức cảnh cáo đến buộc thôi học. Nếu nghiêm trọng có thể giao cho cơ quan chức năng xử lý theo quy định của pháp luật"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Bị phát hiện nhặt được của rơi không liên hệ các bộ phận để trả lại cho người bị mất: lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 3 - buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên bị phát hiện nhặt được của rơi không liên hệ các bộ phận trả lại cho người bị mất?",
+                            "id": "a8def9e1-6a8a-4575-b047-f981f7128301",
+                            "answers": [
+                                {
+                                    "answer_start": 86,
+                                    "text": "lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 3 - buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Thành lập, tham gia các hoạt động mang tính chất chính trị trái pháp luật: tuỳ theo mức độ, xử lý từ khiển trách đến buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên thành lập, tham gia các hoạt động mang tính chất chính trị trái pháp luật?",
+                            "id": "f401b0a2-e3b8-4402-8911-57edf324ef53",
+                            "answers": [
+                                {
+                                    "answer_start": 75,
+                                    "text": "tuỳ theo mức độ, xử lý từ khiển trách đến buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Tổ chức, tham gia các hoạt động tập thể mang danh nghĩa nhà trường khi chưa được nhà trường cho phép: tuỳ theo mức độ, xử lý từ khiển trách đến buộc thôi học",
+                    "qas": [
+                        {
+                            "question": "Hình thức xử lí sinh viên tổ chức, tham gia các hoạt động mang danh nghĩa nhà trường khi chưa được cho phép?",
+                            "id": "268b5ff7-e816-4958-a165-1f5c5ba63958",
+                            "answers": [
+                                {
+                                    "answer_start": 102,
+                                    "text": "tuỳ theo mức độ, xử lý từ khiển trách đến buộc thôi học"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Học bổng Thủ khoa đầu vào",
+            "paragraphs": [
+                {
+                    "context": "Đối tượng: Sinh viên trúng tuyển và nhập học tại Trường trong đợt tuyển sinh đại học.",
+                    "qas": [
+                        {
+                            "question": "Đối tượng của học bổng thủ khoa đầu vào?",
+                            "id": "2be6940d-6244-4871-b7f9-fb1cde912c78",
+                            "answers": [
+                                {
+                                    "answer_start": 11,
+                                    "text": "Sinh viên trúng tuyển và nhập học tại Trường trong đợt tuyển sinh đại học."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều kiện: Sinh viên đạt điểm xét tuyển cao nhất tính theo điểm thi tốt nghiệp Trung học phổ thông của tất cả các phương thức xét tuyển (không tính điểm ưu tiên tuyển sinh)",
+                    "qas": [
+                        {
+                            "question": "Điều kiện để nhận học bổng thủ khoa đầu vào?",
+                            "id": "165dc99d-482c-415b-810d-eb0105c2205c",
+                            "answers": [
+                                {
+                                    "answer_start": 11,
+                                    "text": "Sinh viên đạt điểm xét tuyển cao nhất tính theo điểm thi tốt nghiệp Trung học phổ thông của tất cả các phương thức xét tuyển (không tính điểm ưu tiên tuyển sinh)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Mức cấp học bổng: Học bổng toàn phần (100% học phí) theo khung chương trình đào tạo tiêu chuẩn của năm thứ nhất. Sinh viên được tặng kỷ niệm chương và vòng nguyệt quế vinh danh. Những năm học tiếp theo, Nhà trường sẽ cấp học bổng Học tập Rèn luyện khi sinh viên thoả các điều kiện các học bổng",
+                    "qas": [
+                        {
+                            "question": "Mức cấp học bổng của thua khoa đầu vào?",
+                            "id": "d255b7ca-f9de-4f9b-94a5-9d94893b063c",
+                            "answers": [
+                                {
+                                    "answer_start": 18,
+                                    "text": "Học bổng toàn phần (100% học phí) theo khung chương trình đào tạo tiêu chuẩn của năm thứ nhất. Sinh viên được tặng kỷ niệm chương và vòng nguyệt quế vinh danh. Những năm học tiếp theo, Nhà trường sẽ cấp học bổng Học tập Rèn luyện khi sinh viên thoả các điều kiện các học bổng"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Cách thức xét học bổng: Nhà trường sẽ tự xét cấp học bổng cho sinh viên dựa trên dữ liệu tuyển sinh, sinh viên không cần nộp đơn",
+                    "qas": [
+                        {
+                            "question": "Cách thức xét học bổng Thủ khoa đầu vào?",
+                            "id": "cb0ceaea-caba-4f0a-b197-7afda0990ddf",
+                            "answers": [
+                                {
+                                    "answer_start": 24,
+                                    "text": "Nhà trường sẽ tự xét cấp học bổng cho sinh viên dựa trên dữ liệu tuyển sinh, sinh viên không cần nộp đơn"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Thời gian nhận học bổng: Học bổng được cấp vào cuối năm học, sinh viên đạt học bổng theo dõi thời gian nhận cụ thể tại cổng thông tin sinh viên.",
+                    "qas": [
+                        {
+                            "question": "Thời gian nhận học bổng Thủ khoa đầu vào?",
+                            "id": "b9ea1a14-8348-4454-9473-c14931ae8eb2",
+                            "answers": [
+                                {
+                                    "answer_start": 25,
+                                    "text": "Học bổng được cấp vào cuối năm học, sinh viên đạt học bổng theo dõi thời gian nhận cụ thể tại cổng thông tin sinh viên."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Học bổng Tân sinh viên dành cho các tỉnh",
+            "paragraphs": [
+                {
+                    "context": "Đối với sinh viên các tỉnh đã ký kết hợp tác toàn diện: a. Đối tượng: Sinh viên có hộ khẩu thường trú trong thời gian học THPT trên 18 tháng và học trường THPT tại các tỉnh: Bình Định, Bình Thuận, Gia Lai, Lâm Đồng, Quảng Ngãi, huyện Ngọc Hồi (tỉnh Kon Tum) trúng tuyển và nhập học tại Trường trong đợt tuyển sinh đại học. b. Điều kiện: Sinh viên đạt điểm xét tuyển tính theo điểm thi tốt nghiệp THPT của tất cả các phương thức xét tuyển ≥ 32/40 điểm (không tính điểm ưu tiên tuyển sinh). c. Số lượng và nguyên tắc xét học bổng: Học bổng được xét từ cao xuống thấp với số lượng tối đa là 10 suất học bổng/tỉnh. d. Mức cấp học bổng: Học bổng toàn phần (100% học phí) theo khung chương trình đào tạo tiêu chuẩn của năm thứ nhất. ",
+                    "qas": [
+                        {
+                            "question": "Đối tượng nhận học bổng tân sinh viên đối với sinh viên các tỉnh đã ký kết hợp tác toàn diện",
+                            "id": "f684f5e9-d53e-4799-9eab-b3543da3abf9",
+                            "answers": [
+                                {
+                                    "answer_start": 70,
+                                    "text": "Sinh viên có hộ khẩu thường trú trong thời gian học THPT trên 18 tháng và học trường THPT tại các tỉnh: Bình Định, Bình Thuận, Gia Lai, Lâm Đồng, Quảng Ngãi, huyện Ngọc Hồi (tỉnh Kon Tum) trúng tuyển và nhập học tại Trường"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Điều kiện nhận học bổng tân sinh viên đối với sinh viên các tỉnh đã ký kết hợp tác toàn diện",
+                            "id": "2bd47f24-82fe-48fe-bccd-2a30487ea7b9",
+                            "answers": [
+                                {
+                                    "answer_start": 337,
+                                    "text": "Sinh viên đạt điểm xét tuyển tính theo điểm thi tốt nghiệp THPT của tất cả các phương thức xét tuyển ≥ 32/40 điểm (không tính điểm ưu tiên tuyển sinh)"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Số lượng học bổng tân sinh viên đối với sinh viên các tỉnh đã ký kết hợp tác toàn diện",
+                            "id": "c8c4571c-e165-44e3-a4a5-b92649aca58b",
+                            "answers": [
+                                {
+                                    "answer_start": 588,
+                                    "text": "10 suất học bổng/tỉnh"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Nguyên tắc xét học bổng tân sinh viên đối với sinh viên các tỉnh đã ký kết hợp tác toàn diện",
+                            "id": "9369218f-838b-4987-92bd-f020d0503043",
+                            "answers": [
+                                {
+                                    "answer_start": 529,
+                                    "text": "Học bổng được xét từ cao xuống thấp"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Mức cấp học bổng tân sinh viên đối với sinh viên các tỉnh đã ký kết hợp tác toàn diện",
+                            "id": "22fb72d8-c588-4140-81ca-c6d143a5461b",
+                            "answers": [
+                                {
+                                    "answer_start": 632,
+                                    "text": "Học bổng toàn phần (100% học phí) theo khung chương trình đào tạo tiêu chuẩn của năm thứ nhất"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Đối với sinh viên tỉnh Ninh Thuận: a. Đối tượng: Sinh viên có hộ khẩu thường trú trong thời gian học THPT trên 18 tháng và học trường THPT tại tỉnh Ninh Thuận trúng tuyển, nhập học tại Trường trong đợt tuyển sinh đại học. b. Điều kiện: Sinh viên đạt điểm xét tuyển cao nhất và từ 30,67/40 điểm trở lên tính theo điểm thi tốt nghiệp THPT của tất cả các phương thức xét tuyển (không tính điểm ưu tiên tuyển sinh). c. Mức cấp học bổng: Từ 33,33/40 điểm trở lên: Học bổng toàn phần (100% học phí + phí Ký túc xá) theo khung chương trình đào tạo tiêu chuẩn của năm thứ nhất. Từ 30,67/40 điểm đến dưới 33,33/40 điểm: Học bổng bán phần (50% học phí + phí Ký túc xá) theo khung chương trình đào tạo tiêu chuẩn của năm thứ nhất. ",
+                    "qas": [
+                        {
+                            "question": "Đối tượng nhận học bổng tân sinh viên đối với sinh viên tỉnh Ninh Thuận",
+                            "id": "a8ca0020-0353-4722-ba78-ba1d011511b0",
+                            "answers": [
+                                {
+                                    "answer_start": 49,
+                                    "text": "Sinh viên có hộ khẩu thường trú trong thời gian học THPT trên 18 tháng và học trường THPT tại tỉnh Ninh Thuận trúng tuyển, nhập học tại Trường"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Điều kiện nhận học bổng tân sinh viên đối với sinh viên tỉnh Ninh Thuận",
+                            "id": "5367aeea-e261-402b-ae98-82293aa31357",
+                            "answers": [
+                                {
+                                    "answer_start": 236,
+                                    "text": "Sinh viên đạt điểm xét tuyển cao nhất và từ 30,67/40 điểm trở lên tính theo điểm thi tốt nghiệp THPT của tất cả các phương thức xét tuyển (không tính điểm ưu tiên tuyển sinh)"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Mức cấp học bổng tân sinh viên đối với sinh viên tỉnh Ninh Thuận",
+                            "id": "a19954e5-98ed-4e54-bbec-e863ac645a93",
+                            "answers": [
+                                {
+                                    "answer_start": 433,
+                                    "text": "Từ 33,33/40 điểm trở lên: Học bổng toàn phần (100% học phí + phí Ký túc xá) theo khung chương trình đào tạo tiêu chuẩn của năm thứ nhất. Từ 30,67/40 điểm đến dưới 33,33/40 điểm: Học bổng bán phần (50% học phí + phí Ký túc xá) theo khung chương trình đào tạo tiêu chuẩn của năm thứ nhất."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Cách thức xét học bổng: Nhà trường sẽ tự xét cấp học bổng cho sinh viên dựa trên dữ liệu tuyển sinh, sinh viên không cần nộp đơn.",
+                    "qas": [
+                        {
+                            "question": "Cách thức xét học bổng tân sinh viên",
+                            "id": "b0852a57-bd9a-4a23-a4f2-b0a399cb348e",
+                            "answers": [
+                                {
+                                    "answer_start": 24,
+                                    "text": "Nhà trường sẽ tự xét cấp học bổng cho sinh viên dựa trên dữ liệu tuyển sinh, sinh viên không cần nộp đơn"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Thời gian nhận học bổng: Học bổng được cấp vào cuối năm học, sinh viên đạt học bổng theo dõi thời gian nhận cụ thể tại cổng thông tin sinh viên. Những năm học tiếp theo, Nhà trường sẽ cấp học bổng Học tập Rèn luyện khi sinh viên thoả các điều kiện xét học bổng. Trường hợp có nhiều Tân sinh viên thỏa điều kiện học bổng và có cùng mức điểm xét học bổng thì sẽ xét ưu tiên học bổng theo điểm trung bình kết quả học tập năm lớp 12.",
+                    "qas": [
+                        {
+                            "question": "Thời gian nhận học bổng tân sinh viên",
+                            "id": "b6e88edc-5d72-487e-9c8c-581e7616fbf7",
+                            "answers": [
+                                {
+                                    "answer_start": 25,
+                                    "text": "Học bổng được cấp vào cuối năm học, sinh viên đạt học bổng theo dõi thời gian nhận cụ thể tại cổng thông tin sinh viên"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Trường hợp có nhiều Tân sinh viên thỏa điều kiện học bổng và có cùng mức điểm xét học bổng thì sao",
+                            "id": "993c4d94-85e3-48a2-9280-8471e2cb8f3d",
+                            "answers": [
+                                {
+                                    "answer_start": 360,
+                                    "text": "xét ưu tiên học bổng theo điểm trung bình kết quả học tập năm lớp 12"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Học bổng Tân sinh viên các Trường THPT đã hợp tác với Trường",
+            "paragraphs": [
+                {
+                    "context": "Đối tượng: Sinh viên theo học tại Trường THPT ký kết với TDTU (xét theo trường THPT sinh viên theo học trong học kỳ 2 lớp 12) đã trúng tuyển và nhập học tại Trường trong đợt tuyển sinh đại học",
+                    "qas": [
+                        {
+                            "question": "Đối tượng nhận học bổng tân sinh viên các Trường THPT đã hợp tác với Trường",
+                            "id": "6f220ce5-95d1-4a26-9504-a227bd18dcf5",
+                            "answers": [
+                                {
+                                    "answer_start": 11,
+                                    "text": "Sinh viên theo học tại Trường THPT ký kết với TDTU (xét theo trường THPT sinh viên theo học trong học kỳ 2 lớp 12) đã trúng tuyển và nhập học tại Trường"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều kiện: Sinh viên đạt điểm xét tuyển cao nhất của Trường THPT và ≥ 33,33/40 điểm tính theo điểm thi tốt nghiệp THPT của tất cả các phương thức xét tuyển (không tính điểm ưu tiên tuyển sinh)",
+                    "qas": [
+                        {
+                            "question": "Điều kiện nhận học bổng tân sinh viên các Trường THPT đã hợp tác với Trường",
+                            "id": "3f85d261-1dc9-446d-a0a3-602fe6aa52fe",
+                            "answers": [
+                                {
+                                    "answer_start": 11,
+                                    "text": "Sinh viên đạt điểm xét tuyển cao nhất của Trường THPT và ≥ 33,33/40 điểm tính theo điểm thi tốt nghiệp THPT của tất cả các phương thức xét tuyển (không tính điểm ưu tiên tuyển sinh)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Mức cấp học bổng: Học bổng toàn phần (100% học phí) theo khung chương trình đào tạo tiêu chuẩn của năm thứ nhất (học kỳ 1: 100% học phí theo khung chương trình tiêu chuẩn; học kỳ 2: 100% học phí theo khung chương trình tiêu chuẩn khi sinh viên đạt kết quả Học tập, Rèn luyện học kỳ 1 từ Khá trở lên). Những năm học tiếp theo, Nhà trường sẽ cấp học bổng Học tập Rèn luyện khi sinh viên thỏa các điều kiện xét học bổng",
+                    "qas": [
+                        {
+                            "question": "Mức cấp học bổng tân sinh viên các Trường THPT đã hợp tác với Trường",
+                            "id": "c6b64df8-28b6-48b2-9a5b-fade955e46e9",
+                            "answers": [
+                                {
+                                    "answer_start": 18,
+                                    "text": "Học bổng toàn phần (100% học phí) theo khung chương trình đào tạo tiêu chuẩn của năm thứ nhất (học kỳ 1: 100% học phí theo khung chương trình tiêu chuẩn; học kỳ 2: 100% học phí theo khung chương trình tiêu chuẩn khi sinh viên đạt kết quả Học tập, Rèn luyện học kỳ 1 từ Khá trở lên)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Cách thức xét học bổng: Nhà trường sẽ tự xét cấp học bổng cho sinh viên dựa trên dữ liệu tuyển sinh, sinh viên không cần nộp đơn",
+                    "qas": [
+                        {
+                            "question": "Cách thức xét học bổng tân sinh viên các Trường THPT đã hợp tác với Trường",
+                            "id": "36261afc-2aa0-4552-ad6c-5a46311a4ae4",
+                            "answers": [
+                                {
+                                    "answer_start": 24,
+                                    "text": "Nhà trường sẽ tự xét cấp học bổng cho sinh viên dựa trên dữ liệu tuyển sinh, sinh viên không cần nộp đơn"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Thời gian nhận học bổng: Học bổng được cấp theo từng học kỳ, sinh viên đạt học bổng theo dõi thời gian nhận cụ thể tại cổng thông tin sinh viên. Lưu ý: Trường hợp có nhiều Tân sinh viên thỏa điều kiện học bổng và có cùng mức điểm xét học bổng thì sẽ xét ưu tiên học bổng theo điểm trung bình kết quả học tập năm lớp 12.",
+                    "qas": [
+                        {
+                            "question": "Thời gian nhận học bổng",
+                            "id": "31418048-1b1f-4c9b-b91c-5ac4fb3f2b75",
+                            "answers": [
+                                {
+                                    "answer_start": 25,
+                                    "text": "Học bổng được cấp theo từng học kỳ, sinh viên đạt học bổng theo dõi thời gian nhận cụ thể tại cổng thông tin sinh viên"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Trường hợp có nhiều Tân sinh viên thỏa điều kiện học bổng và có cùng mức điểm xét học bổng tân sinh viên các Trường THPT đã hợp tác với Trường thì sao",
+                            "id": "c66d4efe-cef9-4696-94df-b6cd0aeebeb8",
+                            "answers": [
+                                {
+                                    "answer_start": 250,
+                                    "text": "xét ưu tiên học bổng theo điểm trung bình kết quả học tập năm lớp 12"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Học bổng Tân sinh viên đoạt giải Nhất cuộc thi khoa học kỹ thuật quốc gia",
+            "paragraphs": [
+                {
+                    "context": "Đối tượng: Sinh viên đăng ký xét tuyển thẳng đợt tuyển sinh đại học và nhập học tại Trường.",
+                    "qas": [
+                        {
+                            "question": "Đối tượng nhận học bổng Tân sinh viên đoạt giải Nhất cuộc thi khoa học kỹ thuật quốc gia",
+                            "id": "cff6a3e8-655f-4d09-8599-10a11aa6b96b",
+                            "answers": [
+                                {
+                                    "answer_start": 11,
+                                    "text": "Sinh viên đăng ký xét tuyển thẳng đợt tuyển sinh đại học và nhập học tại Trường"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều kiện: Học sinh lớp 12 đoạt giải Nhất cuộc thi khoa học kỹ thuật cấp quốc gia năm 2020. Học sinh lớp 12 đoạt giải Nhất cuộc thi khoa học kỹ thuật cấp quốc gia năm 2019 và có học lực năm lớp 12 đạt loại giỏi",
+                    "qas": [
+                        {
+                            "question": "Điều kiện nhận học bổng Tân sinh viên đoạt giải Nhất cuộc thi khoa học kỹ thuật quốc gia",
+                            "id": "f455a4a6-4a66-4346-9aa7-032c68f73e4b",
+                            "answers": [
+                                {
+                                    "answer_start": 11,
+                                    "text": "Học sinh lớp 12 đoạt giải Nhất cuộc thi khoa học kỹ thuật cấp quốc gia năm 2020. Học sinh lớp 12 đoạt giải Nhất cuộc thi khoa học kỹ thuật cấp quốc gia năm 2019 và có học lực năm lớp 12 đạt loại giỏi"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Mức cấp học bổng: Học bổng toàn phần (100% học phí) theo khung chương trình đào tạo tiêu chuẩn của năm thứ nhất. Những năm học tiếp theo, Nhà trường sẽ cấp học bổng Học tập Rèn luyện khi sinh viên thỏa các điều kiện xét học bổng",
+                    "qas": [
+                        {
+                            "question": "Mức cấp học bổng Tân sinh viên đoạt giải Nhất cuộc thi khoa học kỹ thuật quốc gia",
+                            "id": "af0c3910-2cda-47fb-8f71-f45173afe241",
+                            "answers": [
+                                {
+                                    "answer_start": 18,
+                                    "text": "Học bổng toàn phần (100% học phí) theo khung chương trình đào tạo tiêu chuẩn của năm thứ nhất"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Cách thức xét học bổng: Sinh viên nộp đơn xét cấp học bổng kèm minh chứng đoạt giải Nhất cuộc thi khoa học kỹ thuật cấp quốc gia trong lúc nộp hồ sơ nhập học",
+                    "qas": [
+                        {
+                            "question": "Các thức xét học bổng tân sinh viên đoạt giải Nhất cuộc thi khoa học kỹ thuật quốc gia",
+                            "id": "6da2fc00-506c-43ca-85b6-f01d9db18ef2",
+                            "answers": [
+                                {
+                                    "answer_start": 24,
+                                    "text": "Sinh viên nộp đơn xét cấp học bổng kèm minh chứng đoạt giải Nhất cuộc thi khoa học kỹ thuật cấp quốc gia trong lúc nộp hồ sơ nhập học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Thời gian nhận học bổng: Học bổng được cấp vào cuối năm học, sinh viên đạt học bổng theo dõi thời gian nhận cụ thể tại cổng thông tin sinh viên",
+                    "qas": [
+                        {
+                            "question": "Thời gian nhận học bổng tân sinh viên đoạt giải Nhất cuộc thi khoa học kỹ thuật quốc gia",
+                            "id": "d4d9cc20-dd46-4614-ac76-850f6c727e06",
+                            "answers": [
+                                {
+                                    "answer_start": 25,
+                                    "text": "Học bổng được cấp vào cuối năm học, sinh viên đạt học bổng theo dõi thời gian nhận cụ thể tại cổng thông tin sinh viên"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Học bổng chương trình Du học luân chuyển campus",
+            "paragraphs": [
+                {
+                    "context": "Đối tượng, số lượng và mức cấp học bổng: Học sinh đoạt giải từ khuyến khích trở lên trong các cuộc thi học sinh giỏi từ cấp tỉnh trở lên (trong thời gian 3 năm THPT): cấp học bổng 100% học phí chính khoá Giai đoạn 1. Học sinh có chứng chỉ tiếng Anh quốc tế đạt trình độ B2 trở lên và điểm xét tuyển đạt từ 32/40 điểm trở lên: 05 suất học bổng 100% học phí chính khoá Giai đoạn 1. Học sinh có điểm xét tuyển đạt từ 32/40 điểm trở lên: 05 suất học bổng 50% học phí chính khoá Giai đoạn 1. Học sinh có chứng chỉ tiếng Anh quốc tế đạt trình độ B2 trở lên: 05 suất học bổng 50% học phí chính khoá Giai đoạn 1. ",
+                    "qas": [
+                        {
+                            "question": "Đối tượng của học bổng chương trình Du học luân chuyển campus?",
+                            "id": "b0e474dd-c5cb-4aff-ab57-ac7fc87e37f8",
+                            "answers": [
+                                {
+                                    "answer_start": 41,
+                                    "text": "Học sinh đoạt giải từ khuyến khích trở lên trong các cuộc thi học sinh giỏi từ cấp tỉnh trở lên (trong thời gian 3 năm THPT): cấp học bổng 100% học phí chính khoá Giai đoạn 1. Học sinh có chứng chỉ tiếng Anh quốc tế đạt trình độ B2 trở lên và điểm xét tuyển đạt từ 32/40 điểm trở lên: 05 suất học bổng 100% học phí chính khoá Giai đoạn 1. Học sinh có điểm xét tuyển đạt từ 32/40 điểm trở lên: 05 suất học bổng 50% học phí chính khoá Giai đoạn 1. Học sinh có chứng chỉ tiếng Anh quốc tế đạt trình độ B2 trở lên: 05 suất học bổng 50% học phí chính khoá Giai đoạn 1."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Cách thức xét học bổng: Sinh viên nộp kèm hồ sơ minh chứng thành tích đạt được trong hồ sơ nhập học để Nhà trường xét cấp học bổng cho sinh viên",
+                    "qas": [
+                        {
+                            "question": "Cách thức xét học bổng chương trình Du học luân chuyển campus?",
+                            "id": "d17edf0a-355f-4e57-88f4-490a870e4112",
+                            "answers": [
+                                {
+                                    "answer_start": 24,
+                                    "text": "Sinh viên nộp kèm hồ sơ minh chứng thành tích đạt được trong hồ sơ nhập học để Nhà trường xét cấp học bổng cho sinh viên"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Thời gian nhận học bổng: Ngay khi sinh viên vào học chính khóa chương trình du học luân chuyển campus",
+                    "qas": [
+                        {
+                            "question": "Thời gain nhận học bổng chương trình Du học luân chuyển campus?",
+                            "id": "efcbfc49-1113-4739-8677-82d3a8a8ae4e",
+                            "answers": [
+                                {
+                                    "answer_start": 25,
+                                    "text": "Ngay khi sinh viên vào học chính khóa chương trình du học luân chuyển campus"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Học bổng dành cho sinh viên quốc tế",
+            "paragraphs": [
+                {
+                    "context": "Học bổng dành cho sinh viên quốc tế gồm các loại học bổng như sau: 1. Học bổng cho lưu học sinh có quốc tịch Thailand, Laos, Cambodia (mỗi nước 10 Trường THPT được xét cấp học bổng): cấp 05 suất học bổng 100% hoặc 10 suất học bổng 50% cho mỗi Trường THPT. 2. Học bổng cho lưu học sinh các nước Philippines, Myanmar: 40 suất học bổng 100% cho mỗi nước; 10 suất học bổng 100% chương trình đại học bằng tiếng Anh. 3. Học bổng cho lưu học sinh học tại các Trường THPT quốc tế tại Việt Nam: cấp học bổng cho 05 trường THPT quốc tế, 02 suất học bổng/Trường THPT quốc tế: 01 suất học bổng 100% chương trình đại học bằng tiếng Việt, 01 suất học bổng 100% chương trình đại học bằng tiếng Anh.",
+                    "qas": [
+                        {
+                            "question": "Học bổng dành cho sinh viên quốc tế gồm các loại học bổng nào",
+                            "id": "bf300b8b-b173-486f-91a4-2ca4a9720c03",
+                            "answers": [
+                                {
+                                    "answer_start": 67,
+                                    "text": "1. Học bổng cho lưu học sinh có quốc tịch Thailand, Laos, Cambodia (mỗi nước 10 Trường THPT được xét cấp học bổng): cấp 05 suất học bổng 100% hoặc 10 suất học bổng 50% cho mỗi Trường THPT. 2. Học bổng cho lưu học sinh các nước Philippines, Myanmar: 40 suất học bổng 100% cho mỗi nước; 10 suất học bổng 100% chương trình đại học bằng tiếng Anh. 3. Học bổng cho lưu học sinh học tại các Trường THPT quốc tế tại Việt Nam: cấp học bổng cho 05 trường THPT quốc tế, 02 suất học bổng/Trường THPT quốc tế: 01 suất học bổng 100% chương trình đại học bằng tiếng Việt, 01 suất học bổng 100% chương trình đại học bằng tiếng Anh"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Mức cấp học bổng dành cho sinh viên có quốc tịch Thái Lan, Lào, Campuchia",
+                            "id": "a0e84442-c4d1-4f2f-95e8-c1164a35c218",
+                            "answers": [
+                                {
+                                    "answer_start": 134,
+                                    "text": "(mỗi nước 10 Trường THPT được xét cấp học bổng): cấp 05 suất học bổng 100% hoặc 10 suất học bổng 50% cho mỗi Trường THPT"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Mức cấp học bổng dành cho sinh viên có quốc tịch Philippines, Myanmar",
+                            "id": "e40acc4b-990f-4405-9bb6-d720b12fafd4",
+                            "answers": [
+                                {
+                                    "answer_start": 316,
+                                    "text": "40 suất học bổng 100% cho mỗi nước; 10 suất học bổng 100% chương trình đại học bằng tiếng Anh"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Mức cấp học bổng dành cho lưu học sinh học tại các Trường THPT quốc tế tại Việt Nam",
+                            "id": "3b13d970-8915-4020-86ec-8dd5f7a2cea0",
+                            "answers": [
+                                {
+                                    "answer_start": 486,
+                                    "text": "cấp học bổng cho 05 trường THPT quốc tế, 02 suất học bổng/Trường THPT quốc tế: 01 suất học bổng 100% chương trình đại học bằng tiếng Việt, 01 suất học bổng 100% chương trình đại học bằng tiếng Anh"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Học bổng học tập và rèn luyện",
+            "paragraphs": [
+                {
+                    "context": "Đối tượng: Sinh viên đang theo học ngành chính (ngành học thứ nhất); không xét sinh viên năm cuối (học kỳ 7, kỳ 8 đối với ngành 4 năm; học kỳ 9, kỳ 10 đối với ngành 5 năm)",
+                    "qas": [
+                        {
+                            "question": "Đối tượng của học bổng học tập và rèn luyện?",
+                            "id": "8e414079-87b4-403c-bc36-18f0f2f3fb19",
+                            "answers": [
+                                {
+                                    "answer_start": 11,
+                                    "text": "Sinh viên đang theo học ngành chính (ngành học thứ nhất); không xét sinh viên năm cuối (học kỳ 7, kỳ 8 đối với ngành 4 năm; học kỳ 9, kỳ 10 đối với ngành 5 năm)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều kiện: Số tín chỉ tích lũy ngành chính tính đến thời điểm xét phải lớn hơn hoặc bằng số tín chỉ điều kiện (số tín chỉ điều kiện được xác định dựa trên khung chương trình học của ngành chính tính đến thời điểm xét). Điểm trung bình tích lũy học bổng (điểm trung bình tích lũy kết quả của các môn học trong lần học đầu tiên, không tính điểm các lần học cải thiện) trong năm học xét từ 8,0 trở lên. Không có môn học nào mà sinh viên có học thuộc ngành chính đạt dưới 5,0 trong năm học xét học bổng (bao gồm điểm K, điểm E). Không có môn học nào mà sinh viên thi lại lần thứ 2 trong năm học xét. Những môn học có điểm miễn (M), điểm rút (R), điểm hoãn (H), điểm chưa hoàn thành (P) thì vẫn được tham gia dự xét học bổng. Điểm trung bình rèn luyện trong năm học xét từ 80 trở lên. Sinh viên không vi phạm nội qui, qui định của Nhà trường trong năm học xét. Riêng đối với sinh viên năm nhất thì đến thời điểm xét, sinh viên phải hoàn tất học phần tiếng Anh ngoài chương trình đào tạo.",
+                    "qas": [
+                        {
+                            "question": "Điều kiện của học bổng học tập và rèn luyện?",
+                            "id": "a7b9e332-84bb-4787-b737-31b509c77821",
+                            "answers": [
+                                {
+                                    "answer_start": 11,
+                                    "text": "Số tín chỉ tích lũy ngành chính tính đến thời điểm xét phải lớn hơn hoặc bằng số tín chỉ điều kiện (số tín chỉ điều kiện được xác định dựa trên khung chương trình học của ngành chính tính đến thời điểm xét). Điểm trung bình tích lũy học bổng (điểm trung bình tích lũy kết quả của các môn học trong lần học đầu tiên, không tính điểm các lần học cải thiện) trong năm học xét từ 8,0 trở lên. Không có môn học nào mà sinh viên có học thuộc ngành chính đạt dưới 5,0 trong năm học xét học bổng (bao gồm điểm K, điểm E). Không có môn học nào mà sinh viên thi lại lần thứ 2 trong năm học xét. Những môn học có điểm miễn (M), điểm rút (R), điểm hoãn (H), điểm chưa hoàn thành (P) thì vẫn được tham gia dự xét học bổng. Điểm trung bình rèn luyện trong năm học xét từ 80 trở lên. Sinh viên không vi phạm nội qui, qui định của Nhà trường trong năm học xét. Riêng đối với sinh viên năm nhất thì đến thời điểm xét, sinh viên phải hoàn tất học phần tiếng Anh ngoài chương trình đào tạo."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Mức cấp học bổng: Kết quả học tập Kết quả rèn luyện Mức cấp học bổng (đồng/năm học) Xuất sắc Xuất sắc 20.000.000 Xuất sắc Tốt 15.000.000 Giỏi Xuất sắc 12.000.000 Giỏi Tốt 10.000.000 1.4. Lưu ý: Sinh viên học tập từ Giỏi rèn luyện từ Tốt trở lên nhưng có 01 học kỳ tham gia học chuyển tiếp tại nước ngoài, Nhà trường sẽ xem xét mức cấp học bổng cho sinh viên dựa trên dữ liệu học phí sinh viên học tại Trường Đại học Tôn Đức Thắng. Trường hợp sinh viên học gián đoạn tại Trường vì lý do sức khỏe hoặc thực hiện nghĩa vụ quân sự thì những năm học sinh viên bảo lưu sẽ được cấp học bổng khi sinh viên quay lại học tập tại Trường và đạt đủ điều kiện theo mục 1.2.  Những trường hợp sinh viên học gián đoạn tại Trường vì lý do cá nhân hoặc bị xử lý kỷ luật thì những năm học sinh viên bảo lưu hoặc bị đình chỉ sẽ không được cấp học bổng này. Lưu học sinh đạt kết quả học tập từ Giỏi rèn luyện từ Tốt trở lên đã nhận học bổng dành cho sinh viên quốc tế của Trường Đại học Tôn Đức Thắng cấp trong năm học xét sẽ được Nhà trường cấp giấy khen. 2. Áp dụng cho trình độ cao đẳng: Đối với học bổng Học tập Rèn luyện, Ban đào tạo Cao đẳng thực hành Trung cấp chuyên nghiệp sẽ có đề xuất riêng trình Ban Giám hiệu phê duyệt.",
+                    "qas": [
+                        {
+                            "question": "Mức cấp học bổng của học bổng học tập và rèn luyện?",
+                            "id": "d30ae619-c683-442e-b7f0-55aca859aeb0",
+                            "answers": [
+                                {
+                                    "answer_start": 18,
+                                    "text": "Kết quả học tập Kết quả rèn luyện Mức cấp học bổng (đồng/năm học) Xuất sắc Xuất sắc 20.000.000 Xuất sắc Tốt 15.000.000 Giỏi Xuất sắc 12.000.000 Giỏi Tốt 10.000.000 1.4. Lưu ý: Sinh viên học tập từ Giỏi rèn luyện từ Tốt trở lên nhưng có 01 học kỳ tham gia học chuyển tiếp tại nước ngoài, Nhà trường sẽ xem xét mức cấp học bổng cho sinh viên dựa trên dữ liệu học phí sinh viên học tại Trường Đại học Tôn Đức Thắng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Học bổng sinh viên nội trú Ký túc xá",
+            "paragraphs": [
+                {
+                    "context": "Đối tượng: Sinh viên đang ở nội trú tại Ký túc xá đạt đủ các tiêu chuẩn xét học bổng",
+                    "qas": [
+                        {
+                            "question": "Đối tượng của học bổng sinh viên nội trú Ký túc xá?",
+                            "id": "2fab174a-2cf2-4760-8515-a3bb804e16f2",
+                            "answers": [
+                                {
+                                    "answer_start": 11,
+                                    "text": "Sinh viên đang ở nội trú tại Ký túc xá đạt đủ các tiêu chuẩn xét học bổng"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": ".2. Tiêu chuẩn cấp học bổng: 2.1. Sinh viên nội trú có thành tích đóng góp cho các hoạt động tại Ký túc xá: Là thành viên Đội sinh viên tự quản Ký túc xá có tư cách đạo đức tốt, có nhiều đóng góp cho các hoạt động tại Ký túc xá, được tập thể Đội sinh viên tự quản tín nhiệm bầu chọn và được Giám đốc Ký túc xá thống nhất đề xuất Nhà trường cấp học bổng. Không vi phạm Qui chế công tác sinh viên, Qui chế và nội qui, qui định của Ký túc xá, của Nhà trường; đạt điểm rèn luyện trong năm xét từ 60 điểm trở lên. Chưa nhận học bổng khác trong năm học. 2.2. Sinh viên nội trú nghèo vượt khó: Thuộc diện gia đình nghèo theo qui định của Nhà nước; những trường hợp ngoài qui định nhưng khó khăn đặc biệt (có minh chứng cụ thế). Sinh viên có điểm trung bình học tập học kỳ, năm học gần nhất từ 5.0 trở lên (xét từ cao xuống thấp). Không vi phạm Qui chế công tác sinh viên, Qui chế và nội qui, qui định của Nhà trường, của Ký túc xá; đạt điểm rèn luyện từ 60 điểm trở lên. Sinh viên năm thứ nhất mới nhập học sẽ căn cứ vào điểm thi đầu vào (có thông báo cụ thể vào mỗi đợt xét học bổng). Chưa nhận học bổng khác trong năm học.3. Số lượng, hình thức cấp, mức hỗ trợ và thời gian được hưởng học bổng: Số lượng: tổng số suất học bổng được cấp trong mỗi năm học tương đương 40 suất/năm học; 20 suất/học kỳ. Hình thức cấp: miễn, giảm phí ở Ký túc xá. ",
+                    "qas": [
+                        {
+                            "question": "Tiêu chuẩn cấp học bổng sinh viên nội trú Ký túc xá?",
+                            "id": "51966b2d-cdb9-4b93-a60f-31a18248cc7c",
+                            "answers": [
+                                {
+                                    "answer_start": 34,
+                                    "text": "Sinh viên nội trú có thành tích đóng góp cho các hoạt động tại Ký túc xá: Là thành viên Đội sinh viên tự quản Ký túc xá có tư cách đạo đức tốt, có nhiều đóng góp cho các hoạt động tại Ký túc xá, được tập thể Đội sinh viên tự quản tín nhiệm bầu chọn và được Giám đốc Ký túc xá thống nhất đề xuất Nhà trường cấp học bổng. Không vi phạm Qui chế công tác sinh viên, Qui chế và nội qui, qui định của Ký túc xá, của Nhà trường; đạt điểm rèn luyện trong năm xét từ 60 điểm trở lên. Chưa nhận học bổng khác trong năm học. 2.2. Sinh viên nội trú nghèo vượt khó: Thuộc diện gia đình nghèo theo qui định của Nhà nước; những trường hợp ngoài qui định nhưng khó khăn đặc biệt (có minh chứng cụ thế). Sinh viên có điểm trung bình học tập học kỳ, năm học gần nhất từ 5.0 trở lên (xét từ cao xuống thấp). Không vi phạm Qui chế công tác sinh viên, Qui chế và nội qui, qui định của Nhà trường, của Ký túc xá; đạt điểm rèn luyện từ 60 điểm trở lên. Sinh viên năm thứ nhất mới nhập học sẽ căn cứ vào điểm thi đầu vào (có thông báo cụ thể vào mỗi đợt xét học bổng). Chưa nhận học bổng khác trong năm học."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Số lượng của học bổng sinh viên nội trú Ký túc xá?",
+                            "id": "154675b7-f9a0-45a9-a45a-fb092306da55",
+                            "answers": [
+                                {
+                                    "answer_start": 1261,
+                                    "text": "40 suất/năm học; 20 suất/học kỳ"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hình thức cấp của học bổng sinh viên nội trú Ký túc xá?",
+                            "id": "d15bd1fd-e805-4a05-a074-7a12a67b2359",
+                            "answers": [
+                                {
+                                    "answer_start": 1309,
+                                    "text": "miễn, giảm phí ở Ký túc xá"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Mức học bổng: 2.500.000 đồng/suất. Thời gian xét, cấp học bổng: học bổng được xét, cấp theo mỗi học kỳ (học kỳ 1 và học kỳ 2)",
+                    "qas": [
+                        {
+                            "question": "Mức học bổng của học bổng sinh viên nội trú Ký túc xá?",
+                            "id": "0f2769f4-3beb-4a4a-bc11-9e8f691cacbc",
+                            "answers": [
+                                {
+                                    "answer_start": 14,
+                                    "text": "2.500.000 đồng/suất"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Thời gian xét học bổng ký túc xá?",
+                            "id": "ca57c8ab-fe5a-4976-8de1-3f7f7c1fb3f4",
+                            "answers": [
+                                {
+                                    "answer_start": 64,
+                                    "text": "học bổng được xét, cấp theo mỗi học kỳ (học kỳ 1 và học kỳ 2)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Hồ sơ học bổng: Đơn xin cấp học bổng; Bảng điểm học tập theo từng học kỳ, năm học có xác nhận của Phòng đại học; Bản sao công chứng sổ hộ nghèo, hộ cận nghèo theo qui định Nhà nước; hoặc giấy xác nhận trường hợp khó khăn đặc biệt (có minh chứng cụ thể); Giấy xác nhận điểm rèn luyện có xác nhận của Phòng công tác học sinh sinh viên. Địa điểm nộp hồ sơ: Hồ sơ xin cấp học bổng sinh viên nội trú nộp tại Phòng trực Ký túc xá.",
+                    "qas": [
+                        {
+                            "question": "Hồ sơ học bổng sinh viên nội trú Ký túc xá gồm những gì?",
+                            "id": "6989dd0d-66e1-4562-b360-1a3e114fb31d",
+                            "answers": [
+                                {
+                                    "answer_start": 16,
+                                    "text": "Đơn xin cấp học bổng; Bảng điểm học tập theo từng học kỳ, năm học có xác nhận của Phòng đại học; Bản sao công chứng sổ hộ nghèo, hộ cận nghèo theo qui định Nhà nước; hoặc giấy xác nhận trường hợp khó khăn đặc biệt (có minh chứng cụ thể); Giấy xác nhận điểm rèn luyện có xác nhận của Phòng công tác học sinh sinh viên"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Địa điểm nộp hồ sơ của học bổng sinh viên nội trú Ký túc xá?",
+                            "id": "4a8e64b0-c6b2-449c-9299-c6b18e667dca",
+                            "answers": [
+                                {
+                                    "answer_start": 403,
+                                    "text": "Phòng trực Ký túc xá."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Học bổng Hội khuyến học dành cho sinh viên",
+            "paragraphs": [
+                {
+                    "context": "Đối tượng: Sinh viên thuộc hộ nghèo, hộ cận nghèo trong năm xét theo qui định của Nhà nước. Sinh viên mồ côi. Sinh viên có hoàn cảnh đặc biệt khó khăn",
+                    "qas": [
+                        {
+                            "question": "Đối tượng của học bổng Hội khuyến học dành cho sinh viên?",
+                            "id": "caa70c82-34bc-4494-933a-457e8178a446",
+                            "answers": [
+                                {
+                                    "answer_start": 11,
+                                    "text": "Sinh viên thuộc hộ nghèo, hộ cận nghèo trong năm xét theo qui định của Nhà nước. Sinh viên mồ côi. Sinh viên có hoàn cảnh đặc biệt khó khăn"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều kiện: Sinh viên phải đạt kết quả điểm học tập trong năm học xét từ 5,0 trở lên; kết quả điểm rèn luyện trong năm học xét từ 50 trở lên. Không thuộc diện sinh viên được miễn, giảm học phí theo Nghị định của Chính phủ. Những trường hợp ngoại lệ, Phòng Công tác học sinh sinh viên sẽ trình xin ý kiến của Chủ tịch Hội Khuyến học",
+                    "qas": [
+                        {
+                            "question": "Điều kiện của học bổng Hội khuyến học dành cho sinh viên?",
+                            "id": "2584e9dd-dc0a-47d7-8aeb-cd7c03ad5da2",
+                            "answers": [
+                                {
+                                    "answer_start": 11,
+                                    "text": "Sinh viên phải đạt kết quả điểm học tập trong năm học xét từ 5,0 trở lên; kết quả điểm rèn luyện trong năm học xét từ 50 trở lên. Không thuộc diện sinh viên được miễn, giảm học phí theo Nghị định của Chính phủ. Những trường hợp ngoại lệ, Phòng Công tác học sinh sinh viên sẽ trình xin ý kiến của Chủ tịch Hội Khuyến học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Mức cấp học bổng: Tùy vào nguồn quỹ của Hội Khuyến học hàng năm, Hội sẽ xét và cấp học bổng cho sinh viên thỏa điều kiện từ cao xuống",
+                    "qas": [
+                        {
+                            "question": "Mức cấp học bổng của học bổng Hội khuyến học dành cho sinh viên?",
+                            "id": "58b302e9-391b-44da-a70e-b26805872e26",
+                            "answers": [
+                                {
+                                    "answer_start": 18,
+                                    "text": "Tùy vào nguồn quỹ của Hội Khuyến học hàng năm, Hội sẽ xét và cấp học bổng cho sinh viên thỏa điều kiện từ cao xuống"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Cách thức xét học bổng: Sinh viên nộp hồ sơ theo thông báo của Phòng Công tác học sinh sinh viên.",
+                    "qas": [
+                        {
+                            "question": "Cách thức xét học bổng của Học bổng Hội khuyến học dành cho sinh viên?",
+                            "id": "cd665c31-dee6-4d4c-951d-d91846da1341",
+                            "answers": [
+                                {
+                                    "answer_start": 24,
+                                    "text": "Sinh viên nộp hồ sơ theo thông báo của Phòng Công tác học sinh sinh viên."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Học bổng dành cho con, anh/chị em ruột của Cán bộ công đoàn",
+            "paragraphs": [
+                {
+                    "context": "Đối tượng: Sinh viên là con, anh/chị em ruột của Cán bộ công đoàn (cấp Ủy viên Ban chấp hành trở lên) đang công tác tại Liên đoàn Lao động các Tỉnh, Thành phố, Quận, Huyện, Công đoàn ngành tương đương",
+                    "qas": [
+                        {
+                            "question": "Đối tượng của học bổng dành cho con, anh/chị em ruột của Cán bộ công đoàn",
+                            "id": "263d1532-813e-4072-9208-a5f37c163db4",
+                            "answers": [
+                                {
+                                    "answer_start": 11,
+                                    "text": "Sinh viên là con, anh/chị em ruột của Cán bộ công đoàn (cấp Ủy viên Ban chấp hành trở lên) đang công tác tại Liên đoàn Lao động các Tỉnh, Thành phố, Quận, Huyện, Công đoàn ngành tương đương"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Mức cấp học bổng: Trình độ đại học: Cấp học bổng 10.000.000 đồng/sinh viên/toàn khóa học, trong đó chia ra: học phí 6.000.000 đồng/sinh viên; phí Ký túc xá 4.000.000 đồng/sinh viên. Trình độ cao đẳng: Cấp học bổng 5.000.000 đồng/sinh viên/toàn khóa học, trong đó chia ra: học phí 3.000.000 đồng/sinh viên; phí Ký túc xá 2.000.000 đồng/sinh viên",
+                    "qas": [
+                        {
+                            "question": "Mức cấp học bổng của dành cho con, anh/chị em ruột của Cán bộ công đoàn?",
+                            "id": "ec41ca67-4ac2-4ca3-b0c9-4f15a15670e5",
+                            "answers": [
+                                {
+                                    "answer_start": 18,
+                                    "text": "Trình độ đại học: Cấp học bổng 10.000.000 đồng/sinh viên/toàn khóa học, trong đó chia ra: học phí 6.000.000 đồng/sinh viên; phí Ký túc xá 4.000.000 đồng/sinh viên. Trình độ cao đẳng: Cấp học bổng 5.000.000 đồng/sinh viên/toàn khóa học, trong đó chia ra: học phí 3.000.000 đồng/sinh viên; phí Ký túc xá 2.000.000 đồng/sinh viên"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Phương thức cấp học bổng: Học phí toàn khóa được trừ tất cả vào năm học cuối trước khi tốt nghiệp; phí Ký túc xá được khấu trừ mỗi tháng 100.000 đồng/sinh viên trong suốt thời gian cư ngụ học tập. Sinh viên không nội trú Ký túc xá của Trường, sẽ không được hưởng khoản tài trợ này",
+                    "qas": [
+                        {
+                            "question": "Phương thức cấp học bổng của học bổng dành cho con, anh/chị em ruột của Cán bộ công đoàn?",
+                            "id": "6d6bb8fa-d8bd-4a4e-aa71-766c3e77996e",
+                            "answers": [
+                                {
+                                    "answer_start": 26,
+                                    "text": "Học phí toàn khóa được trừ tất cả vào năm học cuối trước khi tốt nghiệp; phí Ký túc xá được khấu trừ mỗi tháng 100.000 đồng/sinh viên trong suốt thời gian cư ngụ học tập. Sinh viên không nội trú Ký túc xá của Trường, sẽ không được hưởng khoản tài trợ này"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Cách thức xét học bổng: Sinh viên nộp hồ sơ theo thông báo của Phòng Công tác học sinh sinh viên",
+                    "qas": [
+                        {
+                            "question": "Cách thức xét học bổng của học bổng dành cho con, anh/chị em ruột của Cán bộ công đoàn?",
+                            "id": "09ac2788-7c55-482c-beb2-54cc0be0c665",
+                            "answers": [
+                                {
+                                    "answer_start": 24,
+                                    "text": "Sinh viên nộp hồ sơ theo thông báo của Phòng Công tác học sinh sinh viên"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Học bổng dành cho anh/chị em ruột học tại Trường",
+            "paragraphs": [
+                {
+                    "context": "Đối tượng: Anh/chị em ruột đang theo học ngành chính tại Trường theo đúng khóa học",
+                    "qas": [
+                        {
+                            "question": "Đối tượng của Học bổng dành cho anh/chị em ruột học tại Trường",
+                            "id": "b5d2dcf2-6613-4fd7-8b2b-7201f61fdc5a",
+                            "answers": [
+                                {
+                                    "answer_start": 11,
+                                    "text": "Anh/chị em ruột đang theo học ngành chính tại Trường theo đúng khóa học"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Mức cấp học bổng: Cấp học bổng 15% học phí theo khung chương trình đào tạo tiêu chuẩn/người học thứ hai (trở đi, nếu có)/năm học",
+                    "qas": [
+                        {
+                            "question": "Mức cấp học bổng của Học bổng dành cho anh/chị em ruột học tại Trường?",
+                            "id": "e4191e78-4f30-4641-9dcf-3821504db96b",
+                            "answers": [
+                                {
+                                    "answer_start": 18,
+                                    "text": "Cấp học bổng 15% học phí theo khung chương trình đào tạo tiêu chuẩn/người học thứ hai (trở đi, nếu có)/năm học"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Khen thưởng",
+            "paragraphs": [
+                {
+                    "context": "Khen thưởng tân sinh viên đạt thành tích cao về kỹ năng ngoại ngữ đầu vào: IELTS, CEPT Cambridge, TOEFL.",
+                    "qas": [
+                        {
+                            "question": "Tân sinh viên có chứng chỉ nào thì được khen thưởng",
+                            "id": "91ba2211-3e42-405e-92df-93bb1b1b7fba",
+                            "answers": [
+                                {
+                                    "answer_start": 75,
+                                    "text": "IELTS, CEPT Cambridge, TOEFL"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Khen thưởng tân sinh viên đạt thành tích cao về tin học: Sinh viên đạt 1.000 điểm Microsoft Office Specialist cả 2 chứng chỉ quốc tế MOS Word và MOS Excel",
+                    "qas": [
+                        {
+                            "question": "Tân sinh viên đạt thành tích tin học nào thì được khen thưởng",
+                            "id": "1924dbdd-6511-458f-976d-2da54fada479",
+                            "answers": [
+                                {
+                                    "answer_start": 57,
+                                    "text": "Sinh viên đạt 1.000 điểm Microsoft Office Specialist cả 2 chứng chỉ quốc tế MOS Word và MOS Excel"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
