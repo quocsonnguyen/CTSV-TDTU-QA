@@ -1,12 +1,6 @@
 from flask import Flask, request, session, render_template
-import pandas as pd
-from unidecode import unidecode
-import re
 import json
-import os
-from subprocess import Popen, PIPE, STDOUT
 from elasticsearch import Elasticsearch
-from time import sleep
 import collections
 
 from transformers import BasicTokenizer ,AutoTokenizer, AutoModelForQuestionAnswering
@@ -119,10 +113,13 @@ def searchcontext(question):
     # context = [hit['_source']['document_text'] for hit in res['hits']['hits']]
 
     # get the most relevent context
-    context = res["hits"]["hits"][0]['_source']["document_text"]
-    app.logger.info(context)
+    if res["hits"]["hits"][0]["_score"] >= 5:
+        context = res["hits"]["hits"][0]['_source']["document_text"]
+        app.logger.info(context)
+        return context
+    
 
-    return context
+    return -1
 
 def get_final_text(pred_text, orig_text, do_lower_case, verbose_logging=False):
     """Project the tokenized prediction back to the original text."""
@@ -245,6 +242,11 @@ def get_answer():
 
     try:
         context = searchcontext(question)
+        if context == -1:
+            return {
+                "code" : -1,
+                "answer" : "Xin lỗi tôi không thể trả lời câu hỏi này"
+            }  
     except:
         return {
             "code" : -1,
@@ -294,7 +296,7 @@ if __name__ == '__main__':
     es.indices.create(index=index_name, body=index_config, ignore=400)
 
     # load corpus
-    corpus_file = "../data/data.json"
+    corpus_file = "./data/data.json"
     corpus = json.load(open(corpus_file, 'rb'))
 
     # parse question/answer record and get documents
@@ -304,7 +306,7 @@ if __name__ == '__main__':
     populate_index(es_obj=es, index_name=index_name, evidence_corpus=documents)
 
     # load the fine-tuned model
-    tokenizer = AutoTokenizer.from_pretrained("../model")
-    model = AutoModelForQuestionAnswering.from_pretrained("../model")
+    tokenizer = AutoTokenizer.from_pretrained("./model")
+    model = AutoModelForQuestionAnswering.from_pretrained("./model")
 
     app.run(debug=False)

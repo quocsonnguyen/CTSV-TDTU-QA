@@ -34,10 +34,10 @@
 #frame {
   width: 95%;
   min-width: 360px;
-  max-width: 1000px;
+  max-width: 1800px;
   height: 92vh;
   min-height: 300px;
-  max-height: 720px;
+  max-height: 900px;
   background: #E6EAEA;
 }
 @media screen and (max-width: 360px) {
@@ -814,7 +814,7 @@ function reply(message) {
 		return false;
 	}
   $.ajax({
-            url: "http://127.0.0.1:5000/api/get_answer",
+            url: "/api/get_answer",
             type: "POST",
             dataType: "json",
             data : {

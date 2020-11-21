@@ -5,7 +5,7 @@
             "title": "Chính sách học bổng",
             "paragraphs": [
                 {
-                    "context": "Học bổng miễn, giảm học phí bậc đại học: Sinh viên thuộc diện chính sách được quy định tại Nghị định số 86/2015/NĐ CP như con của Anh hùng Lực lượng vũ trang nhân dân; con của Anh hùng Lao động trong thời kỳ kháng chiến; con của liệt sỹ; con của thương binh; con của người hưởng chính sách như thương binh; con của bệnh binh; con của người hoạt động kháng chiến bị nhiễm chất độc hóa học; sinh viên bị tàn tật, khuyết tật thuộc diện hộ nghèo hoặc hộ cận nghèo; sinh viên là người dân tộc thiểu số thuộc hộ nghèo hoặc hộ cận nghèo;… được hưởng chế độ miễn, giảm học phí theo Nghị định hiện hành.",
+                    "context": "Đối tượng nhận học bổng miễn, giảm học phí bậc đại học: Sinh viên thuộc diện chính sách được quy định tại Nghị định số 86/2015/NĐ CP như con của Anh hùng Lực lượng vũ trang nhân dân; con của Anh hùng Lao động trong thời kỳ kháng chiến; con của liệt sỹ; con của thương binh; con của người hưởng chính sách như thương binh; con của bệnh binh; con của người hoạt động kháng chiến bị nhiễm chất độc hóa học; sinh viên bị tàn tật, khuyết tật thuộc diện hộ nghèo hoặc hộ cận nghèo; sinh viên là người dân tộc thiểu số thuộc hộ nghèo hoặc hộ cận nghèo;… được hưởng chế độ miễn, giảm học phí theo Nghị định hiện hành.",
                     "qas": [
                         {
                             "question": "Đối tượng nhận học bổng miễn giảm học phí bậc đại học",
@@ -20,7 +20,7 @@
                     ]
                 },
                 {
-                    "context": "Học bổng hỗ trợ phần chênh lệch học phí bậc đại học: Sinh viên diện chính sách, hộ nghèo được qui định theo Nghị định 86/2015/NĐ CP, phần học phí chênh lệch giữa mức học phí của Nhà trường với mức học phí được miễn  giảm của Nhà nước, sẽ được Nhà trường hỗ trợ khi không vi phạm pháp luật; Nội qui, qui định của Nhà trường và thỏa các điều kiện về học tập, rèn luyện.",
+                    "context": "Đối tượng nhận bổng hỗ trợ phần chênh lệch học phí bậc đại học: Sinh viên diện chính sách, hộ nghèo được qui định theo Nghị định 86/2015/NĐ CP, phần học phí chênh lệch giữa mức học phí của Nhà trường với mức học phí được miễn giảm của Nhà nước. Điều kiện nhận học bổng hỗ trợ phần chênh lệch học phí bậc đại học: Nhà trường hỗ trợ khi không vi phạm pháp luật, nội qui, qui định của Nhà trường và thỏa các điều kiện về học tập, rèn luyện.",
                     "qas": [
                         {
                             "question": "Đối tượng nhận học bổng hỗ trợ phần chênh lệch học phí bậc đại học",
@@ -45,7 +45,7 @@
                     ]
                 },
                 {
-                    "context": "Học bổng hỗ trợ chi phí học tập: Sinh viên là người dân tộc thiểu số thuộc hộ nghèo, hộ cận nghèo theo qui định của Nhà nước được hỗ trợ chi phí học tập theo Quyết định hiện hành.",
+                    "context": "Đối tượng nhận học bổng hỗ trợ chi phí học tập: Sinh viên là người dân tộc thiểu số thuộc hộ nghèo, hộ cận nghèo theo qui định của Nhà nước được hỗ trợ chi phí học tập theo Quyết định hiện hành.",
                     "qas": [
                         {
                             "question": "Đối tượng nhận học bổng hỗ trợ chi phí học tập",
@@ -60,7 +60,7 @@
                     ]
                 },
                 {
-                    "context": "Nhà trường xây dựng chính sách học bổng đa dạng, bao gồm: Học bổng thủ khoa đầu vào; Học bổng dành cho tân sinh viên xuất sắc; Học bổng dành cho tân sinh viên đạt giải Nhất cuộc thi khoa học kỹ thuật cấp quốc gia; Học bổng khuyến khích học tập, rèn luyện; Học bổng sinh viên ở nội trú Ký túc xá; Học bổng cho sinh viên có hoàn cảnh khó khăn",
+                    "context": "Trường có các loại học bổng bao gồm: Học bổng thủ khoa đầu vào; Học bổng dành cho tân sinh viên xuất sắc; Học bổng dành cho tân sinh viên đạt giải Nhất cuộc thi khoa học kỹ thuật cấp quốc gia; Học bổng khuyến khích học tập, rèn luyện; Học bổng sinh viên ở nội trú Ký túc xá; Học bổng cho sinh viên có hoàn cảnh khó khăn",
                     "qas": [
                         {
                             "question": "Trường có các loại học bổng nào",
@@ -75,7 +75,7 @@
                     ]
                 },
                 {
-                    "context": "Học bổng sinh viên nghèo vượt khó: Những sinh viên thuộc hộ nghèo, hộ cận nghèo theo qui định của Nhà nước; sinh viên mồ côi; sinh viên có hoàn cảnh đặc biệt khó khăn;",
+                    "context": "Đối tượng nhận học bổng sinh viên nghèo vượt khó: Những sinh viên thuộc hộ nghèo, hộ cận nghèo theo qui định của Nhà nước; sinh viên mồ côi; sinh viên có hoàn cảnh đặc biệt khó khăn;",
                     "qas": [
                         {
                             "question": "Đối tượng nhận học bổng sinh viên nghèo vượt khó",
@@ -90,7 +90,7 @@
                     ]
                 },
                 {
-                    "context": "Khen thưởng: Những sinh viên đạt kết quả cao trong các cuộc thi về kỹ năng (ngoại ngữ, tin học,… ), về chuyên môn, về nghiên cứu khoa học, về các hoạt động văn thể mỹ.",
+                    "context": "Đối tượng nhận khen thưởng từ nhà trường: Những sinh viên đạt kết quả cao trong các cuộc thi về kỹ năng (ngoại ngữ, tin học,… ), về chuyên môn, về nghiên cứu khoa học, về các hoạt động văn thể mỹ.",
                     "qas": [
                         {
                             "question": "Đối tượng được nhận khen thưởng từ nhà trường",
@@ -315,7 +315,7 @@
                     ]
                 },
                 {
-                    "context": "Nội dung đạo đức nhứ nhất: Sinh viên, học sinh cần nhận thức, hiểu rằng học tập tốt là nhiệm vụ, là lương tâm của người học; Phải liên tục phần đầu, nổ lực học trong mọi hoàn cảnh; Thực hiện đúng, hiệu quả cao những yêu cầu của thày cô về chuyên môn; Hoàn thành kế hoạch học tập theo qui định; Luôn tích cực chủ động tự học, tự rèn luyện để đạt kết quả học tập với đa số điểm từ mức khá trở lên",
+                    "context": "Nội dung thứ nhất của 3 nội dung đạo đức: Sinh viên, học sinh cần nhận thức, hiểu rằng học tập tốt là nhiệm vụ, là lương tâm của người học; Phải liên tục phần đầu, nổ lực học trong mọi hoàn cảnh; Thực hiện đúng, hiệu quả cao những yêu cầu của thày cô về chuyên môn; Hoàn thành kế hoạch học tập theo qui định; Luôn tích cực chủ động tự học, tự rèn luyện để đạt kết quả học tập với đa số điểm từ mức khá trở lên",
                     "qas": [
                         {
                             "question": "Nội dung thứ nhất của 3 nội dung đạo đức",
@@ -330,7 +330,7 @@
                     ]
                 },
                 {
-                    "context": "Nội dung đạo đức nhứ hai: Sinh viên, học sinh phải tập thói quen sống kỷ luật, nề nếp; Tại trường: tuân thù kỷ cương, chấp hành mọi qui định, qui chế của nhà trường một cách tự giác là chủ động; Ngoài trường: là người tôn trọng pháp luật, thực hiện đúng các qui định của pháp luật.",
+                    "context": "Nội dung thứ hai của 3 nội dung đạo đức: Sinh viên, học sinh phải tập thói quen sống kỷ luật, nề nếp; Tại trường: tuân thù kỷ cương, chấp hành mọi qui định, qui chế của nhà trường một cách tự giác là chủ động; Ngoài trường: là người tôn trọng pháp luật, thực hiện đúng các qui định của pháp luật.",
                     "qas": [
                         {
                             "question": "Nội dung thứ hai của 3 nội dung đạo đức",
@@ -345,7 +345,7 @@
                     ]
                 },
                 {
-                    "context": "Nội dung đạo đức nhứ ba: Sinh viên, học sinh phải có tinh thần vì tập thể, đặt quyền lợi của số đông, của lớp, của trường trên lợi ích cá nhân mình; Sinh viên, học sinh phải biết giữ uy tin cho lớp, cho trường; phải rèn luyện thói quen coi trọng tập thể lớp, trường và sau này là cơ quan làm việc. Nghiêm cấm mọi hành vi gây phương hại đến uy tin của tập thể lớp, trường xuất phát từ động cơ hoặc lợi ích cá nhân.",
+                    "context": "Nội dung thứ ba của 3 nội dụng đạo đức: Sinh viên, học sinh phải có tinh thần vì tập thể, đặt quyền lợi của số đông, của lớp, của trường trên lợi ích cá nhân mình; Sinh viên, học sinh phải biết giữ uy tin cho lớp, cho trường; phải rèn luyện thói quen coi trọng tập thể lớp, trường và sau này là cơ quan làm việc. Nghiêm cấm mọi hành vi gây phương hại đến uy tin của tập thể lớp, trường xuất phát từ động cơ hoặc lợi ích cá nhân.",
                     "qas": [
                         {
                             "question": "Nội dung thứ ba của 3 nội dung đạo đức",
@@ -1645,7 +1645,7 @@
                     ]
                 },
                 {
-                    "context": "Bị phát hiện nhặt được của rơi không liên hệ các bộ phận để trả lại cho người bị mất: lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 3 - buộc thôi học",
+                    "context": "Bị phát hiện nhặt được của rơi không liên hệ các bộ phận để trả lại cho người bị mất: lần 1 - cảnh cáo, lần 2 - cảnh cáo lần 2, lần 3 - đình chỉ học có thời hạn, lần 4 - buộc thôi học",
                     "qas": [
                         {
                             "question": "Hình thức xử lí sinh viên bị phát hiện nhặt được của rơi không liên hệ các bộ phận trả lại cho người bị mất?",
@@ -1695,7 +1695,7 @@
             "title": "Học bổng Thủ khoa đầu vào",
             "paragraphs": [
                 {
-                    "context": "Đối tượng: Sinh viên trúng tuyển và nhập học tại Trường trong đợt tuyển sinh đại học.",
+                    "context": "Đối tượng nhận học bổng thủ khoa đầu vào: Sinh viên trúng tuyển và nhập học tại Trường trong đợt tuyển sinh đại học.",
                     "qas": [
                         {
                             "question": "Đối tượng của học bổng thủ khoa đầu vào?",
@@ -1710,7 +1710,7 @@
                     ]
                 },
                 {
-                    "context": "Điều kiện: Sinh viên đạt điểm xét tuyển cao nhất tính theo điểm thi tốt nghiệp Trung học phổ thông của tất cả các phương thức xét tuyển (không tính điểm ưu tiên tuyển sinh)",
+                    "context": "Điều kiện nhận học bổng thủ khoa đầu vào: Sinh viên đạt điểm xét tuyển cao nhất tính theo điểm thi tốt nghiệp Trung học phổ thông của tất cả các phương thức xét tuyển (không tính điểm ưu tiên tuyển sinh)",
                     "qas": [
                         {
                             "question": "Điều kiện để nhận học bổng thủ khoa đầu vào?",
@@ -1725,7 +1725,7 @@
                     ]
                 },
                 {
-                    "context": "Mức cấp học bổng: Học bổng toàn phần (100% học phí) theo khung chương trình đào tạo tiêu chuẩn của năm thứ nhất. Sinh viên được tặng kỷ niệm chương và vòng nguyệt quế vinh danh. Những năm học tiếp theo, Nhà trường sẽ cấp học bổng Học tập Rèn luyện khi sinh viên thoả các điều kiện các học bổng",
+                    "context": "Mức cấp học bổng của thủ khoa đầu vào: Học bổng toàn phần (100% học phí) theo khung chương trình đào tạo tiêu chuẩn của năm thứ nhất. Sinh viên được tặng kỷ niệm chương và vòng nguyệt quế vinh danh. Những năm học tiếp theo, Nhà trường sẽ cấp học bổng Học tập Rèn luyện khi sinh viên thoả các điều kiện các học bổng",
                     "qas": [
                         {
                             "question": "Mức cấp học bổng của thua khoa đầu vào?",
@@ -1740,7 +1740,7 @@
                     ]
                 },
                 {
-                    "context": "Cách thức xét học bổng: Nhà trường sẽ tự xét cấp học bổng cho sinh viên dựa trên dữ liệu tuyển sinh, sinh viên không cần nộp đơn",
+                    "context": "Cách thức xét học bổng thủ khoa đầu vào: Nhà trường sẽ tự xét cấp học bổng cho sinh viên dựa trên dữ liệu tuyển sinh, sinh viên không cần nộp đơn",
                     "qas": [
                         {
                             "question": "Cách thức xét học bổng Thủ khoa đầu vào?",
@@ -1755,7 +1755,7 @@
                     ]
                 },
                 {
-                    "context": "Thời gian nhận học bổng: Học bổng được cấp vào cuối năm học, sinh viên đạt học bổng theo dõi thời gian nhận cụ thể tại cổng thông tin sinh viên.",
+                    "context": "Thời gian nhận học bổng thủ khoa đầu vào: Học bổng được cấp vào cuối năm học, sinh viên đạt học bổng theo dõi thời gian nhận cụ thể tại cổng thông tin sinh viên.",
                     "qas": [
                         {
                             "question": "Thời gian nhận học bổng Thủ khoa đầu vào?",
@@ -1865,7 +1865,7 @@
                     ]
                 },
                 {
-                    "context": "Cách thức xét học bổng: Nhà trường sẽ tự xét cấp học bổng cho sinh viên dựa trên dữ liệu tuyển sinh, sinh viên không cần nộp đơn.",
+                    "context": "Cách thức xét học bổng tân sinh viên: Nhà trường sẽ tự xét cấp học bổng cho sinh viên dựa trên dữ liệu tuyển sinh, sinh viên không cần nộp đơn.",
                     "qas": [
                         {
                             "question": "Cách thức xét học bổng tân sinh viên",
@@ -1880,7 +1880,7 @@
                     ]
                 },
                 {
-                    "context": "Thời gian nhận học bổng: Học bổng được cấp vào cuối năm học, sinh viên đạt học bổng theo dõi thời gian nhận cụ thể tại cổng thông tin sinh viên. Những năm học tiếp theo, Nhà trường sẽ cấp học bổng Học tập Rèn luyện khi sinh viên thoả các điều kiện xét học bổng. Trường hợp có nhiều Tân sinh viên thỏa điều kiện học bổng và có cùng mức điểm xét học bổng thì sẽ xét ưu tiên học bổng theo điểm trung bình kết quả học tập năm lớp 12.",
+                    "context": "Thời gian nhận học bổng tân sinh viên: Học bổng được cấp vào cuối năm học, sinh viên đạt học bổng theo dõi thời gian nhận cụ thể tại cổng thông tin sinh viên. Những năm học tiếp theo, Nhà trường sẽ cấp học bổng Học tập Rèn luyện khi sinh viên thoả các điều kiện xét học bổng. Trường hợp có nhiều Tân sinh viên thỏa điều kiện học bổng và có cùng mức điểm xét học bổng thì sẽ xét ưu tiên học bổng theo điểm trung bình kết quả học tập năm lớp 12.",
                     "qas": [
                         {
                             "question": "Thời gian nhận học bổng tân sinh viên",
@@ -1940,7 +1940,7 @@
                     ]
                 },
                 {
-                    "context": "Mức cấp học bổng: Học bổng toàn phần (100% học phí) theo khung chương trình đào tạo tiêu chuẩn của năm thứ nhất (học kỳ 1: 100% học phí theo khung chương trình tiêu chuẩn; học kỳ 2: 100% học phí theo khung chương trình tiêu chuẩn khi sinh viên đạt kết quả Học tập, Rèn luyện học kỳ 1 từ Khá trở lên). Những năm học tiếp theo, Nhà trường sẽ cấp học bổng Học tập Rèn luyện khi sinh viên thỏa các điều kiện xét học bổng",
+                    "context": "Mức cấp học bổng tân sinh viên các trường THPT đã hợp tác với Trường: Học bổng toàn phần (100% học phí) theo khung chương trình đào tạo tiêu chuẩn của năm thứ nhất (học kỳ 1: 100% học phí theo khung chương trình tiêu chuẩn; học kỳ 2: 100% học phí theo khung chương trình tiêu chuẩn khi sinh viên đạt kết quả Học tập, Rèn luyện học kỳ 1 từ Khá trở lên). Những năm học tiếp theo, Nhà trường sẽ cấp học bổng Học tập Rèn luyện khi sinh viên thỏa các điều kiện xét học bổng",
                     "qas": [
                         {
                             "question": "Mức cấp học bổng tân sinh viên các Trường THPT đã hợp tác với Trường",
@@ -1955,7 +1955,7 @@
                     ]
                 },
                 {
-                    "context": "Cách thức xét học bổng: Nhà trường sẽ tự xét cấp học bổng cho sinh viên dựa trên dữ liệu tuyển sinh, sinh viên không cần nộp đơn",
+                    "context": "Cách thức xét học bổng tân sinh viên các Trường THPT đã hợp tác với Trường: Nhà trường sẽ tự xét cấp học bổng cho sinh viên dựa trên dữ liệu tuyển sinh, sinh viên không cần nộp đơn",
                     "qas": [
                         {
                             "question": "Cách thức xét học bổng tân sinh viên các Trường THPT đã hợp tác với Trường",
@@ -1970,7 +1970,7 @@
                     ]
                 },
                 {
-                    "context": "Thời gian nhận học bổng: Học bổng được cấp theo từng học kỳ, sinh viên đạt học bổng theo dõi thời gian nhận cụ thể tại cổng thông tin sinh viên. Lưu ý: Trường hợp có nhiều Tân sinh viên thỏa điều kiện học bổng và có cùng mức điểm xét học bổng thì sẽ xét ưu tiên học bổng theo điểm trung bình kết quả học tập năm lớp 12.",
+                    "context": "Thời gian nhận học bổng tân sinh viên các trường THPT đã hợp tác với Trường: Học bổng được cấp theo từng học kỳ, sinh viên đạt học bổng theo dõi thời gian nhận cụ thể tại cổng thông tin sinh viên. Lưu ý: Trường hợp có nhiều Tân sinh viên thỏa điều kiện học bổng và có cùng mức điểm xét học bổng thì sẽ xét ưu tiên học bổng theo điểm trung bình kết quả học tập năm lớp 12.",
                     "qas": [
                         {
                             "question": "Thời gian nhận học bổng",
@@ -2000,7 +2000,7 @@
             "title": "Học bổng Tân sinh viên đoạt giải Nhất cuộc thi khoa học kỹ thuật quốc gia",
             "paragraphs": [
                 {
-                    "context": "Đối tượng: Sinh viên đăng ký xét tuyển thẳng đợt tuyển sinh đại học và nhập học tại Trường.",
+                    "context": "Đối tượng nhận học bổng Tân sinh viên đoạt giải Nhất khoa học kỹ thuật quốc gia: Sinh viên đăng ký xét tuyển thẳng đợt tuyển sinh đại học và nhập học tại Trường.",
                     "qas": [
                         {
                             "question": "Đối tượng nhận học bổng Tân sinh viên đoạt giải Nhất cuộc thi khoa học kỹ thuật quốc gia",
@@ -2015,7 +2015,7 @@
                     ]
                 },
                 {
-                    "context": "Điều kiện: Học sinh lớp 12 đoạt giải Nhất cuộc thi khoa học kỹ thuật cấp quốc gia năm 2020. Học sinh lớp 12 đoạt giải Nhất cuộc thi khoa học kỹ thuật cấp quốc gia năm 2019 và có học lực năm lớp 12 đạt loại giỏi",
+                    "context": "Điều kiện nhận học bổng Tân sinh viên đoạt giải Nhất cuộc thi khoa học kỹ thuật quốc gia: Học sinh lớp 12 đoạt giải Nhất cuộc thi khoa học kỹ thuật cấp quốc gia năm 2020. Học sinh lớp 12 đoạt giải Nhất cuộc thi khoa học kỹ thuật cấp quốc gia năm 2019 và có học lực năm lớp 12 đạt loại giỏi",
                     "qas": [
                         {
                             "question": "Điều kiện nhận học bổng Tân sinh viên đoạt giải Nhất cuộc thi khoa học kỹ thuật quốc gia",
@@ -2030,7 +2030,7 @@
                     ]
                 },
                 {
-                    "context": "Mức cấp học bổng: Học bổng toàn phần (100% học phí) theo khung chương trình đào tạo tiêu chuẩn của năm thứ nhất. Những năm học tiếp theo, Nhà trường sẽ cấp học bổng Học tập Rèn luyện khi sinh viên thỏa các điều kiện xét học bổng",
+                    "context": "Mức cấp học bổng Tân sinh viên đoạt giải Nhất cuộc thi khoa học kỹ thuật quốc gia: Học bổng toàn phần (100% học phí) theo khung chương trình đào tạo tiêu chuẩn của năm thứ nhất. Những năm học tiếp theo, Nhà trường sẽ cấp học bổng Học tập Rèn luyện khi sinh viên thỏa các điều kiện xét học bổng",
                     "qas": [
                         {
                             "question": "Mức cấp học bổng Tân sinh viên đoạt giải Nhất cuộc thi khoa học kỹ thuật quốc gia",
@@ -2045,7 +2045,7 @@
                     ]
                 },
                 {
-                    "context": "Cách thức xét học bổng: Sinh viên nộp đơn xét cấp học bổng kèm minh chứng đoạt giải Nhất cuộc thi khoa học kỹ thuật cấp quốc gia trong lúc nộp hồ sơ nhập học",
+                    "context": "Cách thức xét học bổng Tân sinh viên đoạt giải Nhất cuộc thi khoa học kỹ thuật quốc gia: Sinh viên nộp đơn xét cấp học bổng kèm minh chứng đoạt giải Nhất cuộc thi khoa học kỹ thuật cấp quốc gia trong lúc nộp hồ sơ nhập học",
                     "qas": [
                         {
                             "question": "Các thức xét học bổng tân sinh viên đoạt giải Nhất cuộc thi khoa học kỹ thuật quốc gia",
@@ -2060,7 +2060,7 @@
                     ]
                 },
                 {
-                    "context": "Thời gian nhận học bổng: Học bổng được cấp vào cuối năm học, sinh viên đạt học bổng theo dõi thời gian nhận cụ thể tại cổng thông tin sinh viên",
+                    "context": "Thời gian nhận học bổng Tân sinh viên đoạt giải Nhất cuộc thi khoa học kỹ thuật quốc gia: Học bổng được cấp vào cuối năm học, sinh viên đạt học bổng theo dõi thời gian nhận cụ thể tại cổng thông tin sinh viên",
                     "qas": [
                         {
                             "question": "Thời gian nhận học bổng tân sinh viên đoạt giải Nhất cuộc thi khoa học kỹ thuật quốc gia",
@@ -2080,7 +2080,7 @@
             "title": "Học bổng chương trình Du học luân chuyển campus",
             "paragraphs": [
                 {
-                    "context": "Đối tượng, số lượng và mức cấp học bổng: Học sinh đoạt giải từ khuyến khích trở lên trong các cuộc thi học sinh giỏi từ cấp tỉnh trở lên (trong thời gian 3 năm THPT): cấp học bổng 100% học phí chính khoá Giai đoạn 1. Học sinh có chứng chỉ tiếng Anh quốc tế đạt trình độ B2 trở lên và điểm xét tuyển đạt từ 32/40 điểm trở lên: 05 suất học bổng 100% học phí chính khoá Giai đoạn 1. Học sinh có điểm xét tuyển đạt từ 32/40 điểm trở lên: 05 suất học bổng 50% học phí chính khoá Giai đoạn 1. Học sinh có chứng chỉ tiếng Anh quốc tế đạt trình độ B2 trở lên: 05 suất học bổng 50% học phí chính khoá Giai đoạn 1. ",
+                    "context": "Đối tượng nhận học bổng chương trình Du học luân chuyển campus: Học sinh đoạt giải từ khuyến khích trở lên trong các cuộc thi học sinh giỏi từ cấp tỉnh trở lên (trong thời gian 3 năm THPT): cấp học bổng 100% học phí chính khoá Giai đoạn 1. Học sinh có chứng chỉ tiếng Anh quốc tế đạt trình độ B2 trở lên và điểm xét tuyển đạt từ 32/40 điểm trở lên: 05 suất học bổng 100% học phí chính khoá Giai đoạn 1. Học sinh có điểm xét tuyển đạt từ 32/40 điểm trở lên: 05 suất học bổng 50% học phí chính khoá Giai đoạn 1. Học sinh có chứng chỉ tiếng Anh quốc tế đạt trình độ B2 trở lên: 05 suất học bổng 50% học phí chính khoá Giai đoạn 1.",
                     "qas": [
                         {
                             "question": "Đối tượng của học bổng chương trình Du học luân chuyển campus?",
@@ -2095,7 +2095,7 @@
                     ]
                 },
                 {
-                    "context": "Cách thức xét học bổng: Sinh viên nộp kèm hồ sơ minh chứng thành tích đạt được trong hồ sơ nhập học để Nhà trường xét cấp học bổng cho sinh viên",
+                    "context": "Cách thức xét học bổng chương trình Du học luân chuyển campus: Sinh viên nộp kèm hồ sơ minh chứng thành tích đạt được trong hồ sơ nhập học để Nhà trường xét cấp học bổng cho sinh viên",
                     "qas": [
                         {
                             "question": "Cách thức xét học bổng chương trình Du học luân chuyển campus?",
@@ -2110,10 +2110,10 @@
                     ]
                 },
                 {
-                    "context": "Thời gian nhận học bổng: Ngay khi sinh viên vào học chính khóa chương trình du học luân chuyển campus",
+                    "context": "Thời gian nhận học bổng chương trình Du học luân chuyển campus: Ngay khi sinh viên vào học chính khóa chương trình du học luân chuyển campus",
                     "qas": [
                         {
-                            "question": "Thời gain nhận học bổng chương trình Du học luân chuyển campus?",
+                            "question": "Thời gian nhận học bổng chương trình Du học luân chuyển campus?",
                             "id": "efcbfc49-1113-4739-8677-82d3a8a8ae4e",
                             "answers": [
                                 {
@@ -2180,7 +2180,7 @@
             "title": "Học bổng học tập và rèn luyện",
             "paragraphs": [
                 {
-                    "context": "Đối tượng: Sinh viên đang theo học ngành chính (ngành học thứ nhất); không xét sinh viên năm cuối (học kỳ 7, kỳ 8 đối với ngành 4 năm; học kỳ 9, kỳ 10 đối với ngành 5 năm)",
+                    "context": "Đối tượng học bổng học tập và rèn luyện: Sinh viên đang theo học ngành chính (ngành học thứ nhất); không xét sinh viên năm cuối (học kỳ 7, kỳ 8 đối với ngành 4 năm; học kỳ 9, kỳ 10 đối với ngành 5 năm)",
                     "qas": [
                         {
                             "question": "Đối tượng của học bổng học tập và rèn luyện?",
@@ -2195,7 +2195,7 @@
                     ]
                 },
                 {
-                    "context": "Điều kiện: Số tín chỉ tích lũy ngành chính tính đến thời điểm xét phải lớn hơn hoặc bằng số tín chỉ điều kiện (số tín chỉ điều kiện được xác định dựa trên khung chương trình học của ngành chính tính đến thời điểm xét). Điểm trung bình tích lũy học bổng (điểm trung bình tích lũy kết quả của các môn học trong lần học đầu tiên, không tính điểm các lần học cải thiện) trong năm học xét từ 8,0 trở lên. Không có môn học nào mà sinh viên có học thuộc ngành chính đạt dưới 5,0 trong năm học xét học bổng (bao gồm điểm K, điểm E). Không có môn học nào mà sinh viên thi lại lần thứ 2 trong năm học xét. Những môn học có điểm miễn (M), điểm rút (R), điểm hoãn (H), điểm chưa hoàn thành (P) thì vẫn được tham gia dự xét học bổng. Điểm trung bình rèn luyện trong năm học xét từ 80 trở lên. Sinh viên không vi phạm nội qui, qui định của Nhà trường trong năm học xét. Riêng đối với sinh viên năm nhất thì đến thời điểm xét, sinh viên phải hoàn tất học phần tiếng Anh ngoài chương trình đào tạo.",
+                    "context": "Điều kiện học bổng học tập và rèn luyện: Số tín chỉ tích lũy ngành chính tính đến thời điểm xét phải lớn hơn hoặc bằng số tín chỉ điều kiện (số tín chỉ điều kiện được xác định dựa trên khung chương trình học của ngành chính tính đến thời điểm xét). Điểm trung bình tích lũy học bổng (điểm trung bình tích lũy kết quả của các môn học trong lần học đầu tiên, không tính điểm các lần học cải thiện) trong năm học xét từ 8,0 trở lên. Không có môn học nào mà sinh viên có học thuộc ngành chính đạt dưới 5,0 trong năm học xét học bổng (bao gồm điểm K, điểm E). Không có môn học nào mà sinh viên thi lại lần thứ 2 trong năm học xét. Những môn học có điểm miễn (M), điểm rút (R), điểm hoãn (H), điểm chưa hoàn thành (P) thì vẫn được tham gia dự xét học bổng. Điểm trung bình rèn luyện trong năm học xét từ 80 trở lên. Sinh viên không vi phạm nội qui, qui định của Nhà trường trong năm học xét. Riêng đối với sinh viên năm nhất thì đến thời điểm xét, sinh viên phải hoàn tất học phần tiếng Anh ngoài chương trình đào tạo.",
                     "qas": [
                         {
                             "question": "Điều kiện của học bổng học tập và rèn luyện?",
@@ -2210,7 +2210,7 @@
                     ]
                 },
                 {
-                    "context": "Mức cấp học bổng: Kết quả học tập Kết quả rèn luyện Mức cấp học bổng (đồng/năm học) Xuất sắc Xuất sắc 20.000.000 Xuất sắc Tốt 15.000.000 Giỏi Xuất sắc 12.000.000 Giỏi Tốt 10.000.000 1.4. Lưu ý: Sinh viên học tập từ Giỏi rèn luyện từ Tốt trở lên nhưng có 01 học kỳ tham gia học chuyển tiếp tại nước ngoài, Nhà trường sẽ xem xét mức cấp học bổng cho sinh viên dựa trên dữ liệu học phí sinh viên học tại Trường Đại học Tôn Đức Thắng. Trường hợp sinh viên học gián đoạn tại Trường vì lý do sức khỏe hoặc thực hiện nghĩa vụ quân sự thì những năm học sinh viên bảo lưu sẽ được cấp học bổng khi sinh viên quay lại học tập tại Trường và đạt đủ điều kiện theo mục 1.2.  Những trường hợp sinh viên học gián đoạn tại Trường vì lý do cá nhân hoặc bị xử lý kỷ luật thì những năm học sinh viên bảo lưu hoặc bị đình chỉ sẽ không được cấp học bổng này. Lưu học sinh đạt kết quả học tập từ Giỏi rèn luyện từ Tốt trở lên đã nhận học bổng dành cho sinh viên quốc tế của Trường Đại học Tôn Đức Thắng cấp trong năm học xét sẽ được Nhà trường cấp giấy khen. 2. Áp dụng cho trình độ cao đẳng: Đối với học bổng Học tập Rèn luyện, Ban đào tạo Cao đẳng thực hành Trung cấp chuyên nghiệp sẽ có đề xuất riêng trình Ban Giám hiệu phê duyệt.",
+                    "context": "Mức cấp học bổng học tập và rèn luyện: Kết quả học tập Kết quả rèn luyện Mức cấp học bổng (đồng/năm học) Xuất sắc Xuất sắc 20.000.000 Xuất sắc Tốt 15.000.000 Giỏi Xuất sắc 12.000.000 Giỏi Tốt 10.000.000 1.4. Lưu ý: Sinh viên học tập từ Giỏi rèn luyện từ Tốt trở lên nhưng có 01 học kỳ tham gia học chuyển tiếp tại nước ngoài, Nhà trường sẽ xem xét mức cấp học bổng cho sinh viên dựa trên dữ liệu học phí sinh viên học tại Trường Đại học Tôn Đức Thắng. Trường hợp sinh viên học gián đoạn tại Trường vì lý do sức khỏe hoặc thực hiện nghĩa vụ quân sự thì những năm học sinh viên bảo lưu sẽ được cấp học bổng khi sinh viên quay lại học tập tại Trường và đạt đủ điều kiện theo mục 1.2.  Những trường hợp sinh viên học gián đoạn tại Trường vì lý do cá nhân hoặc bị xử lý kỷ luật thì những năm học sinh viên bảo lưu hoặc bị đình chỉ sẽ không được cấp học bổng này. Lưu học sinh đạt kết quả học tập từ Giỏi rèn luyện từ Tốt trở lên đã nhận học bổng dành cho sinh viên quốc tế của Trường Đại học Tôn Đức Thắng cấp trong năm học xét sẽ được Nhà trường cấp giấy khen. 2. Áp dụng cho trình độ cao đẳng: Đối với học bổng Học tập Rèn luyện, Ban đào tạo Cao đẳng thực hành Trung cấp chuyên nghiệp sẽ có đề xuất riêng trình Ban Giám hiệu phê duyệt.",
                     "qas": [
                         {
                             "question": "Mức cấp học bổng của học bổng học tập và rèn luyện?",
@@ -2230,7 +2230,7 @@
             "title": "Học bổng sinh viên nội trú Ký túc xá",
             "paragraphs": [
                 {
-                    "context": "Đối tượng: Sinh viên đang ở nội trú tại Ký túc xá đạt đủ các tiêu chuẩn xét học bổng",
+                    "context": "Đối tượng học bổng sinh viên nội trú kí túc xá: Sinh viên đang ở nội trú tại Ký túc xá đạt đủ các tiêu chuẩn xét học bổng",
                     "qas": [
                         {
                             "question": "Đối tượng của học bổng sinh viên nội trú Ký túc xá?",
@@ -2245,7 +2245,7 @@
                     ]
                 },
                 {
-                    "context": ".2. Tiêu chuẩn cấp học bổng: 2.1. Sinh viên nội trú có thành tích đóng góp cho các hoạt động tại Ký túc xá: Là thành viên Đội sinh viên tự quản Ký túc xá có tư cách đạo đức tốt, có nhiều đóng góp cho các hoạt động tại Ký túc xá, được tập thể Đội sinh viên tự quản tín nhiệm bầu chọn và được Giám đốc Ký túc xá thống nhất đề xuất Nhà trường cấp học bổng. Không vi phạm Qui chế công tác sinh viên, Qui chế và nội qui, qui định của Ký túc xá, của Nhà trường; đạt điểm rèn luyện trong năm xét từ 60 điểm trở lên. Chưa nhận học bổng khác trong năm học. 2.2. Sinh viên nội trú nghèo vượt khó: Thuộc diện gia đình nghèo theo qui định của Nhà nước; những trường hợp ngoài qui định nhưng khó khăn đặc biệt (có minh chứng cụ thế). Sinh viên có điểm trung bình học tập học kỳ, năm học gần nhất từ 5.0 trở lên (xét từ cao xuống thấp). Không vi phạm Qui chế công tác sinh viên, Qui chế và nội qui, qui định của Nhà trường, của Ký túc xá; đạt điểm rèn luyện từ 60 điểm trở lên. Sinh viên năm thứ nhất mới nhập học sẽ căn cứ vào điểm thi đầu vào (có thông báo cụ thể vào mỗi đợt xét học bổng). Chưa nhận học bổng khác trong năm học.3. Số lượng, hình thức cấp, mức hỗ trợ và thời gian được hưởng học bổng: Số lượng: tổng số suất học bổng được cấp trong mỗi năm học tương đương 40 suất/năm học; 20 suất/học kỳ. Hình thức cấp: miễn, giảm phí ở Ký túc xá. ",
+                    "context": ".2. Tiêu chuẩn cấp học bổng sinh viên nội trú Ký túc xá: 2.1. Sinh viên nội trú có thành tích đóng góp cho các hoạt động tại Ký túc xá: Là thành viên Đội sinh viên tự quản Ký túc xá có tư cách đạo đức tốt, có nhiều đóng góp cho các hoạt động tại Ký túc xá, được tập thể Đội sinh viên tự quản tín nhiệm bầu chọn và được Giám đốc Ký túc xá thống nhất đề xuất Nhà trường cấp học bổng. Không vi phạm Qui chế công tác sinh viên, Qui chế và nội qui, qui định của Ký túc xá, của Nhà trường; đạt điểm rèn luyện trong năm xét từ 60 điểm trở lên. Chưa nhận học bổng khác trong năm học. 2.2. Sinh viên nội trú nghèo vượt khó: Thuộc diện gia đình nghèo theo qui định của Nhà nước; những trường hợp ngoài qui định nhưng khó khăn đặc biệt (có minh chứng cụ thế). Sinh viên có điểm trung bình học tập học kỳ, năm học gần nhất từ 5.0 trở lên (xét từ cao xuống thấp). Không vi phạm Qui chế công tác sinh viên, Qui chế và nội qui, qui định của Nhà trường, của Ký túc xá; đạt điểm rèn luyện từ 60 điểm trở lên. Sinh viên năm thứ nhất mới nhập học sẽ căn cứ vào điểm thi đầu vào (có thông báo cụ thể vào mỗi đợt xét học bổng). Chưa nhận học bổng khác trong năm học.3. Số lượng, hình thức cấp, mức hỗ trợ và thời gian được hưởng học bổng: Số lượng: tổng số suất học bổng được cấp trong mỗi năm học tương đương 40 suất/năm học; 20 suất/học kỳ. Hình thức cấp: miễn, giảm phí ở Ký túc xá. ",
                     "qas": [
                         {
                             "question": "Tiêu chuẩn cấp học bổng sinh viên nội trú Ký túc xá?",
@@ -2280,7 +2280,7 @@
                     ]
                 },
                 {
-                    "context": "Mức học bổng: 2.500.000 đồng/suất. Thời gian xét, cấp học bổng: học bổng được xét, cấp theo mỗi học kỳ (học kỳ 1 và học kỳ 2)",
+                    "context": "Mức học bổng sinh viên nội trú Ký túc xá: 2.500.000 đồng/suất. Thời gian xét, cấp học bổng sinh viên nội trú Ký túc xá: học bổng được xét, cấp theo mỗi học kỳ (học kỳ 1 và học kỳ 2)",
                     "qas": [
                         {
                             "question": "Mức học bổng của học bổng sinh viên nội trú Ký túc xá?",
@@ -2305,7 +2305,7 @@
                     ]
                 },
                 {
-                    "context": "Hồ sơ học bổng: Đơn xin cấp học bổng; Bảng điểm học tập theo từng học kỳ, năm học có xác nhận của Phòng đại học; Bản sao công chứng sổ hộ nghèo, hộ cận nghèo theo qui định Nhà nước; hoặc giấy xác nhận trường hợp khó khăn đặc biệt (có minh chứng cụ thể); Giấy xác nhận điểm rèn luyện có xác nhận của Phòng công tác học sinh sinh viên. Địa điểm nộp hồ sơ: Hồ sơ xin cấp học bổng sinh viên nội trú nộp tại Phòng trực Ký túc xá.",
+                    "context": "Hồ sơ học bổng sinh viên nội trú Ký túc xá: Đơn xin cấp học bổng; Bảng điểm học tập theo từng học kỳ, năm học có xác nhận của Phòng đại học; Bản sao công chứng sổ hộ nghèo, hộ cận nghèo theo qui định Nhà nước; hoặc giấy xác nhận trường hợp khó khăn đặc biệt (có minh chứng cụ thể); Giấy xác nhận điểm rèn luyện có xác nhận của Phòng công tác học sinh sinh viên. Địa điểm nộp hồ sơ học bổng nội trú Ký túc xá: Hồ sơ xin cấp học bổng sinh viên nội trú nộp tại Phòng trực Ký túc xá.",
                     "qas": [
                         {
                             "question": "Hồ sơ học bổng sinh viên nội trú Ký túc xá gồm những gì?",
@@ -2335,7 +2335,7 @@
             "title": "Học bổng Hội khuyến học dành cho sinh viên",
             "paragraphs": [
                 {
-                    "context": "Đối tượng: Sinh viên thuộc hộ nghèo, hộ cận nghèo trong năm xét theo qui định của Nhà nước. Sinh viên mồ côi. Sinh viên có hoàn cảnh đặc biệt khó khăn",
+                    "context": "Đối tượng nhận học bổng Hội khuyến học dành cho sinh viên: Sinh viên thuộc hộ nghèo, hộ cận nghèo trong năm xét theo qui định của Nhà nước. Sinh viên mồ côi. Sinh viên có hoàn cảnh đặc biệt khó khăn",
                     "qas": [
                         {
                             "question": "Đối tượng của học bổng Hội khuyến học dành cho sinh viên?",
@@ -2350,7 +2350,7 @@
                     ]
                 },
                 {
-                    "context": "Điều kiện: Sinh viên phải đạt kết quả điểm học tập trong năm học xét từ 5,0 trở lên; kết quả điểm rèn luyện trong năm học xét từ 50 trở lên. Không thuộc diện sinh viên được miễn, giảm học phí theo Nghị định của Chính phủ. Những trường hợp ngoại lệ, Phòng Công tác học sinh sinh viên sẽ trình xin ý kiến của Chủ tịch Hội Khuyến học",
+                    "context": "Điều kiện nhận học bổng Hội khuyến học dành cho sinh viên: Sinh viên phải đạt kết quả điểm học tập trong năm học xét từ 5,0 trở lên; kết quả điểm rèn luyện trong năm học xét từ 50 trở lên. Không thuộc diện sinh viên được miễn, giảm học phí theo Nghị định của Chính phủ. Những trường hợp ngoại lệ, Phòng Công tác học sinh sinh viên sẽ trình xin ý kiến của Chủ tịch Hội Khuyến học",
                     "qas": [
                         {
                             "question": "Điều kiện của học bổng Hội khuyến học dành cho sinh viên?",
@@ -2365,7 +2365,7 @@
                     ]
                 },
                 {
-                    "context": "Mức cấp học bổng: Tùy vào nguồn quỹ của Hội Khuyến học hàng năm, Hội sẽ xét và cấp học bổng cho sinh viên thỏa điều kiện từ cao xuống",
+                    "context": "Mức cấp học bổng Hội khuyến học dành cho sinh viên: Tùy vào nguồn quỹ của Hội Khuyến học hàng năm, Hội sẽ xét và cấp học bổng cho sinh viên thỏa điều kiện từ cao xuống",
                     "qas": [
                         {
                             "question": "Mức cấp học bổng của học bổng Hội khuyến học dành cho sinh viên?",
@@ -2380,7 +2380,7 @@
                     ]
                 },
                 {
-                    "context": "Cách thức xét học bổng: Sinh viên nộp hồ sơ theo thông báo của Phòng Công tác học sinh sinh viên.",
+                    "context": "Cách thức xét học bổng Hội khuyến học dành cho sinh viên: Sinh viên nộp hồ sơ theo thông báo của Phòng Công tác học sinh sinh viên.",
                     "qas": [
                         {
                             "question": "Cách thức xét học bổng của Học bổng Hội khuyến học dành cho sinh viên?",
@@ -2400,7 +2400,7 @@
             "title": "Học bổng dành cho con, anh/chị em ruột của Cán bộ công đoàn",
             "paragraphs": [
                 {
-                    "context": "Đối tượng: Sinh viên là con, anh/chị em ruột của Cán bộ công đoàn (cấp Ủy viên Ban chấp hành trở lên) đang công tác tại Liên đoàn Lao động các Tỉnh, Thành phố, Quận, Huyện, Công đoàn ngành tương đương",
+                    "context": "Đối tượng nhận học bổng dành cho con, anh/chị em ruột của Cán bộ công đoàn: Sinh viên là con, anh/chị em ruột của Cán bộ công đoàn (cấp Ủy viên Ban chấp hành trở lên) đang công tác tại Liên đoàn Lao động các Tỉnh, Thành phố, Quận, Huyện, Công đoàn ngành tương đương",
                     "qas": [
                         {
                             "question": "Đối tượng của học bổng dành cho con, anh/chị em ruột của Cán bộ công đoàn",
@@ -2415,7 +2415,7 @@
                     ]
                 },
                 {
-                    "context": "Mức cấp học bổng: Trình độ đại học: Cấp học bổng 10.000.000 đồng/sinh viên/toàn khóa học, trong đó chia ra: học phí 6.000.000 đồng/sinh viên; phí Ký túc xá 4.000.000 đồng/sinh viên. Trình độ cao đẳng: Cấp học bổng 5.000.000 đồng/sinh viên/toàn khóa học, trong đó chia ra: học phí 3.000.000 đồng/sinh viên; phí Ký túc xá 2.000.000 đồng/sinh viên",
+                    "context": "Mức cấp học bổng dành cho con, anh/chị em ruột của Cán bộ công đoàn: Trình độ đại học: Cấp học bổng 10.000.000 đồng/sinh viên/toàn khóa học, trong đó chia ra: học phí 6.000.000 đồng/sinh viên; phí Ký túc xá 4.000.000 đồng/sinh viên. Trình độ cao đẳng: Cấp học bổng 5.000.000 đồng/sinh viên/toàn khóa học, trong đó chia ra: học phí 3.000.000 đồng/sinh viên; phí Ký túc xá 2.000.000 đồng/sinh viên",
                     "qas": [
                         {
                             "question": "Mức cấp học bổng của dành cho con, anh/chị em ruột của Cán bộ công đoàn?",
@@ -2430,7 +2430,7 @@
                     ]
                 },
                 {
-                    "context": "Phương thức cấp học bổng: Học phí toàn khóa được trừ tất cả vào năm học cuối trước khi tốt nghiệp; phí Ký túc xá được khấu trừ mỗi tháng 100.000 đồng/sinh viên trong suốt thời gian cư ngụ học tập. Sinh viên không nội trú Ký túc xá của Trường, sẽ không được hưởng khoản tài trợ này",
+                    "context": "Phương thức cấp học bổng dành cho con, anh/chị em ruột của Cán bộ công đoàn: Học phí toàn khóa được trừ tất cả vào năm học cuối trước khi tốt nghiệp; phí Ký túc xá được khấu trừ mỗi tháng 100.000 đồng/sinh viên trong suốt thời gian cư ngụ học tập. Sinh viên không nội trú Ký túc xá của Trường, sẽ không được hưởng khoản tài trợ này",
                     "qas": [
                         {
                             "question": "Phương thức cấp học bổng của học bổng dành cho con, anh/chị em ruột của Cán bộ công đoàn?",
@@ -2445,7 +2445,7 @@
                     ]
                 },
                 {
-                    "context": "Cách thức xét học bổng: Sinh viên nộp hồ sơ theo thông báo của Phòng Công tác học sinh sinh viên",
+                    "context": "Cách thức xét học bổng dành cho con, anh/chị em ruột của Cán bộ công đoàn: Sinh viên nộp hồ sơ theo thông báo của Phòng Công tác học sinh sinh viên",
                     "qas": [
                         {
                             "question": "Cách thức xét học bổng của học bổng dành cho con, anh/chị em ruột của Cán bộ công đoàn?",
@@ -2465,7 +2465,7 @@
             "title": "Học bổng dành cho anh/chị em ruột học tại Trường",
             "paragraphs": [
                 {
-                    "context": "Đối tượng: Anh/chị em ruột đang theo học ngành chính tại Trường theo đúng khóa học",
+                    "context": "Đối tượng nhận học bổng dành cho anh/chị em ruột học tại Trường: Anh/chị em ruột đang theo học ngành chính tại Trường theo đúng khóa học",
                     "qas": [
                         {
                             "question": "Đối tượng của Học bổng dành cho anh/chị em ruột học tại Trường",
@@ -2480,7 +2480,7 @@
                     ]
                 },
                 {
-                    "context": "Mức cấp học bổng: Cấp học bổng 15% học phí theo khung chương trình đào tạo tiêu chuẩn/người học thứ hai (trở đi, nếu có)/năm học",
+                    "context": "Mức cấp học bổng dành cho anh/chị em ruột học tại Trường: Cấp học bổng 15% học phí theo khung chương trình đào tạo tiêu chuẩn/người học thứ hai (trở đi, nếu có)/năm học",
                     "qas": [
                         {
                             "question": "Mức cấp học bổng của Học bổng dành cho anh/chị em ruột học tại Trường?",
@@ -2503,7 +2503,7 @@
                     "context": "Khen thưởng tân sinh viên đạt thành tích cao về kỹ năng ngoại ngữ đầu vào: IELTS, CEPT Cambridge, TOEFL.",
                     "qas": [
                         {
-                            "question": "Tân sinh viên có chứng chỉ nào thì được khen thưởng",
+                            "question": "Tân sinh viên có chứng chỉ ngoại ngữ nào thì được khen thưởng",
                             "id": "91ba2211-3e42-405e-92df-93bb1b1b7fba",
                             "answers": [
                                 {
