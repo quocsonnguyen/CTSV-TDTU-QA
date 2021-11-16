@@ -365,7 +365,7 @@
             "title": "Slogan, mascot, đặc điểm nhận diện sinh viên TDTU",
             "paragraphs": [
                 {
-                    "context": "Slogan: Từ nơi đây, ánh sáng sẽ chiếu đến khắp nơi trong vũ trụ",
+                    "context": "Slogan của tdtu: Từ nơi đây, ánh sáng sẽ chiếu đến khắp nơi trong vũ trụ",
                     "qas": [
                         {
                             "question": "Slogan của TDTU",
@@ -380,7 +380,7 @@
                     ]
                 },
                 {
-                    "context": "Mascot: Họ mèo thông thái",
+                    "context": "Mascot của tdtu: Họ mèo thông thái",
                     "qas": [
                         {
                             "question": "Mascot của TDTU",

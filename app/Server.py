@@ -1,125 +1,11 @@
-from flask import Flask, request, session, render_template
-import json
-from elasticsearch import Elasticsearch
+from flask import Flask, request, render_template
+import numpy as np
 import collections
-
-from transformers import BasicTokenizer ,AutoTokenizer, AutoModelForQuestionAnswering
 import torch
+import json
 
-from tqdm.notebook import tqdm
-
-def populate_index(es_obj, index_name, evidence_corpus):
-    '''
-    Loads records into an existing Elasticsearch index
-
-    Args:
-        es_obj (elasticsearch.client.Elasticsearch) - Elasticsearch client object
-        index_name (str) - Name of index
-        evidence_corpus (list) - List of dicts containing data records
-
-    '''
-
-    for i, rec in enumerate(tqdm(evidence_corpus)):
-    
-        try:
-            index_status = es_obj.index(index=index_name, id=i, body=rec)
-        except:
-            print(f'Unable to load document {i}.')
-            
-    n_records = es_obj.count(index=index_name)['count']
-    print(f'Succesfully loaded {n_records} into {index_name}')
-
-
-    return
-
-def parse_qa_records(data):
-    '''
-    Loop through SQuAD2.0 dataset and parse out question/answer examples and unique article paragraphs
-    
-    Returns:
-        qa_records (list) - Question/answer examples as list of dictionaries
-        documents (list) - Unique titles and article paragraphs recreated from SQuAD data
-    
-    '''
-    num_with_ans = 0
-    num_without_ans = 0
-    qa_records = []
-    documents = {}
-    
-    for article in data:
-        
-        for i, paragraph in enumerate(article['paragraphs']):
-            
-            documents[article['title']+f'_{i}'] = article['title'] + ' ' + paragraph['context']
-            
-            for questions in paragraph['qas']:
-                
-                qa_record = {}
-                qa_record['example_id'] = questions['id']
-                qa_record['document_title'] = article['title']
-                qa_record['question_text'] = questions['question']
-                
-                try: 
-                    qa_record['short_answer'] = questions['answers'][0]['text']
-                    num_with_ans += 1
-                except:
-                    qa_record['short_answer'] = ""
-                    num_without_ans += 1
-                    
-                qa_records.append(qa_record)
-        
-        
-    documents = [{'document_title':title, 'document_text': text}\
-                         for title, text in documents.items()]
-                
-    print(f'Data contains {num_with_ans} question/answer pairs with a short answer, and {num_without_ans} without.'+
-          f'\nThere are {len(documents)} unique wikipedia article paragraphs.')
-                
-    return qa_records, documents
-
-def search_es(es_obj, index_name, question_text, n_results):
-    '''
-    Execute an Elasticsearch query on a specified index
-    
-    Args:
-        es_obj (elasticsearch.client.Elasticsearch) - Elasticsearch client object
-        index_name (str) - Name of index to query
-        query (dict) - Query DSL
-        n_results (int) - Number of results to return
-        
-    Returns
-        res - Elasticsearch response object
-    
-    '''
-    
-    # construct query
-    query = {
-            'query': {
-                'match': {
-                    'document_text': question_text
-                    }
-                }
-            }
-    
-    res = es_obj.search(index=index_name, body=query, size=n_results)
-    
-    return res
-
-def searchcontext(question):
-    res = search_es(es_obj=es, index_name=index_name, question_text=question, n_results=10)
-
-    # get list of relevant context
-    # titles = [(hit['_source']['document_title'], hit['_score']) for hit in res['hits']['hits']]
-    # context = [hit['_source']['document_text'] for hit in res['hits']['hits']]
-
-    # get the most relevent context
-    if res["hits"]["hits"][0]["_score"] >= 5:
-        context = res["hits"]["hits"][0]['_source']["document_text"]
-        app.logger.info(context)
-        return context
-    
-
-    return -1
+from rank_bm25 import BM25Okapi
+from transformers import BasicTokenizer ,AutoTokenizer, AutoModelForQuestionAnswering
 
 def get_final_text(pred_text, orig_text, do_lower_case, verbose_logging=False):
     """Project the tokenized prediction back to the original text."""
@@ -214,12 +100,18 @@ def get_final_text(pred_text, orig_text, do_lower_case, verbose_logging=False):
     output_text = orig_text[orig_start_position : (orig_end_position + 1)]
     return output_text
 
-def answerthequestion(question, context):
+def search_context(question):
+    score = np.sum(bm25.get_scores(question.split()))
+    if score <= 5:
+        return -1
+    return bm25.get_top_n(question.split(), CONTEXTS, n=1)[0]
+
+def answer_the_question(question, context):
     inputs = tokenizer.encode_plus(question, context, return_tensors="pt")
 
-    answer_start_scores, answer_end_scores = model(**inputs)
-    answer_start = torch.argmax(answer_start_scores)  # get the most likely beginning of answer with the argmax of the score
-    answer_end = torch.argmax(answer_end_scores) + 1  # get the most likely end of answer with the argmax of the score
+    output = model(**inputs)
+    answer_start = torch.argmax(output.start_logits)  # get the most likely beginning of answer with the argmax of the score
+    answer_end = torch.argmax(output.end_logits) + 1  # get the most likely end of answer with the argmax of the score
 
     pred_answer = tokenizer.convert_tokens_to_string(tokenizer.convert_ids_to_tokens(inputs["input_ids"][0][answer_start:answer_end]))
 
@@ -229,7 +121,7 @@ def answerthequestion(question, context):
 
 # flask config
 app = Flask(__name__, template_folder='templates', static_folder='assets')
-app.config['SECRET_KEY'] = "tue khuyen"
+app.config['SECRET_KEY'] = "monn monn"
 
 @app.route('/')
 def index():
@@ -241,7 +133,7 @@ def get_answer():
     question = request.form["question"]
 
     try:
-        context = searchcontext(question)
+        context = search_context(question)
         if context == -1:
             return {
                 "code" : -1,
@@ -253,7 +145,7 @@ def get_answer():
             "answer" : "Xin lỗi tôi không thể trả lời câu hỏi này"
         }
 
-    answer = answerthequestion(question, context)
+    answer = answer_the_question(question, context)
 
     return {
         "code" : 0,
@@ -261,49 +153,20 @@ def get_answer():
     }
 
 if __name__ == '__main__':
-    # interacting with elasticsearch
-    config = {'host':'localhost', 'port':9200}
-    es = Elasticsearch([config])
-
-    # create index
-    index_config = {
-    "settings": {
-        "analysis": {
-            "analyzer": {
-                "stop_stem_analyzer": {
-                    "type": "custom",
-                    "tokenizer": "standard",
-                    "filter":[
-                        "lowercase",
-                        "stop",
-                        "snowball"
-                    ]
-                    
-                }
-            }
-        }
-    },
-    "mappings": {
-        "dynamic": "strict", 
-        "properties": {
-            "document_title": {"type": "text", "analyzer": "stop_stem_analyzer"},
-            "document_text": {"type": "text", "analyzer": "stop_stem_analyzer"}
-            }
-        }
-    }
-
-    index_name = 'squad-standard-index'
-    es.indices.create(index=index_name, body=index_config, ignore=400)
 
     # load corpus
     corpus_file = "./data/data.json"
     corpus = json.load(open(corpus_file, 'rb'))
 
-    # parse question/answer record and get documents
-    qa_records, documents = parse_qa_records(corpus['data'])
+    CONTEXTS = []
+    for doc in corpus['data']:
+        for p in doc['paragraphs']:
+            CONTEXTS.append(p['context'])
 
-    # populate index for elasticsearch
-    populate_index(es_obj=es, index_name=index_name, evidence_corpus=documents)
+    tokenized_contexts = [context.split() for context in CONTEXTS]
+
+    # Load BM25 for searching context
+    bm25 = BM25Okapi(tokenized_contexts)
 
     # load the fine-tuned model
     tokenizer = AutoTokenizer.from_pretrained("./model")
