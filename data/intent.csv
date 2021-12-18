@@ -1,0 +1,778 @@
+CauHoi,Intent
+Thủ khoa đầu vào được cấp học bổng gì,info
+Học bổng dành cho thủ khoa trị giá bao nhiêu,info
+Sinh viên có học lực loại giỏi được học bổng gì không,info
+Học bổng dành cho sinh viên đạt loại giỏi,info
+Sinh viên học lực xuất sắc được học bổng bao nhiêu,info
+Học bổng dành cho sinh viên đạt loại xuất sắc,info
+Điều kiện để lấy được học bổng,info
+Cách để lấy được học bổng,info
+How to lấy được học bổng,info
+"Mức cấp học bổng dành cho con, anh/chị em Ruột của cán bộ công đoàn",info
+anh chị em ruột cán bộ đoàn được học bổng bao nhiêu,info
+Mức cấp học bổng dành cho anh/chị em ruột học tại Trường,info
+anh chị em ruột được cấp học bổng bao nhiêu,info
+Sinh viên không vi phạm nội quy được nhiêu điểm rèn luyện,info
+Sinh viên bị nhắc nhở trừ nhiêu điểm rèn luyện,info
+Nhắc nhở trừ nhiêu điểm rèn luyện,info
+Bị nhắc nhở trừ nhiêu điểm rèn luyện,info
+Sinh viên bị phê bình trừ nhiêu điểm rèn luyện,info
+Phê bình trừ nhiêu điểm rèn luyện,info
+Bị phê bình trừ nhiêu điểm rèn luyện,info
+Sinh viên bị nghiêm khắc phê bình trừ nhiêu điểm rèn luyện,info
+Nghiêm khắc phê bình trừ nhiêu điểm rèn luyện,info
+Sinh viên bị khiển trách trừ nhiêu điểm rèn luyện,info
+Khiển trách trừ nhiêu điểm rèn luyện,info
+Sinh viên bị cảnh cáo trừ nhiêu điểm rèn luyện,info
+Cảnh cáo trừ nhiêu điểm rèn luyện,info
+Sinh viên bị cảnh cáo lần 2 trừ nhiêu điểm rèn luyện,info
+Cảnh cáo lần 2 trừ nhiêu điểm rèn luyện,info
+Không tham gia hoạt động được phân công trừ nhiêu điểm rèn luyện,info
+Quên tham gia hoạt động được phân công trừ nhiêu điểm rèn luyện,info
+"Vô lễ, xúc phạm nhân phẩm, danh dự, xâm phạm thân thể thầy cô giáo, cán bộ nhà trường bị gì",info
+"Vô lễ, xúc phạm nhân phẩm, danh dự, xâm phạm thân thể thầy cô giáo, cán bộ nhà trường bị xử lý sao",info
+Vô lễ bị xử lý gì,info
+"Xúc phạm nhân phẩm, danh dự thầy cô bị gì",info
+"Xúc phạm nhân phẩm, danh dự thầy cô bị xử lý gì",info
+Không chào hỏi người lớn trong Trường bị gì,info
+Không chào hỏi người lớn trong Trường bị xử lý sao,info
+Không chào hỏi người lớn trong Trường bị xử lý thế nào,info
+Không chào hỏi người lớn trong Trường bị giám thị bắt thì bị xử lý sao,info
+"Tặng quà cho giảng viên, viên chức bị xử lý gì",info
+"Tặng quà cho giảng viên, viên chức bị xử lý sao",info
+Tặng tiền cho giảng viên bị xử lý gì,info
+Tặng tiền cho giảng viên bị xử lý sao,info
+Tặng phẩm vật cho giảng viên bị xử lý gì,info
+Tặng phẩm vật cho giảng viên bị xử lý sao,info
+"Lên facebook viết xuyên tạc gây ảnh hưởng nhà trường, thầy cô bị xử lý gì",info
+Lên facebook viết xuyên tạc gây ảnh hưởng đến nhà trường bị xử lý gì,info
+Lên facebook viết xuyên tạc gây ảnh hưởng đến thầy cô bị xử lý gì,info
+Lên facebook viết xuyên tạc gây ảnh hưởng nhà trường bị xử lý gì,info
+"Lên facebook viết status xuyên tạc gây ảnh hưởng nhà trường, thầy cô bị xử lý gì ",info
+Lên facebook viết status xuyên tạc gây ảnh hưởng đến nhà trường bị xử lý gì,info
+Lên facebook viết status xuyên tạc gây ảnh hưởng đến thầy cô bị xử lý gì,info
+Lên facebook viết status xuyên tạc gây ảnh hưởng nhà trường bị xử lý gì,info
+"Sử dụng Internet vào mạng xã hội viết những điều không đúng hoặc nội dung xuyên tạc gây ảnh hưởng đến uy tín nhà trường, thầy cô mà không có căn cứ, minh chứng rõ ràng hoặc có minh chứng nhưng sử dụng từ ngữ vô lễ, không đúng mực về Nhà trường, thày/cô ",info
+"Lên mạng xã hội viết xuyên tạc gây ảnh hưởng nhà trường, thầy cô bị xử lý gì",info
+Lên mạng xã hội viết xuyên tạc gây ảnh hưởng đến nhà trường bị xử lý gì,info
+Lên mạng xã hội viết xuyên tạc gây ảnh hưởng đến thầy cô bị xử lý gì,info
+Lên mạng xã hội viết xuyên tạc gây ảnh hưởng nhà trường bị xử lý gì,info
+"Lên mạng xã hội viết status xuyên tạc gây ảnh hưởng nhà trường, thầy cô bị xử lý gì ",info
+Lên mạng xã hội viết status xuyên tạc gây ảnh hưởng đến nhà trường bị xử lý gì,info
+Lên mạng xã hội viết status xuyên tạc gây ảnh hưởng đến thầy cô bị xử lý gì,info
+Lên mạng xã hội viết status xuyên tạc gây ảnh hưởng nhà trường bị xử lý gì,info
+Đưa hình ảnh phản cảm lên mạng xã hội làm ảnh hưởng đến uy tín và hình ảnh nhà trường bị xử lý gì,info
+Đưa hình ảnh phản cảm lên mạng xã hội làm ảnh hưởng đến uy tín và hình ảnh nhà trường bị xử lý sao,info
+Đưa hình ảnh phản cảm lên mạng xã hội làm ảnh hưởng đến uy tín và hình ảnh nhà trường bị xử lý thế nào,info
+Lên mạng xã hội đăng hình ảnh làm ảnh hưởng uy tín nhà trường bị xử lý gì,info
+Sử dụng Internet vào mạng xã hội viết nội dung có nhắc đến tên trường mang thái độ châm biếm bị xử lý gì,info
+Sử dụng Internet vào mạng xã hội viết nội dung có nhắc đến tên trường mang thái độ châm biếm bị xử lý sao,info
+Sử dụng Internet vào mạng xã hội viết nội dung có nhắc đến tên trường mang thái độ châm biếm bị xử lý thế nào,info
+Lên mạng xã hội viết nội dung có nhắc tên nhà trường với thái độ châm biếm bị xử lý gì,info
+Lên mạng xã hội viết nội dung có nhắc tên nhà trường với thái độ châm biếm bị xử lý sao,info
+Lên mạng xã hội viết nội dung có nhắc tên nhà trường với thái độ châm biếm bị xử lý thế nào,info
+Vi phạm quyền tác giả với tác phẩm hoặc sử dụng giai điệu Hành khúc Đại học Tôn Đức Thắng không đúng mục đích bị xử lý gì,info
+Vi phạm quyền tác giả với tác phẩm hoặc sử dụng giai điệu Hành khúc Đại học Tôn Đức Thắng không đúng mục đích bị xử lý sao,info
+Vi phạm quyền tác giả với tác phẩm hoặc sử dụng giai điệu Hành khúc Đại học Tôn Đức Thắng không đúng mục đích bị xử lý thế nào,info
+sử dụng giai điệu hành khúc đại học tôn đức thắng không đúng mục đích bị xử lý gì,info
+sử dụng giai điệu hành khúc đại học tôn đức thắng không đúng mục đích bị xử lý sao,info
+sử dụng giai điệu hành khúc đại học tôn đức thắng không đúng mục đích bị xử lý thế nào,info
+Vi phạm quyền tác giả với tác phẩm hành khúc đại học tôn đức thắng bị xử lý thế nào,info
+Vi phạm quyền tác giả với tác phẩm hành khúc đại học tôn đức thắng bị xử lý gì,info
+Vi phạm quyền tác giả với tác phẩm hành khúc đại học tôn đức thắng bị xử lý sao,info
+"Nhận được thông tin chưa kiểm chứng, chưa báo cáo khoa quản lý đã phát tán thông tin cho người khác hoặc phản ánh thông tin về nhà trường, thầy cô không chính xác khi chưa tìm hiểu hoặc phát ngôn không đúng sự thật hoặc phản ánh lại nội dung đã được nhà trường giải quyết ",info
+Phát tán thông tin chưa được kiểm chứng bị xử lý gì,info
+"Vi phạm nội quy nhà trường, thầy cô, giám thị nhắc nhở nhưng vẫn cố tình không chấp hành bị xử lý gì",info
+"Vi phạm nội quy nhà trường, thầy cô, giám thị nhắc nhở nhưng vẫn cố tình không chấp hành bị xử lý sao",info
+"Vi phạm nội quy nhà trường, thầy cô, giám thị nhắc nhở nhưng vẫn cố tình không chấp hành bị xử lý thế nào",info
+"Vi phạm nội quy nhà trường, thầy cô, giám thị nhắc nhở nhưng có thái độ không đúng mực bị xử lý gì",info
+"Vi phạm nội quy nhà trường, thầy cô, giám thị nhắc nhở nhưng có thái độ không đúng mực bị xử lý sao",info
+"Vi phạm nội quy nhà trường, thầy cô, giám thị nhắc nhở nhưng có thái độ không đúng mực bị xử lý thế nào",info
+Bỏ chạy khi bị lập biên bản bị xử lý gì,info
+Bỏ chạy khi bị lập biên bản bị xử lý sao,info
+Bỏ chạy khi bị lập biên bản bị xử lý thế nào,info
+Ghi tục vào biên bản xử lý sinh viên vi phạm bị xử lý gì,info
+Ghi tục vào biên bản xử lý sinh viên vi phạm bị xử lý sao,info
+Ghi tục vào biên bản xử lý sinh viên vi phạm bị xử lý thế nào,info
+"Văng tục, chửi thề, ăn nói bất lịch sự trong trường bị xử lý gì",info
+"Văng tục, chửi thề, ăn nói bất lịch sự trong trường bị xử lý sao",info
+"Văng tục, chửi thề, ăn nói bất lịch sự trong trường bị xử lý thế nào",info
+Chửi thề trong trường bị xử lý gì,info
+Chửi thề trong trường bị xử lý sao,info
+Chửi thề trong trường bị xử lý thế nào,info
+Văng tục trong trường bị xử lý gì,info
+Văng tục trong trường bị xử lý sao,info
+Văng tục trong trường bị xử lý thế nào,info
+Ăn nói bất lịch sự trong trường bị xử lý gì,info
+Ăn nói bất lịch sự trong trường bị xử lý sao,info
+Ăn nói bất lịch sự trong trường bị xử lý thế nào,info
+Không đeo thẻ sinh viên trong trường bị xử lý thế nào ,info
+Không đeo thẻ sinh viên trong trường bị xử lý sao,info
+Không đeo thẻ sinh viên trong trường bị xử lý gì,info
+Trong trường không đeo thẻ sinh viên bị xử lý thế nào,info
+Trong trường không đeo thẻ sinh viên bị xử lý sao,info
+Trong trường không đeo thẻ sinh viên bị xử lý gì,info
+Cho người khác mượn thẻ sinh viên bị xử lý gì,info
+Cho người khác mượn thẻ sinh viên bị xử lý sao,info
+Cho người khác mượn thẻ sinh viên bị xử lý thế nào,info
+Mượn thẻ của sinh viên khác bị xử lý gì,info
+Mượn thẻ của sinh viên khác bị xử lý sao,info
+Mượn thẻ của sinh viên khác bị xử lý thế nào,info
+Quên đeo thẻ sinh viên trong trường bị xử lý thế nào ,info
+Quên đeo thẻ sinh viên trong trường bị xử lý sao,info
+Quên đeo thẻ sinh viên trong trường bị xử lý gì,info
+Làm lại thẻ sinh viên nhưng không theo dõi thời gian nhận lại thẻ bị xử lý gì,info
+Làm lại thẻ sinh viên nhưng không theo dõi thời gian nhận lại thẻ bị xử lý sao,info
+Làm lại thẻ sinh viên nhưng không theo dõi thời gian nhận lại thẻ bị xử lý thế nào,info
+Làm lại thẻ sinh viên nhưng lấy thẻ quá thời gian nhận lại thẻ bị xử lý gì,info
+Làm lại thẻ sinh viên nhưng lấy thẻ quá thời gian nhận lại thẻ bị xử lý sao,info
+Làm lại thẻ sinh viên nhưng lấy thẻ quá thời gian nhận lại thẻ bị xử lý thế nào,info
+Mang dép lê bị xử lý gì,info
+Mang dép lê bị xử lý sao,info
+Mang dép lê bị xử lý thế nào,info
+Mang dép lê vào trường bị xử lý gì,info
+Mang dép lê vào trường bị xử lý sao,info
+Mang dép lê vào trường bị xử lý thế nào,info
+"Trang phục không lịch sự, không gọn gàng, không phù hợp với môi trường giáo dục bị xử lý gì",info
+"Trang phục không lịch sự, không gọn gàng, không phù hợp với môi trường giáo dục bị xử lý sao",info
+"Trang phục không lịch sự, không gọn gàng, không phù hợp với môi trường giáo dục bị xử lý thế nào",info
+Mặc trang phục không lịch sự vào trường bị xử lý gì,info
+Mặc trang phục không lịch sự vào trường bị xử lý sao,info
+Mặc trang phục không lịch sự vào trường bị xử lý thế nào,info
+Mặc trang phục không lịch sự bị xử lý gì,info
+Mặc trang phục không lịch sự bị xử lý sao,info
+Mặc trang phục không lịch sự bị xử lý thế nào,info
+Mặc trang phục không gọn gàng vào trường bị xử lý gì,info
+Mặc trang phục không gọn gàng vào trường bị xử lý sao,info
+Mặc trang phục không gọn gàng vào trường bị xử lý thế nào,info
+Mặc trang phục không gọn gàng bị xử lý gì,info
+Mặc trang phục không gọn gàng bị xử lý sao,info
+Mặc trang phục không gọn gàng bị xử lý thế nào,info
+Mặc trang phục không phù hợp với môi trường giáo dục bị xử lý gì,info
+Mặc trang phục không phù hợp với môi trường giáo dục bị xử lý sao,info
+Mặc trang phục không phù hợp với môi trường giáo dục bị xử lý thế nào,info
+Không thực hiện đúng qui định về mặc trang phục truyền thống bị xử lý gì,info
+Không thực hiện đúng qui định về mặc trang phục truyền thống bị xử lý sao,info
+Không thực hiện đúng qui định về mặc trang phục truyền thống bị xử lý thế nào,info
+"Không mặc trang phục truyền thống vào thứ 2,5 hàng tuần bị xử lý gì",info
+"Không mặc trang phục truyền thống vào thứ 2,5 hàng tuần bị xử lý sao",info
+"Không mặc trang phục truyền thống vào thứ 2,5 hàng tuần bị xử lý thế nào",info
+Không mặc trang phục truyền thống vào thứ 2 bị xử lý gì ,info
+Không mặc trang phục truyền thống vào thứ 2 bị xử lý sao,info
+Không mặc trang phục truyền thống vào thứ 2 bị xử lý thế nào,info
+Không mặc trang phục truyền thống vào thứ 5 bị xử lý gì ,info
+Không mặc trang phục truyền thống vào thứ 5 bị xử lý sao,info
+Không mặc trang phục truyền thống vào thứ 5 bị xử lý thế nào,info
+"Mang đồ ăn, thức uống vào phòng học, thư viện bị xử lý gì",info
+"Mang đồ ăn, thức uống vào phòng học, thư viện bị xử lý sao",info
+"Mang đồ ăn, thức uống vào phòng học, thư viện bị xử lý thế nào",info
+Mang đồ ăn vào phòng học bị xử lý gì,info
+Mang đồ ăn vào phòng học bị xử lý sao,info
+Mang đồ ăn vào phòng học bị xử lý thế nào,info
+Mang thức uống vào phòng học bị xử lý gì,info
+Mang thức uống vào phòng học bị xử lý sao,info
+Mang thức uống vào phòng học bị xử lý thế nào,info
+Mang đồ ăn vào thư viện bị xử lý gì,info
+Mang đồ ăn vào thư viện bị xử lý sao,info
+Mang đồ ăn vào thư viện bị xử lý thế nào,info
+Mang thức uống vào thư viện bị xử lý gì,info
+Mang thức uống vào thư viện bị xử lý sao,info
+Mang thức uống vào thư viện bị xử lý thế nào,info
+"Ăn uống trong phòng học, thư viện bị xử lý gì",info
+"Ăn uống trong phòng học, thư viện bị xử lý sao",info
+"Ăn uống trong phòng học, thư viện bị xử lý thế nào",info
+Ăn uống trong phòng học bị xử lý gì,info
+Ăn uống trong phòng học bị xử lý sao,info
+Ăn uống trong phòng học bị xử lý thế nào,info
+Ăn uống trong thư viện bị xử lý gì,info
+Ăn uống trong thư viện bị xử lý sao,info
+Ăn uống trong thư viện bị xử lý thế nào,info
+"Ngủ trong giờ học, thư viện bị xử lý gì",info
+"Ngủ trong giờ học, thư viện bị xử lý sao",info
+"Ngủ trong giờ học, thư viện bị xử lý thế nào",info
+Ngủ trong giờ học bị xử lý gì,info
+Ngủ trong giờ học bị xử lý sao,info
+Ngủ trong giờ học bị xử lý thế nào,info
+Ngủ trong thư viện bị xử lý gì,info
+Ngủ trong thư viện bị xử lý sao ,info
+Ngủ trong thư viện bị xử lý thế nào,info
+"Chơi game, nghe nhạc, coi phim, đọc báo, đọc truyện, chơi cờ caro, thêu tranh,… trong giờ học, thư viện bị xử lý gì",info
+"Chơi game, nghe nhạc, coi phim, đọc báo, đọc truyện, chơi cờ caro, thêu tranh,… trong giờ học, thư viện bị xử lý sao",info
+"Chơi game, nghe nhạc, coi phim, đọc báo, đọc truyện, chơi cờ caro, thêu tranh,… trong giờ học, thư viện bị xử lý thế nào",info
+Chơi game trong giờ học bị xử lý gì,info
+Chơi game trong giờ học bị xử lý sao,info
+Chơi game trong giờ học bị xử lý thế nào,info
+Chơi game trong thư viện bị xử lý gì,info
+Chơi game trong thư viện bị xử lý sao,info
+Chơi game trong thư viện bị xử lý thế nào,info
+Nghe nhạc trong giờ học bị xử lý gì,info
+Nghe nhạc trong giờ học bị xử lý sao,info
+Nghe nhạc trong giờ học bị xử lý thế nào,info
+Nghe nhạc trong thư viện bị xử lý gì,info
+Nghe nhạc trong thư viện bị xử lý sao,info
+Nghe nhạc trong thư viện bị xử lý thế nào,info
+Coi phim trong giờ học bị xử lý gì,info
+Coi phim trong giờ học bị xử lý sao ,info
+Coi phim trong giờ học bị xử lý thế nào,info
+Coi phim trong thư viện bị xử lý gì,info
+Coi phim trong thư viện bị xử lý sao,info
+Coi phim trong thư viện bị xử lý thế nào,info
+Xem phim trong giờ học bị xử lý gì,info
+Xem phim trong giờ học bị xử lý sao,info
+Xem phim trong giờ học bị xử lý thế nào,info
+Xem phim trong thư viện bị xử lý gì,info
+Xem phim trong thư viện bị xử lý sao,info
+Xem phim trong thư viện bị xử lý thế nào,info
+Đọc báo trong giờ học bị xử lý gì ,info
+Đọc báo trong giờ học bị xử lý sao ,info
+Đọc báo trong giờ học bị xử lý thế nào,info
+Đọc truyện trong giờ học bị xử lý gì,info
+Đọc truyện trong giờ học bị xử lý sao,info
+Đọc truyện trong giờ học bị xử lý thế nào,info
+Đọc truyện trong thư viện bị xử lý gì,info
+Đọc truyện trong thư viện bị xử lý sao,info
+Đọc truyện trong thư viện bị xử lý thế nào,info
+Chơi trò chơi trong giờ học bị xử lý gì,info
+Chơi trò chơi trong giờ học bị xử lý sao,info
+Chơi trò chơi trong giờ học bị xử lý thế nào,info
+Chơi trò chơi trong thư viện bị xử lý gì,info
+Chơi trò chơi trong thư viện bị xử lý sao,info
+Chơi trò chơi trong thư viện bị xử lý thế nào,info
+Lướt face trong giờ học bị xử lý gì,info
+Lướt face trong giờ học bị xử lý sao,info
+Lướt face trong giờ học bị xử lý thế nào,info
+Xem tiktok trong giờ học bị xử lý gì,info
+Xem tiktok trong giờ học bị xử lý sao,info
+Xem tiktok trong giờ học bị xử lý thế nào,info
+Lướt tiktok trong giờ học bị xử lý gì,info
+Lướt tiktok trong giờ học bị xử lý sao,info
+Lướt tiktok trong giờ học bị xử lý thế nào,info
+"Sử dụng điện thoại, sử dụng máy vi tính không đúng mục đích trong giờ học, thư viện bị xử lý như thế nào",info
+"Sử dụng điện thoại, sử dụng máy vi tính không đúng mục đích trong giờ học, thư viện bị xử lý sao",info
+"Sử dụng điện thoại, sử dụng máy vi tính không đúng mục đích trong giờ học, thư viện bị xử lý gì",info
+Sử dụng điện thoại trong giờ học bị xử lý như thế nào,info
+Sử dụng điện thoại trong giờ học bị xử lý sao,info
+Sử dụng điện thoại trong giờ học bị xử lý gì,info
+Sử dụng máy vi tính không đúng mục đích trong giờ học bị xử lý như thế nào,info
+Sử dụng máy vi tính không đúng mục đích trong giờ học bị xử lý sao,info
+Sử dụng máy vi tính không đúng mục đích trong giờ học bị xử lý gì,info
+Sử dụng máy vi tính không đúng mục đích trong thư viện bị xử lý như thế nào,info
+Sử dụng máy vi tính không đúng mục đích trong thư viện bị xử lý sao,info
+Sử dụng máy vi tính không đúng mục đích trong thư viện bị xử lý gì,info
+"Mất trật tự, làm việc riêng trong giờ học, thư viện bị xử lý như thế nào",info
+"Mất trật tự, làm việc riêng trong giờ học, thư viện bị xử lý sao",info
+"Mất trật tự, làm việc riêng trong giờ học, thư viện bị xử lý gì",info
+Mất trật tự trong giờ học bị xử lý như thế nào,info
+Mất trật tự trong giờ học bị xử lý sao,info
+Mất trật tự trong giờ học bị xử lý gì,info
+Làm việc riêng trong giờ học bị xử lý như thế nào,info
+Làm việc riêng trong giờ học bị xử lý sao,info
+Làm việc riêng trong giờ học bị xử lý gì,info
+Tự ý vào lớp khi giờ học đã bắt đầu bị xử lý gì,info
+Tự ý vào lớp khi giờ học đã bắt đầu bị xử lý sao,info
+Tự ý vào lớp khi giờ học đã bắt đầu bị xử lý như thế nào,info
+Tự ý bỏ học đi ra ngoài mà không xin phép thầy cô bị xử lý gì,info
+Tự ý bỏ học đi ra ngoài mà không xin phép thầy cô bị xử lý sao,info
+Tự ý bỏ học đi ra ngoài mà không xin phép thầy cô bị xử lý như thế nào,info
+Đi trễ nhưng vẫn vào điểm danh chào cờ bị xử lý gì,info
+Đi trễ nhưng vẫn vào điểm danh chào cờ bị xử lý sao,info
+Đi trễ nhưng vẫn vào điểm danh chào cờ bị xử lý như thế nào,info
+"Viết, vẽ, khắc chữ lên tường, cửa, bàn, ghế, bảng… trong các phòng học, phòng họp, phòng ở Ký túc xá và các khu vực khác trong trường bị xử lý gì",info
+"Viết, vẽ, khắc chữ lên tường, cửa, bàn, ghế, bảng… trong các phòng học, phòng họp, phòng ở Ký túc xá và các khu vực khác trong trường bị xử lý sao",info
+"Viết, vẽ, khắc chữ lên tường, cửa, bàn, ghế, bảng… trong các phòng học, phòng họp, phòng ở Ký túc xá và các khu vực khác trong trường bị xử lý như thế nào",info
+Viết lên tường trong phòng học bị xử lý gì,info
+Viết lên tường trong phòng học bị xử lý sao,info
+Viết lên tường trong phòng học bị xử lý thế nào,info
+Vẽ lên tường trong phòng học bị xử lý gì ,info
+Vẽ lên tường trong phòng học bị xử lý sao,info
+Vẽ lên tường trong phòng học bị xử lý như thế nào,info
+Khắc chữ lên tường trong phòng học bị xử lý gì,info
+Khắc chữ lên tường trong phòng học bị xử lý sao,info
+Khắc chữ lên tường trong phòng học bị xử lý thế nào,info
+Vẽ lên bàn ghế trong phòng học bị xử lý gì,info
+Vẽ lên bàn ghế trong phòng học bị xử lý sao,info
+Vẽ lên bàn ghế trong phòng học bị xử lý thế nào,info
+"Viết, vẽ lên bàn ghế trong phòng học bị xử lý gì",info
+"Viết, vẽ lên bàn ghế trong phòng học bị xử lý sao",info
+"Viết, vẽ lên bàn ghế trong phòng học bị xử lý thế nào",info
+"Viết, vẽ lên bàn ghế trong phòng kí túc xá bị xử lý gì",info
+"Viết, vẽ lên bàn ghế trong phòng kí túc xá bị xử lý sao",info
+"Viết, vẽ lên bàn ghế trong phòng kí túc xá bị xử lý thế nào",info
+Khắc chữ lên tường trong phòng kí túc xá bị xử lý như thế nào,info
+Khắc chữ lên tường trong phòng kí túc xá bị xử lý gì,info
+Khắc chữ lên tường trong phòng kí túc xá bị xử lý sao,info
+"Ngồi, chạy nhảy trên bàn; đi trên ghế; leo trèo, nhảy qua cửa sổ; ngồi trên lan can; gạch xé và bôi xóa các thông báo, thông tin của nhà trường bị xử lý gì",info
+"Ngồi, chạy nhảy trên bàn; đi trên ghế; leo trèo, nhảy qua cửa sổ; ngồi trên lan can; gạch xé và bôi xóa các thông báo, thông tin của nhà trường bị xử lý như thế nào",info
+"Ngồi, chạy nhảy trên bàn; đi trên ghế; leo trèo, nhảy qua cửa sổ; ngồi trên lan can; gạch xé và bôi xóa các thông báo, thông tin của nhà trường bị xử lý sao",info
+Ngồi trên bàn học bị xử lý như thế nào,info
+Ngồi trên bàn học bị xử lý gì,info
+Ngồi trên bàn học bị xử lý sao,info
+Chạy nhảy trên bàn học bị xử lý như thế nào,info
+Chạy nhảy trên bàn học bị xử lý gì,info
+Chạy nhảy trên bàn học bị xử lý sao,info
+Đi trên ghế bị xử lý như thế nào,info
+Đi trên ghế bị xử lý gì,info
+Đi trên ghế bị xử lý sao,info
+Nhảy qua cửa sổ bị xử lý như thế nào,info
+Nhảy qua cửa sổ bị xử lý sao,info
+Nhảy qua cửa sổ bị xử lý gì,info
+Ngồi trên lan can bị xử lý như thế nào,info
+Ngồi trên lan can bị xử lý gì,info
+Ngồi trên lan can bị xử lý sao,info
+Gạch xé các thông báo của nhà trường bị xử lý gì,info
+Gạch xé các thông báo của nhà trường bị xử lý sao,info
+Gạch xé các thông báo của nhà trường bị xử lý như thế nào,info
+Gạch xé các thông tin của nhà trường bị xử lý gì,info
+Gạch xé các thông tin của nhà trường bị xử lý sao,info
+Gạch xé các thông tin của nhà trường bị xử lý như thế nào,info
+Bôi xóa các thông báo của nhà trường bị xử lý gì,info
+Bôi xóa các thông báo của nhà trường bị xử lý sao,info
+Bôi xóa các thông báo của nhà trường bị xử lý như thế nào,info
+Giẫm chân lên bệ bồn cầu của nhà trường bị xử lý gì,info
+Giẫm chân lên bệ bồn cầu của nhà trường bị xử lý sao ,info
+Giẫm chân lên bệ bồn cầu của nhà trường bị xử lý như thế nào,info
+"Tự ý di chuyển các trang thiết bị, tài sản, bàn ghế, bảng, bục trong phòng học, giảng đường bị xử lý sao",info
+"Tự ý di chuyển các trang thiết bị, tài sản, bàn ghế, bảng, bục trong phòng học, giảng đường bị xử lý gì",info
+"Tự ý di chuyển các trang thiết bị, tài sản, bàn ghế, bảng, bục trong phòng học, giảng đường bị xử lý như thế nào",info
+Làm hư hỏng các thiết bị bị xử lý như thế nào,info
+Làm hư hỏng các thiết bị bị xử lý sao,info
+Làm hư hỏng các thiết bị bị xử lý gì,info
+"Phá hoại thang máy, nghịch phá lan can, cầu thang, tường rào, đèn chiếu sáng bị xử lý như thế nào",info
+"Phá hoại thang máy, nghịch phá lan can, cầu thang, tường rào, đèn chiếu sáng bị xử lý gì",info
+"Phá hoại thang máy, nghịch phá lan can, cầu thang, tường rào, đèn chiếu sáng bị xử lý sao",info
+"Làm mất vệ sinh trong trường, bỏ rác không đúng nơi qui định bị xử lý sao",info
+"Làm mất vệ sinh trong trường, bỏ rác không đúng nơi qui định bị xử lý gì",info
+"Làm mất vệ sinh trong trường, bỏ rác không đúng nơi qui định bị xử lý như thế nào",info
+Bỏ rác không đúng nơi quy định bị xử lý gì,info
+Bỏ rác không đúng nơi quy định bị xử lý sao,info
+Bỏ rác không đúng nơi quy định bị xử lý như thế nào,info
+"Lãng phí điện, nước trong trường bị xử lý gì",info
+"Lãng phí điện, nước trong trường bị xử lý sao",info
+"Lãng phí điện, nước trong trường bị xử lý như thế nào",info
+Lấy cắp tài sản trong trường bị xử lý gì,info
+Lấy cắp tài sản trong trường bị xử lý sao,info
+Lấy cắp tài sản trong trường bị xử lý như thế nào,info
+Không tham gia đầy đủ các buổi sinh hoạt công dân do nhà trường tổ chức bị xử lý gì,info
+Không tham gia đầy đủ các buổi sinh hoạt công dân do nhà trường tổ chức bị xử lý sao,info
+Không tham gia đầy đủ các buổi sinh hoạt công dân do nhà trường tổ chức bị xử lý thế nào,info
+Không tham gia sinh hoạt công dân bị xử lý gì ,info
+Không tham gia sinh hoạt công dân bị xử lý sao,info
+Không tham gia sinh hoạt công dân bị xử lý như thế nào,info
+Điểm danh hộ bị xử lý như thế nào,info
+Điểm danh hộ bị xử lý gì,info
+Điểm danh hộ bị xử lý sao,info
+Học hộ bị xử lý như thế nào,info
+Học hộ bị xử lý gì,info
+Học hộ bị xử lý ra sao,info
+"Nhờ người khác điểm danh hộ, học hộ bị xử lý gì",info
+"Nhờ người khác điểm danh hộ, học hộ bị xử lý sao",info
+"Nhờ người khác điểm danh hộ, học hộ bị xử lý thế nào",info
+Tham gia sinh hoạt công dân hộ bị xử lý như thế nào,info
+Tham gia sinh hoạt công dân hộ bị xử lý sao,info
+Tham gia sinh hoạt công dân hộ bị xử lý gì,info
+Nhờ người khác tham gia sinh hoạt công dân hộ bị xử lý gì,info
+Nhờ người khác tham gia sinh hoạt công dân hộ bị xử lý sao,info
+Nhờ người khác tham gia sinh hoạt công dân hộ bị xử lý thế nào,info
+Thi hộ bị xử lý như thế nào,info
+Thi hộ bị xử lý gì,info
+Thi hộ bị xử lý sao,info
+Kiểm tra hộ bị xử lý như thế nào,info
+Kiểm tra hộ bị xử lý gì,info
+Kiểm tra hộ bị xử lý sao,info
+Nhờ người khác thi hộ bị xử lý như thế nào,info
+Nhờ người khác thi hộ bị xử lý sao,info
+Nhờ người khác thi hộ bị xử lý gì,info
+Nhờ người khác kiểm tra hộ bị xử lý như thế nào,info
+Nhờ người khác kiểm tra hộ bị xử lý sao,info
+Nhờ người khác kiểm tra hộ bị xử lý gì,info
+"Sao chép tiểu luận, đồ án, khóa luận tốt nghiệp bị xử lý như thế nào",info
+"Sao chép tiểu luận, đồ án, khóa luận tốt nghiệp bị xử lý gì",info
+"Sao chép tiểu luận, đồ án, khóa luận tốt nghiệp bị xử lý sao",info
+Sao chép tiểu luận bị xử lý như thế nào,info
+Sao chép tiểu luận bị xử lý gì,info
+Sao chép tiểu luận bị xử lý ra sao,info
+Sao chép đồ án bị xử lý như thế nào,info
+Sao chép đồ án bị xử lý gì,info
+Sao chép đồ án bị xử lý ra sao,info
+Sao chép khóa luận tốt nghiệp bị xử lý như thế nào,info
+Sao chép khóa luận tốt nghiệp bị xử lý gì,info
+Sao chép khóa luận tốt nghiệp bị xử lý ra sao,info
+Nhờ người khác làm hộ tiểu luận bị xử lý như thế nào,info
+Nhờ người khác làm hộ tiểu luận bị xử lý ra sao,info
+Nhờ người khác làm hộ tiểu luận bị xử lý gì,info
+Nhờ người khác làm hộ đồ án bị xử lý như thế nào,info
+Nhờ người khác làm hộ đồ án bị xử lý gì,info
+Nhờ người khác làm hộ đồ án bị xử lý ra sao,info
+Nhờ người khác làm hộ khóa luận tốt nghiệp bị xử lý như thế nào,info
+Nhờ người khác làm hộ khóa luận tốt nghiệp bị xử lý gì,info
+Nhờ người khác làm hộ khóa luận tốt nghiệp bị xử lý ra sao,info
+Nhờ người khác sao chép tiểu luận bị xử lý như thế nào,info
+Nhờ người khác sao chép tiểu luận bị xử lý ra sao,info
+Nhờ người khác sao chép tiểu luận bị xử lý gì,info
+Nhờ người khác sao chép đồ án bị xử lý như thế nào,info
+Nhờ người khác sao chép đồ án bị xử lý sao,info
+Nhờ người khác sao chép đồ án bị xử lý gì,info
+Nhờ người khác sao chép khóa luận tốt nghiệp bị xử lý như thế nào,info
+Nhờ người khác sao chép khóa luận tốt nghiệp bị xử lý gì ,info
+Nhờ người khác sao chép khóa luận tốt nghiệp bị xử lý ra sao,info
+"Có hành vi thông đồng với sinh viên khác để sao chép tiểu luận, đồ án, khóa luận tốt nghiệp bị xử lý như thế nào",info
+"Có hành vi thông đồng với sinh viên khác để sao chép tiểu luận, đồ án, khóa luận tốt nghiệp bị xử lý gì",info
+"Có hành vi thông đồng với sinh viên khác để sao chép tiểu luận, đồ án, khóa luận tốt nghiệp bị xử lý ra sao",info
+Có hành vi thông đồng với sinh viên khác để sao chép tiểu luận bị xử lý như thế nào,info
+Có hành vi thông đồng với sinh viên khác để sao chép tiểu luận bị xử lý ra sao,info
+Có hành vi thông đồng với sinh viên khác để sao chép tiểu luận bị xử lý gì,info
+Có hành vi thông đồng với sinh viên khác để sao chép đồ án bị xử lý như thế nào,info
+Có hành vi thông đồng với sinh viên khác để sao chép đồ án bị xử lý ra sao,info
+Có hành vi thông đồng với sinh viên khác để sao chép đồ án bị xử lý gì,info
+Có hành vi thông đồng với sinh viên khác để sao chép khóa luận tốt nghiệp bị xử lý như thế nào,info
+Có hành vi thông đồng với sinh viên khác để sao chép khóa luận tốt nghiệp bị xử lý gì,info
+Có hành vi thông đồng với sinh viên khác để sao chép khóa luận tốt nghiệp bị xử lý ra sao,info
+Tổ chức sinh hoạt công dân hộ bị xử lý như thế nào,info
+Tổ chức sinh hoạt công dân hộ bị xử lý gì,info
+Tổ chức sinh hoạt công dân hộ bị xử lý ra sao,info
+Tổ chức học hộ bị xử lý như thế nào,info
+Tổ chức học hộ bị xử lý gì,info
+Tổ chức học hộ bị xử lý ra sao,info
+Tổ chức kiểm tra hộ bị xử lý như thế nào,info
+Tổ chức kiểm tra hộ bị xử lý gì,info
+Tổ chức kiểm tra hộ bị xử lý ra sao,info
+Tổ chức thi hộ bị xử gì,info
+Tổ chức thi hộ bị xử ra sao,info
+Tổ chức thi hộ bị xử như thế nào,info
+"Tổ chức làm hộ tiểu luận, đồ án, khóa luận tốt nghiệp bị xử lý như thế nào",info
+"Tổ chức làm hộ tiểu luận, đồ án, khóa luận tốt nghiệp bị xử lý gì",info
+"Tổ chức làm hộ tiểu luận, đồ án, khóa luận tốt nghiệp bị xử lý ra sao",info
+"Tổ chức sinh hoạt công dân hộ, học hộ, kiểm tra hộ, thi hộ bị xử lý như thế nào",info
+"Tổ chức sinh hoạt công dân hộ, học hộ, kiểm tra hộ, thi hộ bị xử lý gì",info
+"Tổ chức sinh hoạt công dân hộ, học hộ, kiểm tra hộ, thi hộ bị xử lý ra sao",info
+Tổ chức làm hộ tiểu luận bị xử lý như thế nào,info
+Tổ chức làm hộ tiểu luận bị xử lý gì,info
+Tổ chức làm hộ tiểu luận bị xử lý ra sao,info
+Tổ chức làm hộ đồ án bị xử lý như thế nào,info
+Tổ chức làm hộ đồ án bị xử lý gì,info
+Tổ chức làm hộ đồ án bị xử lý ra sao,info
+Tổ chức làm hộ khóa luận tốt nghiệp bị xử lý như thế nào,info
+Tổ chức làm hộ khóa luận tốt nghiệp bị xử lý gì,info
+Tổ chức làm hộ khóa luận tốt nghiệp bị xử lý ra sao,info
+"Viết, vẽ những nội dung không liên quan trong bài thi bị xử lý như thế nào",info
+"Viết, vẽ những nội dung không liên quan trong bài thi bị xử lý gì",info
+"Viết, vẽ những nội dung không liên quan trong bài thi bị xử lý ra sao",info
+Viết những nội dung không liên quan trong bài thi bị xử lý như thế nào,info
+Viết những nội dung không liên quan trong bài thi bị xử lý gì,info
+Viết những nội dung không liên quan trong bài thi bị xử lý ra sao,info
+Vẽ những nội dung không liên quan trong bài thi bị xử lý như thế nào,info
+Vẽ những nội dung không liên quan trong bài thi bị xử lý gì,info
+Vẽ những nội dung không liên quan trong bài thi bị xử lý ra sao,info
+Sinh viên vi phạm quy chế thi và lập biên bản ở mức đình chỉ thi bị xử lý như thế nào,info
+Sinh viên vi phạm quy chế thi và lập biên bản ở mức đình chỉ thi bị xử lý gì,info
+Sinh viên vi phạm quy chế thi và lập biên bản ở mức đình chỉ thi bị xử lý ra sao,info
+Sinh viên vi phạm quy chế thi và lập biên bản ở mức cảnh cáo bị xử lý như thế nào,info
+Sinh viên vi phạm quy chế thi và lập biên bản ở mức cảnh cáo bị xử lý gì,info
+Sinh viên vi phạm quy chế thi và lập biên bản ở mức cảnh cáo bị xử lý ra sao,info
+Sinh viên vi phạm quy chế thi và lập biên bản ở mức nhắc nhở bị xử lý như thế nào,info
+Sinh viên vi phạm quy chế thi và lập biên bản ở mức nhắc nhở bị xử lý gì,info
+Sinh viên vi phạm quy chế thi và lập biên bản ở mức nhắc nhở bị xử lý ra sao,info
+Sử dụng văn bằng đầu vào không hợp pháp bị xử lý như thế nào,info
+Sử dụng văn bằng đầu vào không hợp pháp bị xử lý gì,info
+Sử dụng văn bằng đầu vào không hợp pháp bị xử lý ra sao,info
+Sử dụng văn bằng giả bị xử lý như thế nào,info
+Sử dụng văn bằng giả bị xử lý gì,info
+Sử dụng văn bằng giả bị xử lý ra sao,info
+Sử dụng chứng chỉ giả bị xử lý như thế nào,info
+Sử dụng chứng chỉ giả bị xử lý gì,info
+Sử dụng chứng chỉ giả bị xử lý ra sao,info
+Sử dụng bảng điểm giả của trường bị xử lý như thế nào,info
+Sử dụng bảng điểm giả của trường bị xử lý gì ,info
+Sử dụng bảng điểm giả của trường bị xử lý ra sao,info
+Làm giả chứng chỉ nộp vào trường để hưởng quyền lợi bị xử lý như thế nào,info
+Làm giả chứng chỉ nộp vào trường để hưởng quyền lợi bị xử lý gì,info
+Làm giả chứng chỉ nộp vào trường để hưởng quyền lợi bị xử lý ra sao,info
+Sử dụng chứng chỉ giả nộp vào trường để hưởng quyền lợi bị xử lý như thế nào,info
+Sử dụng chứng chỉ giả nộp vào trường để hưởng quyền lợi bị xử lý gì,info
+Sử dụng chứng chỉ giả nộp vào trường để hưởng quyền lợi bị xử lý ra sao,info
+Giả mạo chữ ký nộp vào trường để được hưởng quyền lợi bị xử lý như thế nào,info
+Giả mạo chữ ký nộp vào trường để được hưởng quyền lợi bị xử lý gì,info
+Giả mạo chữ ký nộp vào trường để được hưởng quyền lợi bị xử lý ra sao,info
+Giả mạo hồ sơ nộp vào trường để được hưởng quyền lợi bị xử lý như thế nào,info
+Giả mạo hồ sơ nộp vào trường để được hưởng quyền lợi bị xử lý gì,info
+Giả mạo hồ sơ nộp vào trường để được hưởng quyền lợi bị xử lý ra sao,info
+Gửi khiếu nại vượt cấp bị xử lý như thế nào,info
+Gửi khiếu nại vượt cấp bị xử lý gì,info
+Gửi khiếu nại vượt cấp bị xử lý ra sao,info
+"Lơ là, không quan tâm đến quy định nhà trường bị xử lý như thế nào",info
+"Lơ là, không quan tâm đến quy định nhà trường bị xử lý gì",info
+"Lơ là, không quan tâm đến quy định nhà trường bị xử lý ra sao",info
+Không quan tâm đến quy định nhà trường bị xử lý như thế nào,info
+Không quan tâm đến quy định nhà trường bị xử lý gì,info
+Không quan tâm đến quy định nhà trường bị xử lý ra sao,info
+Khai báo sai thông tin sinh viên bị xử lý như thế nào,info
+Khai báo sai thông tin sinh viên bị xử lý gì,info
+Khai báo sai thông tin sinh viên bị xử lý ra sao,info
+"Uống rượu, bia trong khuôn viên Trường; say rượu, bia khi đến Trường; Hút thuốc lá/thuốc lá điện tử trong Trường bị xử lý như thế nào",info
+"Uống rượu, bia trong khuôn viên Trường; say rượu, bia khi đến Trường; Hút thuốc lá/thuốc lá điện tử trong Trường bị xử lý gì",info
+"Uống rượu, bia trong khuôn viên Trường; say rượu, bia khi đến Trường; Hút thuốc lá/thuốc lá điện tử trong Trường bị xử lý ra sao",info
+Uống rượu bia trong khuôn viên trường bị xử lý như thế nào,info
+Uống rượu bia trong khuôn viên trường bị xử lý gì,info
+Uống rượu bia trong khuôn viên trường bị xử lý ra sao,info
+Say rượu bia khi đến trường bị xử lý như thế nào,info
+Say rượu bia khi đến trường bị xử lý gì,info
+Say rượu bia khi đến trường bị xử lý ra sao,info
+Hút thuốc lá trong trường bị xử lý như thế nào,info
+Hút thuốc lá trong trường bị xử lý gì,info
+Hút thuốc lá trong trường bị xử lý ra sao,info
+Hút thuốc lá điện tử trong trường bị xử lý như thế nào,info
+Hút thuốc lá điện tử trong trường bị xử lý gì,info
+Hút thuốc lá điện tử trong trường bị xử lý ra sao,info
+Tự ý tạm dừng số điện thoại liên lạc của người khác bị xử lý như thế nào,info
+Tự ý tạm dừng số điện thoại liên lạc của người khác bị xử lý gì,info
+Tự ý tạm dừng số điện thoại liên lạc của người khác bị xử lý ra sao,info
+Tự ý sử dụng thông tin của người khác khi chưa được sự đồng ý bị xử lý như thế nào,info
+Tự ý sử dụng thông tin của người khác khi chưa được sự đồng ý bị xử lý gì,info
+Tự ý sử dụng thông tin của người khác khi chưa được sự đồng ý bị xử lý ra sao,info
+"Đưa phần tử xấu vào trong trường gây ảnh hưởng xấu đến an ninh, trật tự trong nhà trường hoặc dẫn bạn vào trường mà không liên hệ bảo vệ, giám thị xin phép bị xử lý như thế nào",info
+"Đưa phần tử xấu vào trong trường gây ảnh hưởng xấu đến an ninh, trật tự trong nhà trường hoặc dẫn bạn vào trường mà không liên hệ bảo vệ, giám thị xin phép bị xử lý gì",info
+"Đưa phần tử xấu vào trong trường gây ảnh hưởng xấu đến an ninh, trật tự trong nhà trường hoặc dẫn bạn vào trường mà không liên hệ bảo vệ, giám thị xin phép bị xử lý ra sao",info
+"Đưa phần tử xấu vào trong trường gây ảnh hưởng xấu đến an ninh, trật tự trong nhà trường bị xử lý như thế nào",info
+"Đưa phần tử xấu vào trong trường gây ảnh hưởng xấu đến an ninh, trật tự trong nhà trường bị xử lý gì",info
+"Đưa phần tử xấu vào trong trường gây ảnh hưởng xấu đến an ninh, trật tự trong nhà trường bị xử lý ra sao",info
+"Dẫn bạn vào trường mà không liên hệ bảo vệ, giám thị xin phép bị xử lý như thế nào",info
+"Dẫn bạn vào trường mà không liên hệ bảo vệ, giám thị xin phép bị xử lý gì",info
+"Dẫn bạn vào trường mà không liên hệ bảo vệ, giám thị xin phép bị xử lý ra sao",info
+Điều khiển xe máy chở quá số người quy định vào trường bị xử lý như thế nào,info
+Điều khiển xe máy chở quá số người quy định vào trường bị xử lý gì,info
+Điều khiển xe máy chở quá số người quy định vào trường bị xử lý ra sao,info
+Ngồi trên xe máy chở quá số người quy định trong trường bị xử lý như thế nào,info
+Ngồi trên xe máy chở quá số người quy định trong trường bị xử lý gì,info
+Ngồi trên xe máy chở quá số người quy định trong trường bị xử lý như thế nào,info
+Nghịch phá và vi phạm nguyên tắc an toàn cháy nổ trong trường bị xử lý như thế nào,info
+Nghịch phá và vi phạm nguyên tắc an toàn cháy nổ trong trường bị xử lý gì,info
+Nghịch phá và vi phạm nguyên tắc an toàn cháy nổ trong trường bị xử lý ra sao,info
+"Gây rối an ninh, gây mất trật tự trong trường bị xử lý như thế nào",info
+"Gây rối an ninh, gây mất trật tự trong trường bị xử lý gì",info
+"Gây rối an ninh, gây mất trật tự trong trường bị xử lý ra sao",info
+Gây rối an ninh trong trường bị xử lý như thế nào,info
+Gây rối an ninh trong trường bị xử lý gì,info
+Gây rối an ninh trong trường bị xử lý ra sao,info
+Gây mất trật tự trong trường bị xử lý như thế nào,info
+Gây mất trật tự trong trường bị xử lý gì,info
+Gây mất trật tự trong trường bị xử lý ra sao,info
+Phá hoại cây xanh trong trường bị xử lý như thế nào,info
+Phá hoại cây xanh trong trường bị xử lý gì,info
+Phá hoại cây xanh trong trường bị xử lý ra sao,info
+Bắt chim chóc trong trường bị xử lý như thế nào,info
+Bắt chim chóc trong trường bị xử lý gì,info
+Bắt chim chóc trong trường bị xử lý ra sao,info
+Phá tổ chim trong trường bị xử lý như thế nào,info
+Phá tổ chim trong trường bị xử lý gì,info
+Phá tổ chim trong trường bị xử lý ra sao,info
+Bắt tổ chim trong trường bị xử lý như thế nào,info
+Bắt tổ chim trong trường bị xử lý gì,info
+Bắt tổ chim trong trường bị xử lý ra sao,info
+Đá banh trong lớp học bị xử lý như thế nào,info
+Đá banh trong lớp học bị xử lý gì,info
+Đá banh trong lớp học bị xử lý ra sao,info
+Đá cầu trong lớp học bị xử lý như thế nào,info
+Đá cầu trong lớp học bị xử lý gì,info
+Đá cầu trong lớp học bị xử lý ra sao,info
+Đá banh hành lang trường bị xử lý như thế nào,info
+Đá banh hành lang trường bị xử lý gì,info
+Đá banh hành lang trường bị xử lý ra sao,info
+Đá cầu ở vườn hoa trường bị xử lý như thế nào,info
+Đá cầu ở vườn hoa trường bị xử lý gì,info
+Đá cầu ở vườn hoa trường bị xử lý ra sao,info
+Đùa giỡn gây nguy hiểm cho người khác bị xử lý như thế nào ,info
+Đùa giỡn gây nguy hiểm cho người khác bị xử lý gì,info
+Đùa giỡn gây nguy hiểm cho người khác bị xử lý ra sao,info
+Đá cầu ở sân thượng trường bị xử lý như thế nào,info
+Đá cầu ở sân thượng trường bị xử lý gì,info
+Đá cầu ở sân thượng trường bị xử lý ra sao,info
+"Nói to, la lớn trong khuôn viên trường bị xử lý như thế nào",info
+"Nói to, la lớn trong khuôn viên trường bị xử lý gì",info
+"Nói to, la lớn trong khuôn viên trường bị xử lý ra sao",info
+Nói to trong khuôn viên trường bị xử lý như thế nào,info
+Nói to trong khuôn viên trường bị xử lý gì,info
+Nói to trong khuôn viên trường bị xử lý ra sao,info
+La lớn trong khuôn viên trường bị xử lý như thế nào,info
+La lớn trong khuôn viên trường bị xử lý gì,info
+La lớn trong khuôn viên trường bị xử lý ra sao,info
+"Tụ tập trước giảng đường, phòng học đang có người học bị xử lý như thế nào",info
+"Tụ tập trước giảng đường, phòng học đang có người học bị xử lý gì",info
+"Tụ tập trước giảng đường, phòng học đang có người học bị xử lý ra sao",info
+Tụ tập trước giảng đường đang có người học bị xử lý như thế nào,info
+Tụ tập trước giảng đường đang có người học bị xử lý gì,info
+Tụ tập trước giảng đường đang có người học bị xử lý ra sao,info
+Tụ tập trước phòng học đang có người học bị xử lý như thế nào,info
+Tụ tập trước phòng học đang có người học bị xử lý gì,info
+Tụ tập trước phòng học đang có người học bị xử lý ra sao,info
+Đi vào khu vực sinh viên không được phép vào bị xử lý như thế nào,info
+Đi vào khu vực sinh viên không được phép vào bị xử lý gì,info
+Đi vào khu vực sinh viên không được phép vào bị xử lý ra sao,info
+"Treo áp phích, băng rôn trong trường mà chưa được sự đồng ý của nhà trường bị xử lý như thế nào",info
+"Treo áp phích, băng rôn trong trường mà chưa được sự đồng ý của nhà trường bị xử lý gì",info
+"Treo áp phích, băng rôn trong trường mà chưa được sự đồng ý của nhà trường bị xử lý ra sao",info
+Phát tờ rơi trong trường mà chưa được sự đồng ý của nhà trường bị xử lý như thế nào,info
+Phát tờ rơi trong trường mà chưa được sự đồng ý của nhà trường bị xử lý gì,info
+Phát tờ rơi trong trường mà chưa được sự đồng ý của nhà trường bị xử lý ra sao,info
+Buôn bán dưới mọi hình thức mà chưa được sự đồng ý của nhà trường bị xử lý như thế nào,info
+Buôn bán dưới mọi hình thức mà chưa được sự đồng ý của nhà trường bị xử lý gì,info
+Buôn bán dưới mọi hình thức mà chưa được sự đồng ý của nhà trường bị xử lý ra sao,info
+Cố tình nộp chậm học phí mà không có lý do chính đáng bị xử lý như thế nào,info
+Cố tình nộp chậm học phí mà không có lý do chính đáng bị xử lý gì,info
+Cố tình nộp chậm học phí mà không có lý do chính đáng bị xử lý ra sao,info
+Không nộp học phí theo quy định nhà trường mà không có lý do chính đáng bị xử lý như thế nào,info
+Không nộp học phí theo quy định nhà trường mà không có lý do chính đáng bị xử lý gì,info
+Không nộp học phí theo quy định nhà trường mà không có lý do chính đáng bị xử lý ra sao,info
+Không nộp bảo hiểm y tế mà không có lý do chính đáng bị xử lý như thế nào,info
+Không nộp bảo hiểm y tế mà không có lý do chính đáng bị xử lý gì,info
+Không nộp bảo hiểm y tế mà không có lý do chính đáng bị xử lý ra sao,info
+Đánh bạc trong trường bị xử lý như thế nào,info
+Đánh bạc trong trường bị xử lý gì,info
+Đánh bạc trong trường bị xử lý ra sao,info
+Đánh bạc dưới mọi hình thức trong trường bị xử lý như thế nào,info
+Đánh bạc dưới mọi hình thức trong trường bị xử lý gì,info
+Đánh bạc dưới mọi hình thức trong trường bị xử lý ra sao,info
+Xem đánh bài trong trường mà không báo với đơn vị chức năng bị xử lý như thế nào,info
+Xem đánh bài trong trường mà không báo với đơn vị chức năng bị xử lý gì,info
+Xem đánh bài trong trường mà không báo với đơn vị chức năng bị xử lý ra sao,info
+Xem đánh bài trong trường bị xử lý như thế nào,info
+Xem đánh bài trong trường bị xử lý gì,info
+Xem đánh bài trong trường bị xử lý ra sao,info
+Đánh nhau trong trường bị xử lý như thế nào,info
+Đánh nhau trong trường bị xử lý gì,info
+Đánh nhau trong trường bị xử lý ra sao,info
+Tổ chức đánh nhau trong trường bị xử lý như thế nào,info
+Tổ chức đánh nhau trong trường bị xử lý gì,info
+Tổ chức đánh nhau trong trường bị xử lý ra sao,info
+Tham gia tổ chức đánh nhau trong trường bị xử lý như thế nào,info
+Tham gia tổ chức đánh nhau trong trường bị xử lý gì,info
+Tham gia tổ chức đánh nhau trong trường bị xử lý ra sao,info
+Tham gia đánh nhau trong trường bị xử lý như thế nào,info
+Tham gia đánh nhau trong trường bị xử lý gì,info
+Tham gia đánh nhau trong trường bị xử lý ra sao,info
+Chủ động tấn công người khác trong trường bị xử lý như thế nào,info
+Chủ động tấn công người khác trong trường bị xử lý gì,info
+Chủ động tấn công người khác trong trường bị xử lý ra sao,info
+Nhặt được của rơi không liên hệ các bộ phận để trả lại người mất bị xử lý như thế nào,info
+Nhặt được của rơi không liên hệ các bộ phận để trả lại người mất bị xử lý gì,info
+Nhặt được của rơi không liên hệ các bộ phận để trả lại người mất bị xử lý ra sao,info
+Phát hiện nhặt được của rơi mà không trả lại người mất bị xử lý như thế nào,info
+Phát hiện nhặt được của rơi mà không trả lại người mất bị xử lý gì,info
+Phát hiện nhặt được của rơi mà không trả lại người mất bị xử lý ra sao,info
+Tham gia các hoạt động mang tính chất chính trị trái pháp luật bị xử lý như thế nào,info
+Tham gia các hoạt động mang tính chất chính trị trái pháp luật bị xử lý gì,info
+Tham gia các hoạt động mang tính chất chính trị trái pháp luật bị xử lý ra sao,info
+Thành lập các hoạt động mang tính chất chính trị trái pháp luật bị xử lý như thế nào,info
+Thành lập các hoạt động mang tính chất chính trị trái pháp luật bị xử lý gì,info
+Thành lập các hoạt động mang tính chất chính trị trái pháp luật bị xử lý ra sao,info
+"Tổ chức, tham gia các hoạt động tập thể mang danh nghĩa nhà trường khi chưa được nhà trường cho phép bị xử lý như thế nào",info
+"Tổ chức, tham gia các hoạt động tập thể mang danh nghĩa nhà trường khi chưa được nhà trường cho phép bị xử lý gì",info
+"Tổ chức, tham gia các hoạt động tập thể mang danh nghĩa nhà trường khi chưa được nhà trường cho phép bị xử lý ra sao",info
+Tổ chức các hoạt động tập thể mang danh nghĩa nhà trường khi chưa được nhà trường cho phép bị xử lý như thế nào,info
+Tổ chức các hoạt động tập thể mang danh nghĩa nhà trường khi chưa được nhà trường cho phép bị xử lý gì,info
+Tổ chức các hoạt động tập thể mang danh nghĩa nhà trường khi chưa được nhà trường cho phép bị xử lý ra sao,info
+Tham gia các hoạt động tập thể mang danh nghĩa nhà trường khi chưa được nhà trường cho phép bị xử lý như thế nào,info
+Tham gia các hoạt động tập thể mang danh nghĩa nhà trường khi chưa được nhà trường cho phép bị xử lý gì,info
+Tham gia các hoạt động tập thể mang danh nghĩa nhà trường khi chưa được nhà trường cho phép bị xử lý ra sao,info
+Tàng trữ các sản phẩm đồi trụy bị xử lý như thế nào,info
+Tàng trữ các sản phẩm đồi trụy bị xử lý gì,info
+Tàng trữ các sản phẩm đồi trụy bị xử lý ra sao,info
+Sử dụng các sản phẩm đồi trụy bị xử lý như thế nào,info
+Sử dụng các sản phẩm đồi trụy bị xử lý gì,info
+Sử dụng các sản phẩm đồi trụy bị xử lý ra sao,info
+"Truy cập, sử dụng các sản phẩm đồi trụy bị xử lý như thế nào",info
+"Truy cập, sử dụng các sản phẩm đồi trụy bị xử lý gì",info
+"Truy cập, sử dụng các sản phẩm đồi trụy bị xử lý ra sao",info
+Tham gia các hoạt động mê tín dị đoan trong trường bị xử lý như thế nào,info
+Tham gia các hoạt động mê tín dị đoan trong trường bị xử lý gì,info
+Tham gia các hoạt động mê tín dị đoan trong trường bị xử lý ra sao,info
+Tham gia hoạt động tôn giáo trái phép trong trường bị xử lý như thế nào,info
+Tham gia hoạt động tôn giáo trái phép trong trường bị xử lý gì,info
+Tham gia hoạt động tôn giáo trái phép trong trường bị xử lý ra sao,info
+Buôn bán ma túy trong trường bị xử lý như thế nào,info
+Buôn bán ma túy trong trường bị xử lý gì,info
+Buôn bán ma túy trong trường bị xử lý ra sao,info
+Tàng trữ ma túy trong trường bị xử lý như thế nào,info
+Tàng trữ ma túy trong trường bị xử lý gì,info
+Tàng trữ ma túy trong trường bị xử lý ra sao,info
+Lôi kéo người khác sử dụng ma túy bị xử lý như thế nào,info
+Lôi kéo người khác sử dụng ma túy bị xử lý gì,info
+Lôi kéo người khác sử dụng ma túy bị xử lý ra sao,info
+Vận chuyển ma túy bị xử lý như thế nào,info
+Vận chuyển ma túy bị xử lý gì,info
+Vận chuyển ma túy bị xử lý ra sao,info
+Sử dụng ma túy trong trường bị xử lý như thế nào,info
+Sử dụng ma túy trong trường bị xử lý gì,info
+Sử dụng ma túy trong trường bị xử lý ra sao,info
+Buôn bán vũ khí trong trường bị xử lý như thế nào,info
+Buôn bán vũ khí trong trường bị xử lý gì,info
+Buôn bán vũ khí trong trường bị xử lý ra sao,info
+Buôn bán chất nổ trong trường bị xử lý như thế nào,info
+Buôn bán chất nổ trong trường bị xử lý gì,info
+Buôn bán chất nổ trong trường bị xử lý ra sao,info
+Buôn bán hàng cấm trong trường bị xử lý như thế nào,info
+Buôn bán hàng cấm trong trường bị xử lý gì,info
+Buôn bán hàng cấm trong trường bị xử lý ra sao,info
+Buôn bán chất dễ cháy trong trường bị xử lý như thế nào,info
+Buôn bán chất dễ cháy trong trường bị xử lý gì,info
+Buôn bán chất dễ cháy trong trường bị xử lý ra sao,info
+"Kích động, lôi kéo người khác biểu tình trong trường bị xử lý như thế nào",info
+"Kích động, lôi kéo người khác biểu tình trong trường bị xử lý gì ",info
+"Kích động, lôi kéo người khác biểu tình trong trường bị xử lý ra sao",info
+Viết truyền đơn trái pháp luật trong trường bị xử lý như thế nào,info
+Viết truyền đơn trái pháp luật trong trường bị xử lý gì,info
+Viết truyền đơn trái pháp luật trong trường bị xử lý ra sao,info
+Viết áp phích trái pháp luật trong trường bị xử lý như thế nào,info
+Viết áp phích trái pháp luật trong trường bị xử lý gì,info
+Viết áp phích trái pháp luật trong trường bị xử lý ra sao,info
+"Đăng tải bài viết có nội dung dung tục, bạo lực trên mạng internet bị xử lý như thế nào",info
+"Đăng tải bài viết có nội dung dung tục, bạo lực trên mạng internet bị xử lý gì",info
+"Đăng tải bài viết có nội dung dung tục, bạo lực trên mạng internet bị xử lý ra sao",info
+Đăng tải hình ảnh có nội dung đồi trụy trên mạng internet bị xử lý như thế nào,info
+Đăng tải hình ảnh có nội dung đồi trụy trên mạng internet bị xử lý gì,info
+Đăng tải hình ảnh có nội dung đồi trụy trên mạng internet bị xử lý ra sao,info
+Đăng tải bài viết có nội dung chống phá đảng và nhà nước bị xử lý như thế nào,info
+Đăng tải bài viết có nội dung chống phá đảng và nhà nước bị xử lý gì,info
+Đăng tải bài viết có nội dung chống phá đảng và nhà nước bị xử lý ra sao,info
+Xúc phạm danh dự của cá nhân bị xử lý như thế nào,info
+Xúc phạm danh dự của cá nhân bị xử lý gì,info
+Xúc phạm danh dự của cá nhân bị xử lý ra sao,info
+Xúc phạm uy tín của tổ chức trên mạng internet bị xử lý như thế nào,info
+Xúc phạm uy tín của tổ chức trên mạng internet bị xử lý gì,info
+Xúc phạm uy tín của tổ chức trên mạng internet bị xử lý ra sao,info
+Xúc phạm nhân phẩm của cá nhân trên mạng internet bị xử lý như thế nào,info
+Xúc phạm nhân phẩm của cá nhân trên mạng internet bị xử lý gì,info
+Xúc phạm nhân phẩm của cá nhân trên mạng internet bị xử lý ra sao,info
+Vi phạm pháp luật và có văn bản của cơ quan chức năng gửi về trường yêu cầu nhà trường xử lý bị xử lý như thế nào,info
+Vi phạm pháp luật và có văn bản của cơ quan chức năng gửi về trường yêu cầu nhà trường xử lý bị xử lý gì,info
+Vi phạm pháp luật và có văn bản của cơ quan chức năng gửi về trường yêu cầu nhà trường xử lý bị xử lý ra sao,info
+Slogan của TDTU là gì,info
+Slogan của tôn đức thắng là gì,info
+Slogan của trường tôn đức thắng là gì ,info
+Slogan của TDT là gì,info
+Linh vật của TDTU là gì,info
+Linh vật của tôn đức thắng là gì,info
+Linh vật của trường tôn đức thắng là gì ,info
+Linh vật của TDT là gì,info
+Mascot của TDTU là gì,info
+Mascot của tôn đức thắng là gì,info
+Mascot của trường tôn đức thắng là gì ,info
+Mascot của TDT là gì,info
+"Đặc điểm nhận diện giảng viên, viên chức TDTU",info
+"Đặc điểm nhận diện giảng viên, viên chức TDTU là gì",info
+Đặc điểm nhận diện sinh viên TDTU,info
+Đặc điểm nhận diện sinh viên TDTU là gì,info
+Chào bạn,greeting
+Chào,greeting
+Hello bạn,greeting
+hello,greeting
+Hello,greeting
+Chào bạn nha,greeting
+Xin chào,greeting
+Chào chatbot,greeting
+Bye,end
+Tạm biệt,end
+Cảm ơn,end
+ok bạn,end
+ok nha,end
+bye nha,end
+Cảm ơn rất nhiều,end

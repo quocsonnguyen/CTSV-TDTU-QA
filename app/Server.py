@@ -1,11 +1,37 @@
 from flask import Flask, request, render_template
 import numpy as np
+import pandas as pd
 import collections
 import torch
 import json
+from gensim.models import Word2Vec
+import pickle
 
 from rank_bm25 import BM25Okapi
 from transformers import BasicTokenizer ,AutoTokenizer, AutoModelForQuestionAnswering
+
+def sum_vector(vec_list):
+  sum = np.zeros(20)
+  for vec in vec_list:
+    sum = sum + vec
+
+  return sum.reshape(1,20)
+
+def get_intent(text):
+    greeting_words = ['Chào', 'chào', 'hi', 'Hi', 'Hello', 'hello', 'Hello bạn', 'hello bạn']
+    for word in greeting_words:
+        if word in text:
+            return 'greeting'
+    
+    text_vectorize = []
+    for word in text.split():
+        try:
+            text_vectorize.append(modelw2v.wv[word].reshape(1,20))
+        except:
+            continue
+  
+    vec = sum_vector(text_vectorize)
+    return cls.predict(vec)[0]
 
 def get_final_text(pred_text, orig_text, do_lower_case, verbose_logging=False):
     """Project the tokenized prediction back to the original text."""
@@ -101,12 +127,27 @@ def get_final_text(pred_text, orig_text, do_lower_case, verbose_logging=False):
     return output_text
 
 def search_context(question):
-    score = np.sum(bm25.get_scores(question.split()))
-    if score <= 5:
+    doc_scores = question_bm25.get_scores(question.split())
+    max_score = np.amax(doc_scores)
+    if max_score <= 12:
         return -1
-    return bm25.get_top_n(question.split(), CONTEXTS, n=1)[0]
+    return context_bm25.get_top_n(question.split(), CONTEXTS, n=1)[0]
 
-def answer_the_question(question, context):
+def get_answer_step1(question):
+    if 'lần' in question:
+        return -1
+
+    doc_scores = question_bm25.get_scores(question.split())
+
+    max_score = np.amax(doc_scores)
+    if max_score <= 12:
+        return -1
+    
+    target_index = np.argmax(doc_scores)
+    
+    return ANSWERS[target_index]
+
+def get_answer_step2(question, context):
     inputs = tokenizer.encode_plus(question, context, return_tensors="pt")
 
     output = model(**inputs)
@@ -121,7 +162,6 @@ def answer_the_question(question, context):
 
 # flask config
 app = Flask(__name__, template_folder='templates', static_folder='assets')
-app.config['SECRET_KEY'] = "monn monn"
 
 @app.route('/')
 def index():
@@ -131,28 +171,60 @@ def index():
 @app.route('/api/get_answer', methods=["POST"])
 def get_answer():
     question = request.form["question"]
+    intent = get_intent(question)
 
-    try:
-        context = search_context(question)
-        if context == -1:
+    print(intent)
+
+    if (intent == 'greeting'):
+        return {
+            "code" : 0,
+            "answer" : 'Xin chào, bạn muốn hỏi điều gì ?'
+        }
+
+    elif (intent == 'end'):
+        return {
+            "code" : 0,
+            "answer" : 'Chúc bạn có một ngày tốt lành!'
+        }
+
+    answer = get_answer_step1(question)
+    
+    if answer == -1:
+        try:
+            print('step2')
+            context = search_context(question)
+            if context == -1:
+                return {
+                    "code" : -1,
+                    "answer" : "Xin lỗi tôi không thể trả lời câu hỏi này"
+                }  
+        except:
             return {
                 "code" : -1,
                 "answer" : "Xin lỗi tôi không thể trả lời câu hỏi này"
-            }  
-    except:
+            }
+
+        answer = get_answer_step2(question, context)
+        
         return {
-            "code" : -1,
-            "answer" : "Xin lỗi tôi không thể trả lời câu hỏi này"
+            "code" : 0,
+            "answer" : answer
         }
-
-    answer = answer_the_question(question, context)
-
-    return {
-        "code" : 0,
-        "answer" : answer
-    }
+    else:
+        return {
+            "code" : 0,
+            "answer" : answer
+        }    
 
 if __name__ == '__main__':
+    df = pd.read_csv('./data/data_specify.csv')
+    QUESTIONS = df['CauHoi'].tolist()
+    ANSWERS = df['CauTraLoi'].tolist()
+    tokenized_questions = [q.split() for q in QUESTIONS]
+    question_bm25 = BM25Okapi(tokenized_questions)
+    modelw2v = Word2Vec(sentences=tokenized_questions, vector_size=20, window=5, sg=1, min_count=2)
+
+    cls = pickle.load(open('./model/intent_cls.sav', 'rb'))
 
     # load corpus
     corpus_file = "./data/data.json"
@@ -166,7 +238,7 @@ if __name__ == '__main__':
     tokenized_contexts = [context.split() for context in CONTEXTS]
 
     # Load BM25 for searching context
-    bm25 = BM25Okapi(tokenized_contexts)
+    context_bm25 = BM25Okapi(tokenized_contexts)
 
     # load the fine-tuned model
     tokenizer = AutoTokenizer.from_pretrained("./model")
